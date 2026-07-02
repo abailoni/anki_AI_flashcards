@@ -15,6 +15,7 @@ class Word:
     pos: list[str]
     gender: str | None
     gloss: list[str]
+    freq: float
 
 
 @dataclass(frozen=True)
@@ -39,6 +40,7 @@ def load_words(path: Path) -> list[Word]:
                 pos=_split(row["pos"]),
                 gender=row["gender"] or None,
                 gloss=_split(row["gloss"]),
+                freq=float(row["freq"]),
             )
             for row in csv.DictReader(f)
         ]

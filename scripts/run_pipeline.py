@@ -20,14 +20,18 @@ from dutch_cards.pipeline import (
 )
 from dutch_cards.report import write_report, write_results_json
 
-WORDS_PATH = Path("data/fixtures/words_partial.csv")
-EXAMPLES_PATH = Path("data/fixtures/examples_partial.csv")
+WORDS_PATH = Path("data/words.csv")
+EXAMPLES_PATH = Path("data/examples.csv")
+MIN_FREQ = 35
+BAND_LIMIT = 50
 
 
 def main() -> None:
-    words = load_words(WORDS_PATH)
+    all_words = load_words(WORDS_PATH)
     examples = load_examples(EXAMPLES_PATH)
-    known = known_set(words)
+    band = sorted((w for w in all_words if w.freq > MIN_FREQ), key=lambda w: -w.freq)
+    known = known_set(band)  # whole band counts as mutually known, not just this round's cards
+    words = band[:BAND_LIMIT]
     by_id = {w.id: w for w in words}
 
     state = load_state()

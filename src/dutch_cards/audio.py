@@ -7,7 +7,7 @@ import urllib.request
 from pathlib import Path
 
 CACHE_DIR = Path("data/audio_cache")
-MAX_CHARS_PER_RUN = 2000  # ponytail: conservative default; free tier is tight
+MAX_CHARS_PER_RUN = 3000  # ponytail: conservative default; free tier is tight
 
 # ponytail: the 6 native nl-NL voices the user added to their voice library
 # can't be used -- ElevenLabs free tier blocks API access to library voices
