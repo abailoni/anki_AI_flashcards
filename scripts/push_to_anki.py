@@ -65,9 +65,14 @@ def main() -> None:
     translations = json.loads(TRANSLATIONS_PATH.read_text(encoding="utf-8"))
 
     cloze_notes, listening_notes, excluded = [], [], []
+    seen_sentences = set()  # a few words landed on the same generated carrier
+    # sentence; a listening card is per-sentence, so a second identical card
+    # (same audio, same back) adds nothing -- keep only the first (ponytail)
     for w in results:
         tr = translations[w["word_id"]]
-        listening_notes.append(build_listening_note(w["sentence_nl"], tr["en"], tr["it"]))
+        if w["sentence_nl"] not in seen_sentences:
+            seen_sentences.add(w["sentence_nl"])
+            listening_notes.append(build_listening_note(w["sentence_nl"], tr["en"], tr["it"]))
         cloze_fields = build_cloze_note(w, w["sentence_nl"], tr["en"], tr["it"])
         if cloze_fields is None:
             excluded.append(w["lemma"])
