@@ -1,0 +1,2324 @@
+{
+  "words": [
+    {
+      "word_id": "core_000001",
+      "lemma": "de",
+      "pos": [
+        "article"
+      ],
+      "gloss": [
+        "the"
+      ],
+      "gender": null,
+      "sentence_nl": "De man werkt hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000002",
+      "lemma": "en",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "and"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik zie de man en de vrouw.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000003",
+      "lemma": "in",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "in"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij zijn in het land.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000004",
+      "lemma": "van",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "of"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is het werk van de man.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000005",
+      "lemma": "op",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "on"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij staat op de plaats.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000006",
+      "lemma": "zijn",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to be"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij zijn hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000007",
+      "lemma": "het",
+      "pos": [
+        "article",
+        "pron"
+      ],
+      "gloss": [
+        "the",
+        "it"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is een goed jaar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000008",
+      "lemma": "een",
+      "pos": [
+        "article"
+      ],
+      "gloss": [
+        "a"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft een kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000009",
+      "lemma": "voor",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "for",
+        "in front of"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is goed voor het kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000010",
+      "lemma": "die",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "that, those",
+        "that, who"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik zie de vrouw die daar staat.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000011",
+      "lemma": "met",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "with"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij gaat met haar mee.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000012",
+      "lemma": "te",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "to"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is tijd om te gaan.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000013",
+      "lemma": "hebben",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to have"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij hebben een kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000014",
+      "lemma": "niet",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "not"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is niet mogelijk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000015",
+      "lemma": "aan",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "to"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij denkt aan haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000016",
+      "lemma": "ook",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "also"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij komt ook.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000017",
+      "lemma": "er",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "there"
+      ],
+      "gender": null,
+      "sentence_nl": "Er zijn veel mensen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000018",
+      "lemma": "als",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "when"
+      ],
+      "gender": null,
+      "sentence_nl": "Als hij komt, gaan we.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000019",
+      "lemma": "veel",
+      "pos": [
+        "number"
+      ],
+      "gloss": [
+        "much"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft veel tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000020",
+      "lemma": "kunnen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to be able"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij kunnen dat doen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000021",
+      "lemma": "dat",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "that"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij zegt dat hij komt.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000022",
+      "lemma": "om",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "(a)round"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt om die tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000023",
+      "lemma": "worden",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to be"
+      ],
+      "gender": null,
+      "sentence_nl": "Het kind wordt groot.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000024",
+      "lemma": "dat",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "that"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is mijn werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000025",
+      "lemma": "nog",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "still"
+      ],
+      "gender": null,
+      "sentence_nl": "Ze is nog jong.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000026",
+      "lemma": "maar",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "but"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik wil gaan, maar ik kan niet.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000027",
+      "lemma": "bij",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "near (to)"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij is bij haar man.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000028",
+      "lemma": "zij",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "she",
+        "they"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij komt nu.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000029",
+      "lemma": "naar",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "to"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij gaan naar het land.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000030",
+      "lemma": "uit",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "from"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt uit het land.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000031",
+      "lemma": "gaan",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to go"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij gaan naar het werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000032",
+      "lemma": "komen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to come"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij komt elke dag.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000033",
+      "lemma": "zullen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "will"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij zullen dat doen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000034",
+      "lemma": "of",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "or"
+      ],
+      "gender": null,
+      "sentence_nl": "Gaat hij of blijft hij?",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000035",
+      "lemma": "over",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "over",
+        "about"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij denkt over het werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000036",
+      "lemma": "moeten",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to have to, must"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik moet nu gaan.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000037",
+      "lemma": "door",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "through"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij loopt door het land.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000038",
+      "lemma": "al",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "already"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is er al.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000039",
+      "lemma": "geen",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "no"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik heb geen tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000040",
+      "lemma": "dan",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "then"
+      ],
+      "gender": null,
+      "sentence_nl": "Eerst dit, dan dat.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000041",
+      "lemma": "goed",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "good"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is goed werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000042",
+      "lemma": "wel",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "rather"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik denk het wel.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000043",
+      "lemma": "maken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to make",
+        "to repair"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij maakt het werk af.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000044",
+      "lemma": "tot",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "to"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij werken tot die tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000045",
+      "lemma": "hij",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "he"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is een goede man.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000046",
+      "lemma": "wat",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "what"
+      ],
+      "gender": null,
+      "sentence_nl": "We hebben gedaan wat we moesten doen.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000047",
+      "lemma": "zo",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "so"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is zo goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000048",
+      "lemma": "nu",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "now"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij gaan nu.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000049",
+      "lemma": "zijn",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "his"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is zijn werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000050",
+      "lemma": "jaar",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "year"
+      ],
+      "gender": "het",
+      "sentence_nl": "Dit jaar is goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000051",
+      "lemma": "ander",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "other"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij ziet een andere vrouw.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000052",
+      "lemma": "doen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to do"
+      ],
+      "gender": null,
+      "sentence_nl": "Zou ik dat ook hebben gedaan?",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000053",
+      "lemma": "dit",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "this"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is mijn kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000054",
+      "lemma": "willen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to want"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik wil dat weten.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000055",
+      "lemma": "zich",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "herself, himself, itself, themselves"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij denkt alleen aan zich.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000056",
+      "lemma": "staan",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to stand"
+      ],
+      "gender": null,
+      "sentence_nl": "De drie kinderen staan naast haar.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000057",
+      "lemma": "zien",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to see"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik zie een man en een vrouw.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000058",
+      "lemma": "zeggen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to say"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij zegt dat het goed is.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000059",
+      "lemma": "krijgen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to get"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij krijgt een kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000060",
+      "lemma": "wij",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "we"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij gaan samen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000061",
+      "lemma": "groot",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "big",
+        "great"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is een groot land.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000062",
+      "lemma": "na",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "after"
+      ],
+      "gender": null,
+      "sentence_nl": "Na dit jaar komt een ander jaar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000063",
+      "lemma": "hun",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "their",
+        "(to) them"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is hun werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000064",
+      "lemma": "ik",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "I"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik ben hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000065",
+      "lemma": "deze",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "this, these"
+      ],
+      "gender": null,
+      "sentence_nl": "Deze week is goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000066",
+      "lemma": "daar",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "there"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij staat daar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000067",
+      "lemma": "jij",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "you"
+      ],
+      "gender": null,
+      "sentence_nl": "Jij gaat naar het werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000068",
+      "lemma": "vinden",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to find"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik vind dit goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000069",
+      "lemma": "laten",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to let"
+      ],
+      "gender": null,
+      "sentence_nl": "Laat mij dat doen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000070",
+      "lemma": "al",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "all"
+      ],
+      "gender": null,
+      "sentence_nl": "Al het werk is af.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000071",
+      "lemma": "tegen",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "against, towards"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij is tegen het werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000072",
+      "lemma": "twee",
+      "pos": [
+        "num"
+      ],
+      "gloss": [
+        "two"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik heb twee kinderen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000073",
+      "lemma": "een",
+      "pos": [
+        "num"
+      ],
+      "gloss": [
+        "one"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft een kind, niet twee.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000074",
+      "lemma": "heel",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "whole"
+      ],
+      "gender": null,
+      "sentence_nl": "Het hele jaar was goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000075",
+      "lemma": "geven",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to give"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij geeft het kind een hand.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000076",
+      "lemma": "blijven",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to remain"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij blijven hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000077",
+      "lemma": "waar",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "where"
+      ],
+      "gender": null,
+      "sentence_nl": "Waar is de vrouw?",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000078",
+      "lemma": "toch",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "yet"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt toch niet.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000079",
+      "lemma": "ons",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "us",
+        "our"
+      ],
+      "gender": null,
+      "sentence_nl": "Ze kwam naar ons toe.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000080",
+      "lemma": "onder",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "under"
+      ],
+      "gender": null,
+      "sentence_nl": "Onder de mensen was ook een kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000081",
+      "lemma": "weten",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to know"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik weet het niet.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000082",
+      "lemma": "zitten",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to sit"
+      ],
+      "gender": null,
+      "sentence_nl": "Het kind zit op de plaats.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000083",
+      "lemma": "dan",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "than"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is ouder dan zijn vrouw.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000084",
+      "lemma": "maar",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "but, only, just"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is maar een kind.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000085",
+      "lemma": "mens",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "human"
+      ],
+      "gender": "de",
+      "sentence_nl": "Elke mens werkt.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000086",
+      "lemma": "omdat",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "because"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij blijft omdat hij moet.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000087",
+      "lemma": "alleen",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "alone"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij is niet alleen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000088",
+      "lemma": "nemen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to take"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij neemt het kind mee.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000089",
+      "lemma": "houden",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to hold"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij houdt van hem.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000090",
+      "lemma": "nieuw",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "new"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is een nieuw jaar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000091",
+      "lemma": "mogen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to be allowed"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij mag doen wat ze wil.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000092",
+      "lemma": "weer",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "again"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij ging zitten en hij stond weer op.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000093",
+      "lemma": "tijd",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "time"
+      ],
+      "gender": "de",
+      "sentence_nl": "Ik heb geen tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000094",
+      "lemma": "lang",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "gloss": [
+        "long, tall",
+        "long"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft lang haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000095",
+      "lemma": "af",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "off",
+        "af en toe"
+      ],
+      "gender": null,
+      "sentence_nl": "Het werk is af.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000096",
+      "lemma": "liggen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to lie"
+      ],
+      "gender": null,
+      "sentence_nl": "Het ligt op de plaats.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000097",
+      "lemma": "dus",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "so"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij kan niet komen, dus blijft hij.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000098",
+      "lemma": "haar",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "her",
+        "her (poss)"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik zie haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000099",
+      "lemma": "drie",
+      "pos": [
+        "num"
+      ],
+      "gloss": [
+        "three"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft drie kinderen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000100",
+      "lemma": "tussen",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "between"
+      ],
+      "gender": null,
+      "sentence_nl": "Het ligt tussen de twee dagen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000101",
+      "lemma": "mij",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "me"
+      ],
+      "gender": null,
+      "sentence_nl": "Geef dat aan mij.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000102",
+      "lemma": "eens",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "once",
+        "(not) even"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik was daar eens.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000103",
+      "lemma": "volgen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to follow"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij volgt hem.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000104",
+      "lemma": "dag",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "day"
+      ],
+      "gender": "de",
+      "sentence_nl": "Het was een goede dag.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000105",
+      "lemma": "zelf",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "self"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij doet het zelf.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000106",
+      "lemma": "mijn",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "my"
+      ],
+      "gender": null,
+      "sentence_nl": "Dit is mijn werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000107",
+      "lemma": "zoals",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "as"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij doet het zoals zij.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000108",
+      "lemma": "hem",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "him"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik zie hem.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000109",
+      "lemma": "mee",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "with"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij gaat mee.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000110",
+      "lemma": "iets",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "something"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij wil iets zeggen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000111",
+      "lemma": "hoe",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "how"
+      ],
+      "gender": null,
+      "sentence_nl": "Hoe gaat het?",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000112",
+      "lemma": "denken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to think"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik denk dat het goed is.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000113",
+      "lemma": "zonder",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "without"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij gaat zonder haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000114",
+      "lemma": "want",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "because"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij blijft, want hij moet werken.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000115",
+      "lemma": "hier",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "here"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij zijn hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000116",
+      "lemma": "altijd",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "always"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij is altijd hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000117",
+      "lemma": "te",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "too"
+      ],
+      "gender": null,
+      "sentence_nl": "Het is te veel.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000118",
+      "lemma": "plaats",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "place"
+      ],
+      "gender": "de",
+      "sentence_nl": "Dit is een goede plaats.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000119",
+      "lemma": "enkel",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "a few",
+        "a single"
+      ],
+      "gender": null,
+      "sentence_nl": "Enkel hij weet het.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000120",
+      "lemma": "beginnen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to start"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij beginnen nu.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000121",
+      "lemma": "man",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "man"
+      ],
+      "gender": "de",
+      "sentence_nl": "Die man werkt hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000122",
+      "lemma": "week",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "week"
+      ],
+      "gender": "de",
+      "sentence_nl": "Volgende week gaan wij samen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000123",
+      "lemma": "toe",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "towards"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij loopt naar haar toe.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000124",
+      "lemma": "echt",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "real"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is echt goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000125",
+      "lemma": "keer",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "time, occasion"
+      ],
+      "gender": "de",
+      "sentence_nl": "Dit is de eerste keer.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000126",
+      "lemma": "wie",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "who"
+      ],
+      "gender": null,
+      "sentence_nl": "Weet je wie dat was die je hoorde spelen?",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000127",
+      "lemma": "werken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to work"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij werkt elke dag.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000128",
+      "lemma": "volgens",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "according to"
+      ],
+      "gender": null,
+      "sentence_nl": "Volgens hem is het goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000129",
+      "lemma": "eigen",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "own"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij heeft haar eigen werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000130",
+      "lemma": "vooral",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "especially"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij houdt vooral van haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000131",
+      "lemma": "zelfs",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "even"
+      ],
+      "gender": null,
+      "sentence_nl": "Zelfs hij weet het niet.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000132",
+      "lemma": "stellen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to put",
+        "to ask (a question)"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij stelt dat het waar is.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000133",
+      "lemma": "brengen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to bring"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij brengt het kind mee.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000134",
+      "lemma": "zeker",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "certain"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is er zeker van.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000135",
+      "lemma": "elk",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "each"
+      ],
+      "gender": null,
+      "sentence_nl": "Elk kind speelt.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000136",
+      "lemma": "net",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "just"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is er net.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000137",
+      "lemma": "lopen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to walk"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij loopt naar het werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000138",
+      "lemma": "klein",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "little"
+      ],
+      "gender": null,
+      "sentence_nl": "Het kleine mannetje kon er net niet bij.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000139",
+      "lemma": "nooit",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "never"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt nooit op tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000140",
+      "lemma": "vragen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to ask"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij vroeg aan de man wie hij was.",
+      "source": "dictionary_example"
+    },
+    {
+      "word_id": "core_000141",
+      "lemma": "vallen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to fall"
+      ],
+      "gender": null,
+      "sentence_nl": "Het kind valt.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000142",
+      "lemma": "alles",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "everything"
+      ],
+      "gender": null,
+      "sentence_nl": "Alles is goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000143",
+      "lemma": "terug",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "back"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt terug.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000144",
+      "lemma": "horen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to hear"
+      ],
+      "gender": null,
+      "sentence_nl": "Ik hoor het goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000145",
+      "lemma": "spelen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to play"
+      ],
+      "gender": null,
+      "sentence_nl": "De kinderen spelen samen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000146",
+      "lemma": "uur",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "hour"
+      ],
+      "gender": "het",
+      "sentence_nl": "Het is één uur.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000147",
+      "lemma": "oud",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "old"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is oud.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000148",
+      "lemma": "hoog",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "high"
+      ],
+      "gender": null,
+      "sentence_nl": "De plaats ligt hoog.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000149",
+      "lemma": "even",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "just"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij komt even hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000150",
+      "lemma": "tijdens",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "during"
+      ],
+      "gender": null,
+      "sentence_nl": "Tijdens de week werkt hij veel.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000151",
+      "lemma": "steeds",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "always"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij is steeds hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000152",
+      "lemma": "toen",
+      "pos": [
+        "conj"
+      ],
+      "gloss": [
+        "when"
+      ],
+      "gender": null,
+      "sentence_nl": "Toen hij kwam, was zij er al.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000153",
+      "lemma": "vorig",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "previous"
+      ],
+      "gender": null,
+      "sentence_nl": "Vorig jaar was goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000154",
+      "lemma": "binnen",
+      "pos": [
+        "prep"
+      ],
+      "gloss": [
+        "within"
+      ],
+      "gender": null,
+      "sentence_nl": "Binnen een week is het af.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000155",
+      "lemma": "gewoon",
+      "pos": [
+        "adj",
+        "adv"
+      ],
+      "gloss": [
+        "usual, normal",
+        "normally"
+      ],
+      "gender": null,
+      "sentence_nl": "Dat is heel gewoon.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000156",
+      "lemma": "niets",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "nothing"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij zegt niets.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000157",
+      "lemma": "snel",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "fast"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij loopt snel.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000158",
+      "lemma": "kijken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to look"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij kijkt naar haar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000159",
+      "lemma": "maand",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "month"
+      ],
+      "gender": "de",
+      "sentence_nl": "Volgende maand komt hij terug.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000160",
+      "lemma": "jong",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "young"
+      ],
+      "gender": null,
+      "sentence_nl": "Het kind is jong.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000161",
+      "lemma": "halen",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to get"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij haalt het kind op.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000162",
+      "lemma": "lijken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to seem"
+      ],
+      "gender": null,
+      "sentence_nl": "Het lijkt goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000163",
+      "lemma": "zetten",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to put"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij wil het op de plaats zetten.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000164",
+      "lemma": "blijken",
+      "pos": [
+        "verb"
+      ],
+      "gloss": [
+        "to prove"
+      ],
+      "gender": null,
+      "sentence_nl": "Het blijkt waar te zijn.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000165",
+      "lemma": "toen",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "then"
+      ],
+      "gender": null,
+      "sentence_nl": "Toen was het nog goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000166",
+      "lemma": "weinig",
+      "pos": [
+        "num"
+      ],
+      "gloss": [
+        "little, few"
+      ],
+      "gender": null,
+      "sentence_nl": "Hij heeft weinig tijd.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000167",
+      "lemma": "eerst",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "first"
+      ],
+      "gender": null,
+      "sentence_nl": "Eerst denken, dan doen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000168",
+      "lemma": "elkaar",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "each other"
+      ],
+      "gender": null,
+      "sentence_nl": "Zij houden van elkaar.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000169",
+      "lemma": "mogelijk",
+      "pos": [
+        "adj"
+      ],
+      "gloss": [
+        "possible"
+      ],
+      "gender": null,
+      "sentence_nl": "Is dat mogelijk?",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000170",
+      "lemma": "samen",
+      "pos": [
+        "adv"
+      ],
+      "gloss": [
+        "together"
+      ],
+      "gender": null,
+      "sentence_nl": "Wij werken samen.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000171",
+      "lemma": "kind",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "child"
+      ],
+      "gender": "het",
+      "sentence_nl": "Het kind speelt.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000172",
+      "lemma": "werk",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "work"
+      ],
+      "gender": "het",
+      "sentence_nl": "Dit is goed werk.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000173",
+      "lemma": "land",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "country"
+      ],
+      "gender": "het",
+      "sentence_nl": "Dit land is groot.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000174",
+      "lemma": "vrouw",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "woman"
+      ],
+      "gender": "de",
+      "sentence_nl": "De vrouw werkt hier.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000175",
+      "lemma": "hand",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "hand"
+      ],
+      "gender": "de",
+      "sentence_nl": "Geef mij je hand.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000176",
+      "lemma": "leven",
+      "pos": [
+        "noun"
+      ],
+      "gloss": [
+        "life"
+      ],
+      "gender": "het",
+      "sentence_nl": "Het leven is goed.",
+      "source": "llm_generated"
+    },
+    {
+      "word_id": "core_000177",
+      "lemma": "zo’n",
+      "pos": [
+        "pron"
+      ],
+      "gloss": [
+        "such a"
+      ],
+      "gender": null,
+      "sentence_nl": "Zo'n kind is nog jong.",
+      "source": "llm_generated"
+    }
+  ]
+}

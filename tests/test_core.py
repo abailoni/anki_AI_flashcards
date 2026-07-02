@@ -1,3 +1,4 @@
+from dutch_cards.cards import build_cloze_field, find_cloze_span
 from dutch_cards.data import clean_example_text
 from dutch_cards.nlp import check_coverage
 
@@ -68,3 +69,29 @@ def test_coverage_target_absent_but_sentence_covered_passes():
     passed, offending = check_coverage("Ik ga naar huis.", known, "wandelen")
     assert passed
     assert offending == []
+
+
+def test_find_cloze_span_normal():
+    sentence = "Ik ga naar huis."
+    span = find_cloze_span(sentence, "gaan")
+    assert sentence[span[0]:span[1]] == "ga"
+
+
+def test_find_cloze_span_capitalized_initial_verb():
+    # exercises the lowercase-offset-reuse trick: "Gaat" fails to lemmatize
+    # to "gaan" unless lowercased first, but the returned span must still
+    # point at the original-case "Gaat"
+    sentence = "Gaat hij naar huis?"
+    span = find_cloze_span(sentence, "gaan")
+    assert sentence[span[0]:span[1]] == "Gaat"
+
+
+def test_find_cloze_span_target_absent():
+    assert find_cloze_span("Ik ga naar huis.", "wandelen") is None
+
+
+def test_build_cloze_field():
+    sentence = "Ik ga naar huis."
+    span = find_cloze_span(sentence, "gaan")
+    result = build_cloze_field(sentence, span, "to go")
+    assert result == "Ik {{c1::ga::to go}} naar huis."

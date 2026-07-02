@@ -1,0 +1,710 @@
+{
+  "core_000001": {
+    "en": "The man works here.",
+    "it": "L'uomo lavora qui."
+  },
+  "core_000002": {
+    "en": "I see the man and the woman.",
+    "it": "Vedo l'uomo e la donna."
+  },
+  "core_000003": {
+    "en": "We are in the country.",
+    "it": "Siamo nel paese."
+  },
+  "core_000004": {
+    "en": "This is the man's work.",
+    "it": "Questo è il lavoro dell'uomo."
+  },
+  "core_000005": {
+    "en": "He stands in the place.",
+    "it": "Lui sta in piedi nel luogo."
+  },
+  "core_000006": {
+    "en": "We are here.",
+    "it": "Siamo qui."
+  },
+  "core_000007": {
+    "en": "It is a good year.",
+    "it": "È un buon anno."
+  },
+  "core_000008": {
+    "en": "She has a child.",
+    "it": "Lei ha un figlio."
+  },
+  "core_000009": {
+    "en": "This is good for the child.",
+    "it": "Questo fa bene al bambino."
+  },
+  "core_000010": {
+    "en": "I see the woman who is standing there.",
+    "it": "Vedo la donna che sta lì."
+  },
+  "core_000011": {
+    "en": "He is going with her.",
+    "it": "Lui va con lei."
+  },
+  "core_000012": {
+    "en": "It is time to go.",
+    "it": "È ora di andare."
+  },
+  "core_000013": {
+    "en": "We have a child.",
+    "it": "Abbiamo un figlio."
+  },
+  "core_000014": {
+    "en": "That is not possible.",
+    "it": "Non è possibile."
+  },
+  "core_000015": {
+    "en": "He thinks of her.",
+    "it": "Lui pensa a lei."
+  },
+  "core_000016": {
+    "en": "She is coming too.",
+    "it": "Anche lei viene."
+  },
+  "core_000017": {
+    "en": "There are many people.",
+    "it": "Ci sono molte persone."
+  },
+  "core_000018": {
+    "en": "If he comes, we'll go.",
+    "it": "Se lui viene, andiamo."
+  },
+  "core_000019": {
+    "en": "She has a lot of time.",
+    "it": "Lei ha molto tempo."
+  },
+  "core_000020": {
+    "en": "We can do that.",
+    "it": "Possiamo farlo."
+  },
+  "core_000021": {
+    "en": "He says that he is coming.",
+    "it": "Dice che sta arrivando."
+  },
+  "core_000022": {
+    "en": "He comes around that time.",
+    "it": "Arriva verso quell'ora."
+  },
+  "core_000023": {
+    "en": "The child is growing up.",
+    "it": "Il bambino sta crescendo."
+  },
+  "core_000024": {
+    "en": "That is my work.",
+    "it": "Quello è il mio lavoro."
+  },
+  "core_000025": {
+    "en": "She is still young.",
+    "it": "Lei è ancora giovane."
+  },
+  "core_000026": {
+    "en": "I want to go, but I can't.",
+    "it": "Voglio andare, ma non posso."
+  },
+  "core_000027": {
+    "en": "She is with her husband.",
+    "it": "Lei è con suo marito."
+  },
+  "core_000028": {
+    "en": "She is coming now.",
+    "it": "Lei arriva adesso."
+  },
+  "core_000029": {
+    "en": "We are going to the country.",
+    "it": "Andiamo nel paese."
+  },
+  "core_000030": {
+    "en": "He comes from the country.",
+    "it": "Lui viene dal paese."
+  },
+  "core_000031": {
+    "en": "We are going to work.",
+    "it": "Andiamo al lavoro."
+  },
+  "core_000032": {
+    "en": "She comes every day.",
+    "it": "Lei viene ogni giorno."
+  },
+  "core_000033": {
+    "en": "We will do that.",
+    "it": "Lo faremo."
+  },
+  "core_000034": {
+    "en": "Is he going or is he staying?",
+    "it": "Va o resta?"
+  },
+  "core_000035": {
+    "en": "He thinks about the work.",
+    "it": "Lui pensa al lavoro."
+  },
+  "core_000036": {
+    "en": "I have to go now.",
+    "it": "Devo andare adesso."
+  },
+  "core_000037": {
+    "en": "She walks through the country.",
+    "it": "Lei cammina attraverso il paese."
+  },
+  "core_000038": {
+    "en": "He is already there.",
+    "it": "Lui è già lì."
+  },
+  "core_000039": {
+    "en": "I have no time.",
+    "it": "Non ho tempo."
+  },
+  "core_000040": {
+    "en": "First this, then that.",
+    "it": "Prima questo, poi quello."
+  },
+  "core_000041": {
+    "en": "This is good work.",
+    "it": "Questo è un buon lavoro."
+  },
+  "core_000042": {
+    "en": "I think so.",
+    "it": "Lo penso."
+  },
+  "core_000043": {
+    "en": "He finishes the work.",
+    "it": "Lui finisce il lavoro."
+  },
+  "core_000044": {
+    "en": "We work until that time.",
+    "it": "Lavoriamo fino a quell'ora."
+  },
+  "core_000045": {
+    "en": "He is a good man.",
+    "it": "Lui è un brav'uomo."
+  },
+  "core_000046": {
+    "en": "We did what we had to do.",
+    "it": "Abbiamo fatto quello che dovevamo fare."
+  },
+  "core_000047": {
+    "en": "It is so good.",
+    "it": "È così buono."
+  },
+  "core_000048": {
+    "en": "We are going now.",
+    "it": "Andiamo adesso."
+  },
+  "core_000049": {
+    "en": "That is his work.",
+    "it": "Quello è il suo lavoro."
+  },
+  "core_000050": {
+    "en": "This year is good.",
+    "it": "Quest'anno è buono."
+  },
+  "core_000051": {
+    "en": "She sees another woman.",
+    "it": "Lei vede un'altra donna."
+  },
+  "core_000052": {
+    "en": "Would I have done that too?",
+    "it": "Avrei fatto anche io questo?"
+  },
+  "core_000053": {
+    "en": "This is my child.",
+    "it": "Questo è mio figlio."
+  },
+  "core_000054": {
+    "en": "I want to know that.",
+    "it": "Voglio saperlo."
+  },
+  "core_000055": {
+    "en": "He only thinks of himself.",
+    "it": "Lui pensa solo a se stesso."
+  },
+  "core_000056": {
+    "en": "The three children stand next to her.",
+    "it": "I tre bambini stanno accanto a lei."
+  },
+  "core_000057": {
+    "en": "I see a man and a woman.",
+    "it": "Vedo un uomo e una donna."
+  },
+  "core_000058": {
+    "en": "She says that it is good.",
+    "it": "Dice che va bene."
+  },
+  "core_000059": {
+    "en": "He is getting a child.",
+    "it": "Lui avrà un figlio."
+  },
+  "core_000060": {
+    "en": "We are going together.",
+    "it": "Andiamo insieme."
+  },
+  "core_000061": {
+    "en": "It is a big country.",
+    "it": "È un paese grande."
+  },
+  "core_000062": {
+    "en": "After this year comes another year.",
+    "it": "Dopo quest'anno viene un altro anno."
+  },
+  "core_000063": {
+    "en": "That is their work.",
+    "it": "Quello è il loro lavoro."
+  },
+  "core_000064": {
+    "en": "I am here.",
+    "it": "Sono qui."
+  },
+  "core_000065": {
+    "en": "This week is good.",
+    "it": "Questa settimana è buona."
+  },
+  "core_000066": {
+    "en": "He stands there.",
+    "it": "Lui sta lì."
+  },
+  "core_000067": {
+    "en": "You are going to work.",
+    "it": "Tu vai al lavoro."
+  },
+  "core_000068": {
+    "en": "I find this good.",
+    "it": "Trovo che questo sia buono."
+  },
+  "core_000069": {
+    "en": "Let me do that.",
+    "it": "Lasciami fare questo."
+  },
+  "core_000070": {
+    "en": "All the work is done.",
+    "it": "Tutto il lavoro è finito."
+  },
+  "core_000071": {
+    "en": "She is against the work.",
+    "it": "Lei è contraria al lavoro."
+  },
+  "core_000072": {
+    "en": "I have two children.",
+    "it": "Ho due figli."
+  },
+  "core_000073": {
+    "en": "She has one child, not two.",
+    "it": "Lei ha un figlio, non due."
+  },
+  "core_000074": {
+    "en": "The whole year was good.",
+    "it": "L'intero anno è stato buono."
+  },
+  "core_000075": {
+    "en": "She gives the child a hand.",
+    "it": "Lei dà una mano al bambino."
+  },
+  "core_000076": {
+    "en": "We are staying here.",
+    "it": "Restiamo qui."
+  },
+  "core_000077": {
+    "en": "Where is the woman?",
+    "it": "Dov'è la donna?"
+  },
+  "core_000078": {
+    "en": "He isn't coming after all.",
+    "it": "Alla fine non viene."
+  },
+  "core_000079": {
+    "en": "She came towards us.",
+    "it": "Lei è venuta verso di noi."
+  },
+  "core_000080": {
+    "en": "Among the people there was also a child.",
+    "it": "Tra la gente c'era anche un bambino."
+  },
+  "core_000081": {
+    "en": "I don't know.",
+    "it": "Non lo so."
+  },
+  "core_000082": {
+    "en": "The child sits in the place.",
+    "it": "Il bambino siede nel luogo."
+  },
+  "core_000083": {
+    "en": "He is older than his wife.",
+    "it": "Lui è più vecchio di sua moglie."
+  },
+  "core_000084": {
+    "en": "It is just a child.",
+    "it": "È solo un bambino."
+  },
+  "core_000085": {
+    "en": "Every human works.",
+    "it": "Ogni essere umano lavora."
+  },
+  "core_000086": {
+    "en": "He stays because he has to.",
+    "it": "Lui resta perché deve."
+  },
+  "core_000087": {
+    "en": "She is not alone.",
+    "it": "Lei non è sola."
+  },
+  "core_000088": {
+    "en": "He takes the child with him.",
+    "it": "Lui porta il bambino con sé."
+  },
+  "core_000089": {
+    "en": "She loves him.",
+    "it": "Lei lo ama."
+  },
+  "core_000090": {
+    "en": "This is a new year.",
+    "it": "Questo è un anno nuovo."
+  },
+  "core_000091": {
+    "en": "She may do what she wants.",
+    "it": "Lei può fare quello che vuole."
+  },
+  "core_000092": {
+    "en": "He sat down and stood up again.",
+    "it": "Si è seduto e si è rialzato di nuovo."
+  },
+  "core_000093": {
+    "en": "I have no time.",
+    "it": "Non ho tempo."
+  },
+  "core_000094": {
+    "en": "She has long hair.",
+    "it": "Lei ha i capelli lunghi."
+  },
+  "core_000095": {
+    "en": "The work is done.",
+    "it": "Il lavoro è finito."
+  },
+  "core_000096": {
+    "en": "It lies in the place.",
+    "it": "Si trova nel luogo."
+  },
+  "core_000097": {
+    "en": "He can't come, so he stays.",
+    "it": "Non può venire, quindi resta."
+  },
+  "core_000098": {
+    "en": "I see her.",
+    "it": "La vedo."
+  },
+  "core_000099": {
+    "en": "She has three children.",
+    "it": "Lei ha tre figli."
+  },
+  "core_000100": {
+    "en": "It lies between the two days.",
+    "it": "Si trova tra i due giorni."
+  },
+  "core_000101": {
+    "en": "Give that to me.",
+    "it": "Dammelo."
+  },
+  "core_000102": {
+    "en": "I was there once.",
+    "it": "Ero lì una volta."
+  },
+  "core_000103": {
+    "en": "She follows him.",
+    "it": "Lei lo segue."
+  },
+  "core_000104": {
+    "en": "It was a good day.",
+    "it": "È stata una buona giornata."
+  },
+  "core_000105": {
+    "en": "He does it himself.",
+    "it": "Lui lo fa da solo."
+  },
+  "core_000106": {
+    "en": "This is my work.",
+    "it": "Questo è il mio lavoro."
+  },
+  "core_000107": {
+    "en": "He does it like she does.",
+    "it": "Lui lo fa come fa lei."
+  },
+  "core_000108": {
+    "en": "I see him.",
+    "it": "Lo vedo."
+  },
+  "core_000109": {
+    "en": "She is coming along.",
+    "it": "Lei viene anche lei."
+  },
+  "core_000110": {
+    "en": "He wants to say something.",
+    "it": "Lui vuole dire qualcosa."
+  },
+  "core_000111": {
+    "en": "How is it going?",
+    "it": "Come va?"
+  },
+  "core_000112": {
+    "en": "I think that it is good.",
+    "it": "Penso che sia buono."
+  },
+  "core_000113": {
+    "en": "He goes without her.",
+    "it": "Lui va senza di lei."
+  },
+  "core_000114": {
+    "en": "He stays because he has to work.",
+    "it": "Lui resta perché deve lavorare."
+  },
+  "core_000115": {
+    "en": "We are here.",
+    "it": "Siamo qui."
+  },
+  "core_000116": {
+    "en": "She is always here.",
+    "it": "Lei è sempre qui."
+  },
+  "core_000117": {
+    "en": "It is too much.",
+    "it": "È troppo."
+  },
+  "core_000118": {
+    "en": "This is a good place.",
+    "it": "Questo è un buon posto."
+  },
+  "core_000119": {
+    "en": "Only he knows it.",
+    "it": "Solo lui lo sa."
+  },
+  "core_000120": {
+    "en": "We are starting now.",
+    "it": "Iniziamo adesso."
+  },
+  "core_000121": {
+    "en": "That man works here.",
+    "it": "Quell'uomo lavora qui."
+  },
+  "core_000122": {
+    "en": "Next week we're going together.",
+    "it": "La prossima settimana andiamo insieme."
+  },
+  "core_000123": {
+    "en": "He walks towards her.",
+    "it": "Lui cammina verso di lei."
+  },
+  "core_000124": {
+    "en": "That is really good.",
+    "it": "È davvero buono."
+  },
+  "core_000125": {
+    "en": "This is the first time.",
+    "it": "Questa è la prima volta."
+  },
+  "core_000126": {
+    "en": "Do you know who that was that you heard playing?",
+    "it": "Sai chi era quello che hai sentito suonare?"
+  },
+  "core_000127": {
+    "en": "He works every day.",
+    "it": "Lui lavora ogni giorno."
+  },
+  "core_000128": {
+    "en": "According to him it is good.",
+    "it": "Secondo lui va bene."
+  },
+  "core_000129": {
+    "en": "She has her own work.",
+    "it": "Lei ha il suo lavoro."
+  },
+  "core_000130": {
+    "en": "He loves her especially.",
+    "it": "Lui ama soprattutto lei."
+  },
+  "core_000131": {
+    "en": "Even he doesn't know it.",
+    "it": "Nemmeno lui lo sa."
+  },
+  "core_000132": {
+    "en": "He states that it is true.",
+    "it": "Lui afferma che è vero."
+  },
+  "core_000133": {
+    "en": "She brings the child along.",
+    "it": "Lei porta con sé il bambino."
+  },
+  "core_000134": {
+    "en": "He is certain of it.",
+    "it": "Lui ne è certo."
+  },
+  "core_000135": {
+    "en": "Every child plays.",
+    "it": "Ogni bambino gioca."
+  },
+  "core_000136": {
+    "en": "He is right there.",
+    "it": "Lui è appena lì."
+  },
+  "core_000137": {
+    "en": "She walks to work.",
+    "it": "Lei cammina verso il lavoro."
+  },
+  "core_000138": {
+    "en": "The little man could just not reach it.",
+    "it": "L'omino non riusciva proprio ad arrivarci."
+  },
+  "core_000139": {
+    "en": "He never comes on time.",
+    "it": "Lui non arriva mai in orario."
+  },
+  "core_000140": {
+    "en": "She asked the man who he was.",
+    "it": "Lei chiese all'uomo chi fosse."
+  },
+  "core_000141": {
+    "en": "The child falls.",
+    "it": "Il bambino cade."
+  },
+  "core_000142": {
+    "en": "Everything is good.",
+    "it": "Tutto va bene."
+  },
+  "core_000143": {
+    "en": "He is coming back.",
+    "it": "Lui torna."
+  },
+  "core_000144": {
+    "en": "I hear it well.",
+    "it": "Lo sento bene."
+  },
+  "core_000145": {
+    "en": "The children play together.",
+    "it": "I bambini giocano insieme."
+  },
+  "core_000146": {
+    "en": "It is one o'clock.",
+    "it": "È l'una."
+  },
+  "core_000147": {
+    "en": "He is old.",
+    "it": "Lui è vecchio."
+  },
+  "core_000148": {
+    "en": "The place lies high up.",
+    "it": "Il luogo si trova in alto."
+  },
+  "core_000149": {
+    "en": "He is coming here for a moment.",
+    "it": "Lui viene qui un attimo."
+  },
+  "core_000150": {
+    "en": "During the week he works a lot.",
+    "it": "Durante la settimana lavora molto."
+  },
+  "core_000151": {
+    "en": "He is always here.",
+    "it": "Lui è sempre qui."
+  },
+  "core_000152": {
+    "en": "When he came, she was already there.",
+    "it": "Quando lui arrivò, lei era già lì."
+  },
+  "core_000153": {
+    "en": "Last year was good.",
+    "it": "L'anno scorso è stato buono."
+  },
+  "core_000154": {
+    "en": "Within a week it will be done.",
+    "it": "Entro una settimana sarà finito."
+  },
+  "core_000155": {
+    "en": "That is quite normal.",
+    "it": "È abbastanza normale."
+  },
+  "core_000156": {
+    "en": "He says nothing.",
+    "it": "Non dice niente."
+  },
+  "core_000157": {
+    "en": "She walks fast.",
+    "it": "Lei cammina veloce."
+  },
+  "core_000158": {
+    "en": "He looks at her.",
+    "it": "Lui la guarda."
+  },
+  "core_000159": {
+    "en": "Next month he comes back.",
+    "it": "Il mese prossimo torna."
+  },
+  "core_000160": {
+    "en": "The child is young.",
+    "it": "Il bambino è giovane."
+  },
+  "core_000161": {
+    "en": "He picks the child up.",
+    "it": "Lui va a prendere il bambino."
+  },
+  "core_000162": {
+    "en": "It seems good.",
+    "it": "Sembra buono."
+  },
+  "core_000163": {
+    "en": "She wants to put it in the place.",
+    "it": "Lei vuole metterlo nel luogo."
+  },
+  "core_000164": {
+    "en": "It turns out to be true.",
+    "it": "Risulta essere vero."
+  },
+  "core_000165": {
+    "en": "Then it was still good.",
+    "it": "Allora era ancora buono."
+  },
+  "core_000166": {
+    "en": "He has little time.",
+    "it": "Lui ha poco tempo."
+  },
+  "core_000167": {
+    "en": "First think, then do.",
+    "it": "Prima pensa, poi agisci."
+  },
+  "core_000168": {
+    "en": "They love each other.",
+    "it": "Si amano a vicenda."
+  },
+  "core_000169": {
+    "en": "Is that possible?",
+    "it": "È possibile?"
+  },
+  "core_000170": {
+    "en": "We work together.",
+    "it": "Lavoriamo insieme."
+  },
+  "core_000171": {
+    "en": "The child plays.",
+    "it": "Il bambino gioca."
+  },
+  "core_000172": {
+    "en": "This is good work.",
+    "it": "Questo è un buon lavoro."
+  },
+  "core_000173": {
+    "en": "This country is big.",
+    "it": "Questo paese è grande."
+  },
+  "core_000174": {
+    "en": "The woman works here.",
+    "it": "La donna lavora qui."
+  },
+  "core_000175": {
+    "en": "Give me your hand.",
+    "it": "Dammi la tua mano."
+  },
+  "core_000176": {
+    "en": "Life is good.",
+    "it": "La vita è buona."
+  },
+  "core_000177": {
+    "en": "Such a child is still young.",
+    "it": "Un bambino così è ancora giovane."
+  }
+}

@@ -18,7 +18,7 @@ from dutch_cards.pipeline import (
     save_state,
     write_request,
 )
-from dutch_cards.report import write_report
+from dutch_cards.report import write_report, write_results_json
 
 WORDS_PATH = Path("data/fixtures/words_partial.csv")
 EXAMPLES_PATH = Path("data/fixtures/examples_partial.csv")
@@ -45,6 +45,7 @@ def main() -> None:
 
     if not pending:
         write_report(outcomes, len(words))
+        write_results_json(outcomes, by_id)
         save_state({"round": state["round"], "outcomes": {}, "pending_ids": []})
         print(f"Phase 1 pipeline complete. Report: reports/phase1_coverage_report.md")
         return
@@ -90,6 +91,7 @@ def main() -> None:
         )
     else:
         write_report(outcomes, len(words))
+        write_results_json(outcomes, by_id)
         print(f"Phase 1 pipeline complete. Report: reports/phase1_coverage_report.md")
 
 
