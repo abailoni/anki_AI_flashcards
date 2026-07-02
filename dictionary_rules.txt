@@ -1,0 +1,101 @@
+
+The dictionary contains not one, but six lists:
+
+• Core: words occurring with high frequency in all four genres
+
+• Fiction: high-frequency fiction words
+
+• Newspaper: high-frequency newspaper words
+
+• Spoken: high-frequency words in spoken Dutch
+
+• Web: high-frequency words on the Dutch web
+
+• General: the next band of words that have high frequencies across at least three of the genres.
+
+
+
+The main part of the book is formed by the six frequency lists: core, fiction, newspapers, spoken, web and general. The structure of each entry in these lists is as follows:
+
+rank, headword, part of speech, English equivalent
+
+• sample sentence
+
+occurrences per 100 documents
+
+
+
+A concrete example is the entry for
+
+509 televisie noun de(f) television
+
+• Hij zette de televisie aan om naar het nieuws te kijken.
+
+16.55
+
+
+
+
+Grammatical detail and difficult cases
+
+As noted above, the parts of speech in the dictionary are: adjectives, adverbs, articles, conjunctions, interjections, nouns, numbers, prepositions, pronouns, verbs.
+
+Adjective
+
+Inflected adjectives have been lemmatized in the base form, which means that words such as mooie, mooier and mooist are all included in the entry mooi ‘beautiful’. Many Dutch adjectives can also be used as adverbs, as is for instance the case in hij schrijft mooi ‘he writes beautifully’. In such cases the adverbial use of the word is considered secondary to the adjectival use and these words are labelled as adjectives (adj).
+
+Adverb
+
+Adverbs are not inflected in Dutch. Adverbial use of adjectives is not listed separately. Examples of adverbs are altijd ‘always’, samen ‘together’.
+
+Article
+
+Dutch has two definite articles and one indefinite article. The definite articles are de and het. The article de is used for plural nouns and masculine and feminine singular nouns, whereas het is used for singular neuter nouns. The indefinite article is een. This article can also function as a number (‘one’) or as a pronoun (‘a certain’).
+
+Conjunction
+
+Dutch distinguishes coordinating and subordinating conjunctions. Examples of coordinating conjunctions are en ‘and’, of ‘or’, maar ‘but’and want ‘because’. Subordinating conjunctions include omdat ‘because’, terwijl ‘while’ and zodat ‘so that’. The distinction between subordinating and coordinating conjunctions is not marked in the dictionary.
+
+Noun
+
+Dutch nouns can be sorted into common and neuter gender, shown by giving the articles de and het. The common gender groups together masculine and feminine nouns. However, the historical masculine-feminine distinction seems to be disappearing in particular in the Netherlands but less so in Belgium. Where the gender has not been lost, this is marked in the entry by either an f (for feminine) or m (for masculine) after the article de. Thus the following types occur in the dictionary:
+
+noun, het, e.g. kind ‘child’
+
+noun, de, e.g. plaats ‘location, place’
+
+noun, de(m), e.g. man ‘man’
+
+noun, de(f), e.g. vrouw ‘woman’
+
+noun, de/het, e.g. figuur ‘figure’
+
+Nouns that occur exclusively or almost always in the plural, e.g. hersenen ‘brain’, are given the part of speech noun pl.
+
+Number
+
+Both ordinal and cardinal numbers are included in the lists. There is also a separate table grouping the ordinal and cardinal numbers together.
+
+Interjection
+
+Examples of interjections are ja ‘yes’, nee ‘no’ and oh ‘ah’. They occur mainly in spoken language, or in texts that represent spoken language. Although many dictionaries leave them out, they do have meanings, and are important for language learners if they are to sound like a native speaker.
+
+Preposition
+
+Dutch prepositions generally have a variety of meanings which cannot easily be represented in a simple entry. Examples are in ‘in’, van ‘of’, op ‘on’, voor ‘for’ and met ‘with’. The most common meaning is given.
+
+Pronoun
+
+Dutch pronouns can be divided into several subclasses, but for the purpose of the frequency dictionary this has not been done. Their translation in combination with the example sentences makes their meaning and subclass clear. In addition a separate table has been included for personal and possessive pronouns.
+
+Verb
+
+Only the infinitive form of verbs is listed. All inflected forms have been lemmatized with the infinitive form. In some cases the past or present participle in Dutch is lexicalized and has become an adjective, e.g. beslist ‘certainly’ (< beslissen ‘to decide’), geregeld ‘regularly’ (< regelen ‘to arrange’). These words are considered adjectives and labelled as such.
+
+Abbreviations and names
+
+Abbreviations are counted together with the corresponding full forms, e.g. bijvoorbeeld, bv. ‘for example, e.g.’, kilometer, km. ‘kilometre’. If the abbreviation is the most commonly used form, as for btw ‘VAT’, it becomes the headword followed by the full form if it is not obvious. Acronyms (EU) are also included as headwords in the frequency lists.
+
+In general, names, including names of countries, are not included in the dictionary. However, nouns used to refer to a person from a particular country are included (Duitser ‘German’, Fransman ‘Frenchman’), as are adjectival forms of proper nouns (Duits ‘German’, Engels ‘English’, Frans ‘French’).
+
+

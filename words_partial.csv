@@ -1,0 +1,178 @@
+id,rank,list,lemma,variants,pos,gender,sense_count,gloss,freq
+core_000001,1,core,de,,article,,1,the,99.92
+core_000002,2,core,en,,conj,,1,and,99.80
+core_000003,3,core,in,,prep,,1,in,99.79
+core_000004,4,core,van,,prep,,1,of,99.78
+core_000005,5,core,op,,prep,,1,on,99.73
+core_000006,6,core,zijn,,verb,,1,to be,99.70
+core_000007,7,core,het,'t,article|pron,,2,the | it,99.68
+core_000008,8,core,een,,article,,1,a,99.66
+core_000009,9,core,voor,,prep,,2,for | in front of,99.61
+core_000010,10,core,die,,pron,,2,"that, those | that, who",99.55
+core_000011,11,core,met,,prep,,1,with,99.55
+core_000012,12,core,te,,prep,,1,to,99.53
+core_000013,13,core,hebben,,verb,,1,to have,99.47
+core_000014,14,core,niet,,adv,,1,not,99.30
+core_000015,15,core,aan,,prep,,1,to,99.22
+core_000016,16,core,ook,,adv,,1,also,99.22
+core_000017,17,core,er,,adv,,1,there,99.17
+core_000018,18,core,als,,conj,,1,when,99.01
+core_000019,19,core,veel,,number,,1,much,98.95
+core_000020,20,core,kunnen,,verb,,1,to be able,98.93
+core_000021,21,core,dat,,conj,,1,that,98.85
+core_000022,22,core,om,,prep,,1,(a)round,98.81
+core_000023,23,core,worden,,verb,,1,to be,98.60
+core_000024,24,core,dat,,pron,,1,that,98.02
+core_000025,25,core,nog,,adv,,1,still,97.91
+core_000026,26,core,maar,,conj,,1,but,97.88
+core_000027,27,core,bij,,prep,,1,near (to),97.86
+core_000028,28,core,zij,ze,pron,,2,she | they,97.39
+core_000029,29,core,naar,,prep,,1,to,97.32
+core_000030,30,core,uit,,prep,,1,from,97.19
+core_000031,31,core,gaan,,verb,,1,to go,96.79
+core_000032,32,core,komen,,verb,,1,to come,96.67
+core_000033,33,core,zullen,,verb,,1,will,96.20
+core_000034,34,core,of,,conj,,1,or,96.01
+core_000035,35,core,over,,prep,,2,over | about,95.76
+core_000036,36,core,moeten,,verb,,1,"to have to, must",95.47
+core_000037,37,core,door,,prep,,1,through,95.39
+core_000038,38,core,al,,adv,,1,already,94.98
+core_000039,39,core,geen,,pron,,1,no,93.48
+core_000040,40,core,dan,,adv,,1,then,93.08
+core_000041,41,core,goed,,adj,,1,good,92.84
+core_000042,42,core,wel,,adv,,1,rather,92.83
+core_000043,43,core,maken,,verb,,2,to make | to repair,92.66
+core_000044,44,core,tot,,prep,,1,to,91.86
+core_000045,45,core,hij,,pron,,1,he,91.75
+core_000046,46,core,wat,,pron,,1,what,91.68
+core_000047,47,core,zo,,adv,,1,so,90.88
+core_000048,48,core,nu,,adv,,1,now,90.05
+core_000049,49,core,zijn,z'n,pron,,1,his,89.88
+core_000050,50,core,jaar,,noun,het,1,year,89.77
+core_000051,51,core,ander,,adj,,1,other,89.65
+core_000052,52,core,doen,,verb,,1,to do,89.62
+core_000053,53,core,dit,,pron,,1,this,89.27
+core_000054,54,core,willen,,verb,,1,to want,89.04
+core_000055,55,core,zich,,pron,,1,"herself, himself, itself, themselves",88.38
+core_000056,56,core,staan,,verb,,1,to stand,88.27
+core_000057,57,core,zien,,verb,,1,to see,87.06
+core_000058,58,core,zeggen,,verb,,1,to say,86.92
+core_000059,59,core,krijgen,,verb,,1,to get,85.65
+core_000060,60,core,wij,we,pron,,1,we,85.63
+core_000061,61,core,groot,,adj,,2,big | great,85.32
+core_000062,62,core,na,,prep,,1,after,84.77
+core_000063,63,core,hun,,pron,,2,their | (to) them,84.13
+core_000064,64,core,ik,,pron,,1,I,83.58
+core_000065,65,core,deze,,pron,,1,"this, these",83.14
+core_000066,66,core,daar,,adv,,1,there,81.94
+core_000067,67,core,jij,je,pron,,1,you,80.86
+core_000068,68,core,vinden,,verb,,1,to find,83.26
+core_000069,69,core,laten,,verb,,1,to let,80.14
+core_000070,70,core,al,,pron,,1,all,80.08
+core_000071,71,core,tegen,,prep,,1,"against, towards",79.77
+core_000072,72,core,twee,,num,,1,two,79.73
+core_000073,73,core,een,één,num,,1,one,79.69
+core_000074,74,core,heel,,adj,,1,whole,79.11
+core_000075,75,core,geven,,verb,,1,to give,78.66
+core_000076,76,core,blijven,,verb,,1,to remain,78.38
+core_000077,77,core,waar,,adv,,1,where,78.34
+core_000078,78,core,toch,,adv,,1,yet,77.81
+core_000079,79,core,ons,,pron,,2,us | our,77.64
+core_000080,80,core,onder,,prep,,1,under,76.23
+core_000081,81,core,weten,,verb,,1,to know,76.11
+core_000082,82,core,zitten,,verb,,1,to sit,74.93
+core_000083,83,core,dan,,conj,,1,than,73.82
+core_000084,84,core,maar,,adv,,1,"but, only, just",73.64
+core_000085,85,core,mens,,noun,de,1,human,73.56
+core_000086,86,core,omdat,,conj,,1,because,73.41
+core_000087,87,core,alleen,,adv,,1,alone,72.97
+core_000088,88,core,nemen,,verb,,1,to take,72.42
+core_000089,89,core,houden,,verb,,1,to hold,72.05
+core_000090,90,core,nieuw,,adj,,1,new,71.52
+core_000091,91,core,mogen,,verb,,1,to be allowed,71.06
+core_000092,92,core,weer,,adv,,1,again,70.76
+core_000093,93,core,tijd,,noun,de,1,time,70.73
+core_000094,94,core,lang,,adj|adv,,2,"long, tall | long",69.61
+core_000095,95,core,af,,adv,,2,"off | af en toe",69.25
+core_000096,96,core,liggen,,verb,,1,to lie,68.49
+core_000097,97,core,dus,,adv,,1,so,68.46
+core_000098,98,core,haar,,pron,,2,"her | her (poss)",67.70
+core_000099,99,core,drie,,num,,1,three,67.67
+core_000100,100,core,tussen,,prep,,1,between,67.50
+core_000101,101,core,mij,me,pron,,1,me,67.36
+core_000102,102,core,eens,,adv,,2,"once | (not) even",67.01
+core_000103,103,core,volgen,,verb,,1,to follow,66.19
+core_000104,104,core,dag,,noun,de,1,day,66.05
+core_000105,105,core,zelf,,pron,,1,self,65.98
+core_000106,106,core,mijn,m'n,pron,,1,my,65.72
+core_000107,107,core,zoals,,conj,,1,as,65.70
+core_000108,108,core,hem,'m,pron,,1,him,64.67
+core_000109,109,core,mee,,adv,,1,with,64.48
+core_000110,110,core,iets,,pron,,1,something,64.35
+core_000111,111,core,hoe,,adv,,1,how,64.12
+core_000112,112,core,denken,,verb,,1,to think,63.17
+core_000113,113,core,zonder,,prep,,1,without,62.26
+core_000114,114,core,want,,conj,,1,because,62.18
+core_000115,115,core,hier,,adv,,1,here,62.06
+core_000116,116,core,altijd,,adv,,1,always,61.60
+core_000117,117,core,te,,adv,,1,too,61.60
+core_000118,118,core,plaats,,noun,de,1,place,60.70
+core_000119,119,core,enkel,,pron,,2,"a few | a single",60.19
+core_000120,120,core,beginnen,,verb,,1,to start,60.02
+core_000121,121,core,man,,noun,de,1,man,59.77
+core_000122,122,core,week,,noun,de,1,week,59.44
+core_000123,123,core,toe,,adv,,1,towards,59.02
+core_000124,124,core,echt,,adj,,1,real,58.80
+core_000125,125,core,keer,,noun,de,1,"time, occasion",58.80
+core_000126,126,core,wie,,pron,,1,who,58.61
+core_000127,127,core,werken,,verb,,1,to work,58.31
+core_000128,128,core,volgens,,prep,,1,according to,58.24
+core_000129,129,core,eigen,,adj,,1,own,57.93
+core_000130,130,core,vooral,,adv,,1,especially,57.30
+core_000131,131,core,zelfs,,adv,,1,even,56.66
+core_000132,132,core,stellen,,verb,,2,"to put | to ask (a question)",56.43
+core_000133,133,core,brengen,,verb,,1,to bring,54.93
+core_000134,134,core,zeker,,adj,,1,certain,54.86
+core_000135,135,core,elk,,pron,,1,each,54.19
+core_000136,136,core,net,,adv,,1,just,53.97
+core_000137,137,core,lopen,,verb,,1,to walk,53.96
+core_000138,138,core,klein,,adj,,1,little,53.64
+core_000139,139,core,nooit,,adv,,1,never,53.62
+core_000140,140,core,vragen,,verb,,1,to ask,53.58
+core_000141,141,core,vallen,,verb,,1,to fall,53.56
+core_000142,142,core,alles,,pron,,1,everything,52.57
+core_000143,143,core,terug,,adv,,1,back,52.56
+core_000144,144,core,horen,,verb,,1,to hear,52.08
+core_000145,145,core,spelen,,verb,,1,to play,51.52
+core_000146,146,core,uur,,noun,het,1,hour,51.25
+core_000147,147,core,oud,,adj,,1,old,51.14
+core_000148,148,core,hoog,,adj,,1,high,50.80
+core_000149,149,core,even,,adv,,1,just,50.60
+core_000150,150,core,tijdens,,prep,,1,during,50.13
+core_000151,151,core,steeds,,adv,,1,always,49.90
+core_000152,152,core,toen,,conj,,1,when,49.69
+core_000153,153,core,vorig,,adj,,1,previous,49.15
+core_000154,154,core,binnen,,prep,,1,within,48.46
+core_000155,155,core,gewoon,,adj|adv,,2,"usual, normal | normally",48.35
+core_000156,156,core,niets,,pron,,1,nothing,48.03
+core_000157,157,core,snel,,adj,,1,fast,48.01
+core_000158,158,core,kijken,,verb,,1,to look,47.83
+core_000159,159,core,maand,,noun,de,1,month,47.68
+core_000160,160,core,jong,,adj,,1,young,47.51
+core_000161,161,core,halen,,verb,,1,to get,47.28
+core_000162,162,core,lijken,,verb,,1,to seem,47.23
+core_000163,163,core,zetten,,verb,,1,to put,47.08
+core_000164,164,core,blijken,,verb,,1,to prove,46.67
+core_000165,165,core,toen,,adv,,1,then,46.64
+core_000166,166,core,weinig,,num,,1,"little, few",46.62
+core_000167,167,core,eerst,,adv,,1,first,46.42
+core_000168,168,core,elkaar,,pron,,1,each other,46.23
+core_000169,169,core,mogelijk,,adj,,1,possible,46.22
+core_000170,170,core,samen,,adv,,1,together,46.08
+core_000171,171,core,kind,,noun,het,1,child,46.06
+core_000172,172,core,werk,,noun,het,1,work,45.72
+core_000173,173,core,land,,noun,het,1,country,45.43
+core_000174,174,core,vrouw,,noun,de,1,woman,45.42
+core_000175,175,core,hand,,noun,de,1,hand,44.98
+core_000176,176,core,leven,,noun,het,1,life,44.97
+core_000177,177,core,zo’n,,pron,,1,such a,44.84
