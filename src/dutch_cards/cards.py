@@ -48,3 +48,14 @@ def build_cloze_note(word: dict, sentence_nl: str, en: str, it: str) -> dict | N
 
 def build_listening_note(sentence_nl: str, en: str, it: str) -> dict:
     return {"Sentence": sentence_nl, "English": en, "Italian": it}
+
+
+def dedupe_by_sentence(results: list[dict]) -> list[dict]:
+    """Keep the first word record per unique sentence_nl (a few generated
+    sentences were coincidentally reused across different target words)."""
+    seen, unique = set(), []
+    for w in results:
+        if w["sentence_nl"] not in seen:
+            seen.add(w["sentence_nl"])
+            unique.append(w)
+    return unique

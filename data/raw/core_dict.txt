@@ -1,0 +1,6089 @@
+
+Core
+
+
+1 de art the
+
+• De meisjes komen op de man en de vrouw afhollen.
+
+99.92
+
+2 en conj and
+
+• Mijn vader en moeder gaan uit eten in het restaurant.
+
+99.80
+
+3 in prep in
+
+• Het was koud in de slaapkamer.
+
+99.79
+
+4 van prep of
+
+• Zijn ogen zijn sluw als die van een roofdier.
+
+99.78
+
+5 op prep on
+
+• Ze ziet hem op het terras zitten.
+
+99.73
+
+6 zijn verb to be
+
+• Honden zijn aanhankelijke en trouwe dieren.
+
+99.70
+
+7 het, ’t 1) art 2) pron 1) the 2) it
+
+• 1) Het kind was ziek. 2) Het is niet anders.
+
+99.68
+
+8 een art a
+
+• Een man en een vrouw kunnen samen een kind adopteren.
+
+99.66
+
+9 voor prep a) for b) in front of
+
+• a) Ik vind het leuk om voor hem te koken.
+
+• b) We staan voor de deur van het hotel.
+
+99.61
+
+10 die pron a) that, those b) that, who
+
+• a) Die vraag bracht iets teweeg wat me niet meer met rust laat.
+
+• b) Hij ging op de lakens liggen die haar geur vasthielden.
+
+99.55
+
+11 met prep with
+
+• De vrouw reed met haar vriend mee naar de winkel.
+
+99.55
+
+12 te prep to
+
+• Ze begon te huilen van blijdschap.
+
+99.53
+
+13 hebben verb to have
+
+• Je hebt een bleke huid.
+
+99.47
+
+14 niet adv not
+
+• Met de zaklamp was ze niet meer bang.
+
+99.30
+
+15 aan prep to
+
+• Hij geeft de bloemen aan Lena.
+
+99.22
+
+16 ook adv also
+
+• Toch hadden ze er vertrouwen in dat alles ook vandaag zou lukken.
+
+99.22
+
+17 er adv there
+
+• De volgende ochtend werd er een lange wandeling gemaakt.
+
+99.17
+
+18 als conj when
+
+• Ik krijg dorst als ik die fles zie staan.
+
+99.01
+
+19 veel num much
+
+• We keken beiden uit over de rivier en zeiden niet veel.
+
+98.95
+
+20 kunnen verb to be able
+
+• Misschien kunnen we samen naar de markt gaan.
+
+98.93
+
+21 dat conj that
+
+• Hij vertelde dat hij zich beter voelde.
+
+98.85
+
+22 om prep (a)round
+
+• Ik wandelde om het plantsoen.
+
+98.81
+
+23 worden verb to be
+
+• Deze pasfoto werd door de politie verspreid.
+
+98.60
+
+24 dat pron that
+
+• Als de beschuldiging klopt, werpt dat een ander licht op de zaak.
+
+98.02
+
+25 nog adv still
+
+• Ze is nog jong.
+
+97.91
+
+26 maar conj but
+
+• Het team speelde goed, maar slaagde er niet in te winnen.
+
+97.88
+
+27 bij prep near (to)
+
+• Op het pleintje bij de kerk waren kinderen aan het spelen.
+
+97.86
+
+28 zij, ze pron a) she b) they
+
+• a) Ik was niet verliefd op haar, maar zij we op mij.
+
+• Men verwachtte dat ze binnenkort het ziekenhuis kon verlaten.
+
+• b) Zij vormen 85 procent van de bevolking.
+
+• Toen Schliemann in 1875 de skeletten aanraakte, verpulverden ze meteen tot stof.
+
+97.39
+
+29 naar prep to
+
+• Hij volgt haar naar de keuken.
+
+97.32
+
+30 uit prep from
+
+• Ik kom uit Amsterdam.
+
+97.19
+
+31 gaan verb to go
+
+• De jongens gingen op de fiets naar het strand.
+
+96.79
+
+32 komen verb to come
+
+• Misschien komt hij met de wagen.
+
+96.67
+
+33 zullen verb will
+
+• De filmpjes zullen te zien zijn via het internet.
+
+96.20
+
+34 of conj or
+
+• Er reden allang geen trams of auto’s meer.
+
+96.01
+
+35 over prep a) over b) about
+
+• a) Zij klom over het hek.
+
+• b) Alle informatie over de camping vind je op de website.
+
+95.76
+
+36 moeten verb to have to, must
+
+• Je moet beneden aan de trap je schoenen aan-en uitdoen.
+
+95.47
+
+37 door prep through
+
+• Ik liep door het dorp.
+
+95.39
+
+38 al adv already
+
+• Ze is al bijna aan het eind van het pad.
+
+94.98
+
+39 geen pron no
+
+• Er zat geen knop aan de deur.
+
+93.48
+
+40 dan adv then
+
+• Zwemmen, fietsen en dan nog eens lopen.
+
+93.08
+
+41 goed adj good
+
+• Wij sporen onze leden aan om goede burgers te zijn.
+
+92.84
+
+42 wel adv ~ rather
+
+• Ik vind het wel fijn te horen dat er meer mensen zijn die zich zorgen maken.
+
+92.83
+
+43 maken verb a) to make b) to repair
+
+• a) Hij maakte een snelle beweging.
+
+• b) Hij maakte haar kapotte fiets.
+
+92.66
+
+44 tot prep to
+
+• Het festival gaat begin juli van start en loopt tot eind September.
+
+91.86
+
+45 hij pron he
+
+• Hij vraagt zich af of hij wel genoeg contant geld bij zich heeft.
+
+91.75
+
+46 wat pron what
+
+• We hebben gedaan wat we moesten doen.
+
+91.68
+
+47 zo adv so
+
+• Hij schreeuwde zo luid dat het leek of de deur open stond.
+
+90.88
+
+48 nu adv now
+
+• Ik ga nu eerst met vakantie.
+
+90.05
+
+49 zijn, z’n pron his
+
+• Hij nam zijn zoon mee.
+
+• Hij ging op zoek naar z’n dochter.
+
+89.88
+
+50 jaar noun, het year
+
+• Elk jaar bellen één miljoen mensen de servicelijn.
+
+89.77
+
+51 ander adj other
+
+• Ze bereikten de top van de andere heuvel.
+
+89.65
+
+52 doen verb to do
+
+• Zou ik dat ook hebben gedaan?
+
+89.62
+
+53 dit pron this
+
+• Hij was naar dit kantoor gegaan.
+
+89.27
+
+54 willen verb to want
+
+• Wie zou mij willen tegenhouden?
+
+89.04
+
+55 zich pron herself, himself, itself, themselves
+
+• Ze kon mijn trap niet op en liet zich dragen.
+
+• Zij lieten zich graag trakteren.
+
+88.38
+
+56 staan verb to stand
+
+• De drie kinderen staan naast haar.
+
+88.27
+
+57 zien verb to see
+
+• In de verte zag zij het huis.
+
+87.06
+
+58 zeggen verb to say
+
+• U mag ‘stop’ zeggen wanneer u wilt.
+
+86.92
+
+59 krijgen verb to get
+
+• Hij hoopte van de frisse lucht een helder hoofd te krijgen.
+
+85.65
+
+60 wij, we pron we
+
+• Ik deed de lichten uit en wij verlieten de bijkeuken.
+
+• Ik stel voor dat we het werk eerst afmaken.
+
+85.63
+
+61 groot adj a) big b) great
+
+• a) In de deur stond een grote vrouw.
+
+• b) U doet me een groot plezier als u iets met mij wilt gaan drinken.
+
+85.32
+
+62 na prep after
+
+• Meteen na het eten ging hij weg.
+
+84.77
+
+63 hun pron a) their b) (to) them
+
+• a) Ze kochten hun vlees bij de slager.
+
+• b) Hij geeft hun een snoepje.
+
+84.13
+
+64 ik pron I
+
+• Je vader zei dat ik me met mijn eigen zaken moest bemoeien.
+
+83.58
+
+65 deze pron this, these
+
+• Uiteraard houden wij deze zaak nauwlettend in het oog.
+
+83.14
+
+66 daar adv there
+
+• Ik rijd maar door tot op de markt, parkeer daar en stap uit.
+
+81.94
+
+67 jij, je pron you
+
+• Heb jij nog zin om boodschappen te doen?
+
+• Wat bedoel je?
+
+80.86
+
+68 vinden verb to find
+
+• Elisabeth vindt het nummer van de politie.
+
+83.26
+
+69 laten verb to let
+
+• Ik heb door een timmerman een houten stoel laten maken.
+
+80.14
+
+70 al pron all
+
+• Door alle publiciteit werd het een vervelende zaak.
+
+80.08
+
+71 tegen prep against, towards
+
+• Al die tijd bleef hij tegen mij zwijgen.
+
+79.77
+
+72 twee num two
+
+• De twee vrouwen staan in elkaars armen te huilen.
+
+79.73
+
+73 een, één num one
+
+• Een van de jongens liep naar de deur.
+
+• Slechts één woning liep schade op.
+
+79.69
+
+74 heel adj whole
+
+• Sommige mensen fluiten de hele dag.
+
+79.11
+
+75 geven verb to give
+
+• Oma geeft haar een glas water.
+
+78.66
+
+76 blijven verb to remain
+
+• Dergelijk gedrag kon niet onbestraft blijven.
+
+78.38
+
+77 waar adv where
+
+• Ze herkende het huis waar ze geboren was.
+
+78.34
+
+78 toch adv yet
+
+• Ze schold hem uit en toch troostte hij haar.
+
+77.81
+
+79 ons pron a) us b) our
+
+• a) Ze kwam naar ons toe.
+
+• b) Een van onze vrienden logeert ergens anders.
+
+77.64
+
+80 onder prep under
+
+• Hans kroop onder de dekens.
+
+76.23
+
+81 weten verb to know
+
+• De rechter wilde weten wat er gebeurd was.
+
+76.11
+
+82 zitten verb to sit
+
+• Ik zit op de sofa en kijk naar de bergen.
+
+74.93
+
+83 dan conj than
+
+• Daarmee was ze een seconde sneller dan haar oude toptijd.
+
+73.82
+
+84 maar adv but, only, just
+
+• Zijn gezicht durfde ze maar nauwelijks aan te raken.
+
+73.64
+
+85 mens noun, de(m) human
+
+• Dieren kunnen een innige band met mensen hebben.
+
+73.56
+
+86 omdat conj because
+
+• Hij kreeg een boete omdat zijn brommer niet in orde was.
+
+73.41
+
+87 alleen adv alone
+
+• Hij heeft besloten om alleen te gaan.
+
+72.97
+
+88 nemen verb to take
+
+• Ze nam de jas van de kapstok en hield hem voor me op.
+
+72.42
+
+89 houden verb to hold
+
+• In zijn linkerhand hield hij een plastic tasje.
+
+72.05
+
+90 nieuw adj new
+
+• Hij wordt de nieuwe burgemeester.
+
+71.52
+
+91 mogen verb to be allowed
+
+• Zij mag doen wat ze wil.
+
+71.06
+
+92 weer adv again
+
+• Hij ging zitten en hij stond weer op.
+
+70.76
+
+93 tijd noun, de(m) time
+
+• Het doen van strategisch onderzoek kost tijd.
+
+70.73
+
+94 lang adj long, tall
+
+• Het lange meisje kon bij de bovenste plank.
+
+• (adv) Het klonk als een beslissing waarover lang was nagedacht.
+
+69.61
+
+95 af adv off
+
+• Hij was me te vlug af.
+
+• af en toe: Af en toe zit ik te klappertanden van de kou.
+
+69.25
+
+96 liggen verb to lie
+
+• We lagen diezelfde nacht nog in bed.
+
+68.49
+
+97 dus adv so
+
+• Natuurlijk heeft onze advocaat deze deal bekeken, maar alles is legaal, dus we kregen er een concurrent bij.
+
+68.46
+
+98 haar pron a) her b) her (poss)
+
+• a) Hij wilde er niet van horen en verbood het haar.
+
+• b) De gouden ring was een erfstuk van haar oma.
+
+67.70
+
+99 drie num three
+
+• Na drie jaar kon ze zich deze tocht nog van dag tot dag herinneren.
+
+67.67
+
+100 tussen prep between
+
+• Hij dringt tussen zijn kinderen door naar voren en gaat de trap af.
+
+67.50
+
+101 mij, me pron me
+
+• Waarom heb je mij niet opgebeld?
+
+• Ik voel me fit.
+
+67.36
+
+102 eens adv once, (not) even
+
+• Enkele maanden geleden wist ik niet eens van haar bestaan af.
+
+67.01
+
+103 volgen verb to follow
+
+• Enkele seconden later voigt een explosie niet ver van mij vandaan.
+
+66.19
+
+104 dag noun, de(m) day
+
+• De volgende dag zat mijn grootvader weer in zijn stoel.
+
+66.05
+
+105 zelf pron self
+
+• Ik had zelf geen oordeel.
+
+• Zij hebben zelf bedacht dat het zo moest kunnen.
+
+65.98
+
+106 mijn, m’n pron my
+
+• Hij zat achter zijn bureau en scheen mijn aanwezigheid niet op te merken.
+
+• Ik deed m’n werk.
+
+65.72
+
+107 zoals conj as
+
+• Het scenario liep aanvankelijk zoals gewenst.
+
+65.70
+
+108 hem, ’m pron him
+
+• Ze liep weg en liet hem staan.
+
+• Heb je’m gisteren nog zien lopen?
+
+64.67
+
+109 mee adv with
+
+• Ik heb er ervaring mee.
+
+64.48
+
+110 iets pron something
+
+• Hij riep iets in mij op dat ik vergeten was.
+
+64.35
+
+111 hoe adv how
+
+• Ze vraagt de man of hij weet hoe het vuur is ontstaan.
+
+64.12
+
+112 denken verb to think
+
+• Ik denk dat hij gedroomd heeft.
+
+63.17
+
+113 zonder prep without
+
+• Er werden in enkele gevallen etenswaren zonder vergunning verkocht.
+
+62.26
+
+114 want conj because
+
+• De groente is niet groen, maar wit, want het is bloemkool.
+
+62.18
+
+115 hier adv here
+
+• De weg gaat hier naar links.
+
+62.06
+
+116 altijd adv always
+
+• Het water was er altijd in beweging door de botsing met de rotsen.
+
+61.60
+
+117 te adv too
+
+• Met maximum 8 graden is het te koud voor de tijd van het jaar.
+
+61.60
+
+118 plaats noun, de place
+
+• Het duurde nog een halfuur voor alle passagiers op hun plaats zaten.
+
+60.70
+
+119 enkel pron a few, a single
+
+• Na enkele seconden hoorde ik de auto ook.
+
+60.19
+
+120 beginnen verb to start
+
+• Uiteraard weet hij te ontsnappen en de jacht begint opnieuw.
+
+60.02
+
+121 man noun, de(m) man
+
+• Tegenover hem zat een forse man met een reusachtige zwarte baard.
+
+59.77
+
+122 week noun, de week
+
+• Die mensen werden binnen een paar weken schatrijk.
+
+59.44
+
+123 toe adv towards
+
+• Laura deed spontaan een stap naar hem toe.
+
+59.02
+
+124 echt adj real
+
+• Voor een echte dief had hij nogal wat fouten gemaakt.
+
+58.80
+
+125 keer noun, de(m) time, occasion
+
+• Ik zag niet in waarom ik dit keer anders zou moeten handelen.
+
+58.80
+
+126 wie pron who
+
+• Weet je wie dat was die je hoorde spelen?
+
+58.61
+
+127 werken verb to work
+
+• Misschien ken je iemand die bij het bedrijf werkt of heeft gewerkt.
+
+58.31
+
+128 volgens prep according to
+
+• Het examen aardrijkskunde was volgens de leerlingen te moeilijk.
+
+58.24
+
+129 eigen adj own
+
+• Even zag hij in de boodschap de projectie van zijn eigen gevoelens.
+
+57.93
+
+130 vooral adv especially
+
+• Ze toonden ons angst en verslagenheid en vooral uitzinnige woede.
+
+57.30
+
+131 zelfs adv even
+
+• Zelfs papa zong uit voile borst mee.
+
+56.66
+
+132 stellen verb to put
+
+• Hij stelt dat het belangrijk is om samen te werken
+
+• een vraag stellen: Hij hield niet op met vragen stellen.
+
+56.43
+
+133 brengen verb to bring
+
+• We worden naar een tent gebracht.
+
+54.93
+
+134 zeker adj certain
+
+• Ze had een zekere charme.
+
+54.86
+
+135 elk pron each
+
+• In elk café hangen een heleboel affiches.
+
+54.19
+
+136 net adv just
+
+• Toen ik op het station aankwam was de trein net weg.
+
+53.97
+
+137 lopen verb to walk
+
+• Hij liep naar de bar.
+
+53.96
+
+138 klein adj little
+
+• Het kleine mannetje kon er net niet bij.
+
+53.64
+
+139 nooit adv never
+
+• Deze monniken zien nooit een vrouw.
+
+53.62
+
+140 vragen verb to ask
+
+• Zij vroeg aan de man wie hij was.
+
+53.58
+
+141 vallen verb to fall
+
+• De jongen viel van een tien meter hoge steiger op een bouwwerf.
+
+53.56
+
+142 alles pron everything
+
+• Bij ons in het dorp was alles donker en stil.
+
+52.57
+
+143 terug adv back
+
+• Afgelopen week was hij even terug op zijn vroegere werkplek.
+
+52.56
+
+144 horen verb to hear
+
+• Ik hoorde zijn stem boven alles uit.
+
+52.08
+
+145 spelen verb to play
+
+• De kinderen speelden in het zwembad.
+
+51.52
+
+146 uur noun, het hour
+
+• Zo kon hij soms uren doorgaan.
+
+51.25
+
+147 oud adj old
+
+• Een oude man schuifelt door de donkere straat.
+
+51.14
+
+148 hoog adj high
+
+• Zij wonen in een hoge flat.
+
+50.80
+
+149 even adv just
+
+• Hij ging even een biertje drinken in het café.
+
+50.60
+
+150 tijdens prep during
+
+• Tijdens het bezoekuur hoorde ik haar vrolijk praten met haar vader en moeder.
+
+50.13
+
+151 steeds adv always
+
+• Je ontdekt steeds meer als je eenmaal onderweg bent.
+
+49.90
+
+152 toen conj when
+
+• Ineke zette thee en bakte eieren voor ons toen we thuiskwamen.
+
+49.69
+
+153 vorig adj previous
+
+• Het winkelpand stond na het faillissement van de vorige bezitter al geruime tijd leeg.
+
+49.15
+
+154 binnen prep within
+
+• Binnen Gent is één grote hogeschool gecreëerd.
+
+48.46
+
+155 gewoon adj usual, normal
+
+• In het gewone leven gaat dat anders.
+
+• (adv) Een parkje waar ze allebei gewoon vanuit hun huis naartoe kunnen fietsen.
+
+48.35
+
+156 niets pron nothing
+
+• Ze had niets bij zich dan haar handtas.
+
+48.03
+
+157 snel adj fast
+
+• In een snelle spurt reed hij naar voren.
+
+48.01
+
+158 kijken verb to look
+
+• Verbaasd kijkt ze om zich heen.
+
+47.83
+
+159 maand noun, de month
+
+• Hij vond gedurende enkele maanden een baantje in een fabriek.
+
+47.68
+
+160 jong adj young
+
+• Het jonge meisje speelde moeiteloos mee.
+
+47.51
+
+161 halen verb to get
+
+• Ze weten niet waar ze de formulieren moeten halen.
+
+47.28
+
+162 lijken verb to seem
+
+• Het lijkt me erg gezellig om elkaar te zien.
+
+47.23
+
+163 zetten verb to put
+
+• Zij zette de bloemen in een vaas.
+
+47.08
+
+164 blijken verb to prove
+
+• Dit blijkt uit een eerste rapportage van het onderzoeksbureau.
+
+46.67
+
+165 toen adv then
+
+• We zaten met de leden van het comité bij elkaar en kwamen toen op dit idee.
+
+46.64
+
+166 weinig num little, few
+
+• Ik heb op dit moment weinig tijd.
+
+46.62
+
+167 eerst adv first
+
+• De directie ging voor dit jaar eerst uit van een groei van 3 procent.
+
+46.42
+
+168 elkaar pron each other
+
+• We losten elkaar af bij haar bed.
+
+46.23
+
+169 mogelijk adj possible
+
+• De politie onderzoekt de mogelijke omkoping van scheidsrechters.
+
+46.22
+
+170 samen adv together
+
+• Samen deden ze de afwas.
+
+46.08
+
+171 kind noun, het child
+
+• De kinderen maakten een maquette van hun school.
+
+46.06
+
+172 werk noun, het work
+
+• Zij vindt haar werk erg leuk.
+
+45.72
+
+173 land noun, het country
+
+• De oostelijke helft van het land blijft gevoelig voor buien.
+
+45.43
+
+174 vrouw noun, de(f) woman
+
+• Vroeger werden vrouwen en mannen gescheiden in de kerk.
+
+45.42
+
+175 hand noun, de hand
+
+• Ze balde een enkele keer haar handen tot kleine vuisten.
+
+44.98
+
+176 leven noun, het life
+
+• Er zijn veel kleine conflicten die het dagelijks leven verstoren.
+
+44.97
+
+177 zo’n pron such a
+
+• Ik ben niet zo’n strenge leraar.
+
+44.84
+
+178 eind, einde noun, het end
+
+• We hebben het eind van onze reis nog niet bereikt.
+
+• De film had een onverwacht einde.
+
+44.58
+
+179 bestaan verb to exist
+
+• De kloof tussen burgers en politiek zal blijven bestaan.
+
+44.33
+
+180 rond prep around
+
+• Hij heeft de spieren rond zijn schouderblad verrekt of gescheurd.
+
+44.21
+
+181 vaak adv often
+
+• Deze dieren liggen overdag vaak te rusten in de zon.
+
+44.07
+
+182 trekken verb to draw
+
+• Dit evenement trekt ieder jaar veel bezoekers.
+
+43.75
+
+183 aantal noun, het number
+
+• Het aantal werkloze leerkrachten daalt.
+
+43.65
+
+184 achter prep behind
+
+• Hij gaat weer achter zijn bureau zitten.
+
+43.14
+
+185 natuurlijk adj natural
+
+• Volgens de afspraken mogen ze nieuwe bossen opvoeren als natuurlijke CO2-eters.
+
+43.11
+
+186 naam noun, de(m) name
+
+• Er stond geen naam op het stukje karton.
+
+43.09
+
+187 laatst adj last
+
+• Zij was de laatste jaren onze steun op het secretariaat.
+
+44.76
+
+188 deel noun, het part
+
+• Er was niemand in dit deel van de stad.
+
+42.63
+
+189 belangrijk adj important
+
+• Volgens hem biedt het programma belangrijke voordelen.
+
+42.56
+
+190 misschien adv maybe
+
+• Ik zei dat ik een vergadering had en misschien laat thuiskwam.
+
+42.52
+
+191 gebeuren verb to happen
+
+• Vele sprekers schilderden uitvoerig wat er kon gebeuren.
+
+42.51
+
+192 iedereen pron everyone
+
+• Volgend jaar krijgt iedereen een bonus van 2 procent.
+
+42.43
+
+193 bijna adv almost
+
+• Het huis is bijna klaar.
+
+42.40
+
+194 probleem noun, het problem
+
+• Het land heeft echter nog tal van problemen op te lossen.
+
+42.21
+
+195 vier num four
+
+• De totale tijd tussen bestellen en leveren is drie tot vier maanden.
+
+42.18
+
+196 sinds prep since
+
+• Haar cliënt had geen gemakkelijke tijd gehad sinds haar behandeling begon.
+
+41.94
+
+197 erg adv very
+
+• Het is erg warm hier.
+
+41.68
+
+198 per prep by, per
+
+• De partijvoorzitter wordt per referendum gekozen.
+
+41.63
+
+199 geleden adj ago
+
+• Dat is ruim 10 procent minder dan twee weken geleden.
+
+41.49
+
+200 nodig adj necessary
+
+• Ze namen de nodige maatregelen.
+
+• (adv) Voor dit gerecht heeft u ook geroosterde rijst nodig.
+
+40.91
+
+201 noemen verb to name
+
+• Hij wordt genoemd als staatssecretaris van onderwijs.
+
+40.82
+
+202 vraag noun, de question
+
+• Wijsbegeerte gaat over de grote vragen van het bestaan.
+
+40.80
+
+203 proberen verb to try
+
+• Hij probeert hun gedrag te begrijpen.
+
+40.78
+
+204 zaak noun, de a) case b) business
+
+• a) Zij bracht de zaak voor de rechter.
+
+• b) De slager stond trots voor zijn zaak.
+
+40.68
+
+205 spreken verb to speak
+
+• We hebben iemand nodig die Nederlands spreekt.
+
+40.59
+
+206 allemaal adv all
+
+• Deze mensen kregen allemaal een ander vaccin toegediend.
+
+40.34
+
+207 pas adv only
+
+• Leiderschap komt meestal pas tot zijn recht op momenten van crisis.
+
+40.20
+
+208 helemaal adv completely
+
+• Betty voelde zich niet helemaal op haar gemak.
+
+40.01
+
+209 men pron one, you
+
+• Men zou wat meer reclame moeten maken.
+
+39.91
+
+210 kennen verb to know
+
+• Vroeger dacht ik dat ik mezelf steeds beter zou leren kennen als ik ouder werd.
+
+39.89
+
+211 bekend adj (well-)known
+
+• Hij is een bekend zakenman.
+
+39.83
+
+212 terwijl conj while
+
+• Zij bleef naar mij kijken terwijl ik dronk.
+
+39.52
+
+213 huis noun, het house
+
+• Er wordt een nieuw huis gebouwd in de straat.
+
+39.21
+
+214 geval noun, het case
+
+• In dat geval moet je het later nog maar eens proberen.
+
+in elk geval: In elk geval is het niet jouw schuld.
+
+39.15
+
+215 duidelijk adj clear
+
+• Hij gaf ze duidelijke aanwijzingen.
+
+• De scheidingslijn was niet altijd duidelijk.
+
+39.07
+
+216 gebruiken verb to use
+
+• Een prettig neveneffect is dat de computer minder energie gebruikt.
+
+38.26
+
+217 vertellen verb to tell
+
+• De juffrouw vertelde tijdens de les een verhaal.
+
+38.21
+
+218 kort adj short
+
+• Hij wilde een T-shirt met korte mouwen aan.
+
+38.10
+
+1 Animals
+
+Note that several of these animal names can also have a different meaning (e.g. pad (‘path’), muis (‘computer mouse’), slang (‘hose’)), which increases their overall frequency.
+
+hond 7.70 dog
+
+vis 5.39 fish
+
+pad 5.06 toad
+
+vogel 4.96 bird
+
+paard 4.77 horse
+
+kat 4.21 cat
+
+kip 3.05 chicken
+
+koe 2.64 cow
+
+schaap 2.03 sheep
+
+muis 1.93 mouse
+
+leeuw 1.88 lion
+
+aap 1.69 monkey
+
+varken 1.59 pig
+
+insect 1.50 insect
+
+konijn 1.49 rabbit
+
+slang 1.40 snake
+
+rat 1.35 rat
+
+eend 1.34 duck
+
+beer 1.33 bear
+
+vlinder 1.18 butterfly
+
+wolf 1.14 wolf
+
+duif 1.13 pigeon
+
+poes 1.05 cat
+
+kater 1.02 tomcat
+
+
+
+219 vroeg adj early
+
+• Buiten is het koud, zoals het alleen in de vroege lente kan zijn.
+
+38.09
+
+220 vanaf prep from
+
+• Burgers met vragen kunnen vanaf vandaag ook terecht bij Postbus 51.
+
+37.99
+
+221 weg adv gone
+
+• Acht spelers wilden de coach weg hebben.
+
+37.99
+
+222 eigenlijk adv actually
+
+• Els twijfelt, want ze wil eigenlijk niet verhuizen.
+
+37.98
+
+223 via prep through
+
+• De daders zijn via het plat dak binnengeklommen.
+
+37.92
+
+224 iemand pron someone
+
+• Hij werd iemand die nog maar zelden zei wat hij dacht.
+
+37.87
+
+225 eerder adv sooner
+
+• Jongeren moeten eerder leren samenwerken dan met elkaar te wedijveren.
+
+37.83
+
+226 mooi adj nice
+
+• Papa heeft zijn mooie pak aan en een wit sjaaltje om zijn hals.
+
+37.63
+
+227 schrijven verb to write
+
+• De gerechten waren met krijt op een bord aan de muur geschreven.
+
+37.34
+
+228 vijf num five
+
+• Hij werkt vijf dagen per week.
+
+37.16
+
+229 gisteren adv yesterday
+
+• De voetballer tekende gisteren een contract voor drie jaar.
+
+37.13
+
+230 sterk adj strong
+
+• De sterke jongen tilde drie kratten tegelijk.
+
+36.97
+
+231 paar noun, het couple
+
+• Op het nachtkastje staan een paar vergeelde wenskaarten.
+
+36.69
+
+232 u pron you
+
+• Ziet u hier soms iets wat u herkent?
+
+36.54
+
+233 hen pron them
+
+• Misschien zou het ooit weer beter tussen hen kunnen worden.
+
+36.45
+
+234 vandaag adv today
+
+• Vandaag hangt er een aankondiging op de deur.
+
+35.99
+
+235 waarom adv why
+
+• De vraag is waarom men niet samenwerkt.
+
+35.97
+
+236 moment noun, het time, moment
+
+• Op andere momenten kon ze ook niet trainen.
+
+35.91
+
+237 manier noun, de way
+
+• Ik vond een andere manier om je te helpen.
+
+35.76
+
+238 moeilijk adj difficult
+
+• Ik wens je veel sterkte toe in deze moeilijke periode.
+
+35.44
+
+239 wereld noun, de world
+
+• De wereld ziet er nu heel anders uit.
+
+35.28
+
+240 opnieuw adv again
+
+• Hij probeerde opnieuw zijn zoon te spreken.
+
+35.27
+
+241 daarom adv therefore
+
+• Ik was moe en ging daarom vroeg naar bed.
+
+35.17
+
+242 geld noun, het money
+
+• Hij gaf het geld aan de bakker.
+
+34.91
+
+243 zeer adv very
+
+• Ze was zeer verzwakt en woog nog 46 kilo.
+
+34.70
+
+244 soms adv sometimes
+
+• Soms gaat het niet zoals je wilt.
+
+34.13
+
+245 groep noun, de group
+
+• De groep wachtte tot de gids was uitgesproken.
+
+34.00
+
+246 stad noun, de town, city
+
+• Het museum staat in het oudste gedeelte van de stad.
+
+33.91
+
+247 enig pron only
+
+• Ik was zijn enige optie.
+
+33.90
+
+248 ver adj far
+
+• Zij maakten een verre reis.
+
+33.78
+
+249 genoeg adv enough
+
+• ‘Zo, en nu hebben we lang genoeg zitten praten,’ zei ze.
+
+jammer genoeg: Jammer genoeg kon ze niet deelnemen aan de wedstrijd.
+
+33.77
+
+250 stuk noun, het piece
+
+• Zij breekt het brood in stukken.
+
+33.77
+
+251 zwaar adj heavy
+
+• Samen tillen ze de zware steen op.
+
+33.72
+
+252 zoeken verb to search
+
+• Hij zoekt naar zijn bril.
+
+33.69
+
+253 kans noun, de chance
+
+• We hebben nog een kans om te winnen.
+
+33.67
+
+254 ja interj yes
+
+• Ik zei ja op elke uitdaging.
+
+33.48
+
+255 leggen verb to put
+
+• Hij legde het boek op de tafel.
+
+33.43
+
+256 waarin adv wherein
+
+• Hij zag vlekken waarin geen vorm te onderscheiden viel.
+
+33.30
+
+257 tien num ten
+
+• Ze woonden tien huizen verder in onze straat.
+
+33.23
+
+258 voelen verb to feel
+
+• Ik voelde of hij niets gebroken had.
+
+33.09
+
+259 winnen verb to win
+
+• Nooit eerder wonnen ze een wedstrijd op een groot toernooi.
+
+33.08
+
+260 begin noun, het start
+
+• Er werd een begin gemaakt met hervormingen.
+
+32.85
+
+261 vast adj fixed, certain
+
+• Hij heeft wel degelijk een vast inkomen.
+
+• (adv) Zij vindt de maatregelen vast niet streng genoeg.
+
+32.80
+
+262 naast prep next to
+
+• Het boekje stelt theorie en praktijk netjes naast elkaar
+
+32.76
+
+263 bijvoorbeeld, bv. adv for example
+
+• Een andere term voor drive-inshow is bijvoorbeeld: mobiele discotheek.
+
+• Zo kun je er bv. zwemmen.
+
+32.37
+
+264 slecht adj bad
+
+• Het was een slechte zomer.
+
+31.80
+
+265 verliezen verb to lose
+
+• Hij verliest hierdoor persoonlijke papieren en 5 euro.
+
+31.77
+
+266 buiten prep outside
+
+• In de dorpen buiten de randstad is weinig werk.
+
+31.65
+
+267 zorgen verb to provide
+
+• Een baan zorgt voor status en sociale contacten.
+
+31.64
+
+268 Nederlands adj Dutch
+
+• Vorig jaar kregen zesenveertigduizend mensen de Nederlandse nationaliteit.
+
+31.57
+
+269 oog noun, het eye
+
+• Wie goed keek, zag dat ik tranen in mijn ogen had.
+
+31.50
+
+270 beetje noun, het bit
+
+• We zaten een beetje loom voor ons uit te staren.
+
+31.41
+
+271 zoveel num so much
+
+• Hij had alleen niet verwacht dat het zoveel tijd zou kosten.
+
+31.33
+
+272 zes num six
+
+• Door zijn toedoen ontsnappen zes mijnwerkers aan de dood.
+
+31.24
+
+273 meteen adv immediately
+
+• Het is niet noodzakelijk om meteen een nieuw toestel te plaatsen.
+
+31.19
+
+274 bovendien adv also
+
+• Melk is lekker en bovendien gezond.
+
+31.05
+
+275 woord noun, het word
+
+• Bedoelt iedereen hetzelfde als er een bepaald woord wordt gebruikt?
+
+30.90
+
+276 graag adv gladly, with pleasure
+
+• We leerden bij en dat zagen onze ouders en leraren graag.
+
+30.68
+
+277 beide num both
+
+• Zondag staan beide ploegen tegenover elkaar.
+
+30.59
+
+278 kiezen verb to choose
+
+• Uit de consumpties die ik voorradig had koos ze bier
+
+30.56
+
+279 hopen verb to hope
+
+• Het bedrijf hoopt nog vóór de zomer de eerste interactieve diensten te lanceren.
+
+30.46
+
+280 laat adj late
+
+• Ondanks het late tijdstip, net na middernacht, moest een welkomstdrankje gedronken worden.
+
+30.43
+
+281 vol adj full
+
+• Hij was de enige die in dat voile huis voor orde zorgde.
+
+30.31
+
+282 daarna adv afterwards
+
+• Het licht winterse weer lijkt zich komend weekend en waarschijnlijk ook daarna te handhaven.
+
+30.18
+
+283 lezen verb to read
+
+• Rustig op de bank een boekje lezen is er niet bij.
+
+30.15
+
+284 verschillend adj different
+
+• In verschillende steden werden geldautomaten in brand gestoken.
+
+29.91
+
+285 betalen verb to pay
+
+• Bovendien betaalt de stad de energiefactuur.
+
+29.82
+
+286 miljoen num million
+
+• Het aantal kijkers wordt geschat op 400 miljoen.
+
+29.70
+
+287 partij noun, de(f) party
+
+• Beide partijen gaan weer samenwerken op het gebied van veiligheid.
+
+29.54
+
+288 soort noun, de/het kind of
+
+• Ze stond die eerste nacht met haar tentje op een soort dorpsplein.
+
+29.49
+
+289 ooit adv one day
+
+• Ze hopen ooit kampioen te mogen worden.
+
+29.29
+
+290 ding noun, het thing
+
+• Voor welke dingen maken we eigenlijk keuzes?
+
+29.20
+
+291 weg noun, de(m) road
+
+• De brede weg lag verlaten in het maanlicht.
+
+29.10
+
+292 sommige pron some
+
+• De prijzen van sommige artikelen zijn gehalveerd.
+
+29.08
+
+293 ieder pron each
+
+• Zij krijgt provisie voor iedere klant die zij binnenhaalt.
+
+28.79
+
+294 leiden verb to lead
+
+• Zij leidde het elftal.
+
+28.72
+
+295 slechts adv only
+
+• De raad krijgt slechts een adviserende functie.
+
+28.54
+
+296 niemand pron nobody
+
+• In tegenstelling tot werknemers heb ik niemand die me op het matje roept.
+
+28.52
+
+297 wachten verb to wait
+
+• Op de gang wachtte de rechercheur die mij al enkele verhoren had afgenomen.
+
+28.39
+
+298 welk pron which
+
+• Ik weet onder welke omstandigheden hij van huis is gegaan.
+
+28.37
+
+299 sluiten verb to close
+
+• Het hotel was gesloten van augustus tot april.
+
+28.24
+
+300 boven prep above
+
+• Zij scoorden vorig jaar boven het landelijk gemiddelde.
+
+28.23
+
+301 verwachten verb to expect
+
+• Analisten hadden een lichte daling verwacht.
+
+28.21
+
+302 nee interj no
+
+• Nee, nee, zo bedoel ik het niet.
+
+28.07
+
+303 foto noun, de photo
+
+• Een politiehelikopter maakte in de vroege ochtend foto’s en videobeelden van de omgeving.
+
+28.06
+
+304 wonen verb to live
+
+• Bovendien hebben we toffe buren en dat maakt het des te leuker om hier te wonen.
+
+27.89
+
+305 helpen verb to help
+
+• In de winter hielp hij de kinderen met het maken van een sneeuwpop.
+
+27.69
+
+306 punt noun, de(m) a) full stop b) item c) point
+
+• a) De zin wordt afgesloten met een punt.
+
+• b) Het derde punt op de agenda is het feest.
+
+• c) Hij eindigde twee punten achter de leider.
+
+27.64
+
+307 raken verb to touch, to hit
+
+• In bed zorgde ze ervoor dat haar voeten zijn lichaam niet raakten.
+
+27.59
+
+308 leren verb to learn
+
+• De jongeren leren in de praktijk voor bijvoorbeeld timmerman of metselaar.
+
+27.40
+
+309 dezelfde pron same
+
+• In dezelfde periode vorig jaar was er een stijging te zien.
+
+27.36
+
+310 hard adj hard
+
+• Ze gooide met een harde klap de deur achter zich dicht.
+
+27.36
+
+311 feit noun, het fact
+
+• De feiten speelden zich af tussen maart en december.
+
+27.30
+
+312 leven verb to live
+
+• Zij is er de vrouw niet naar om in het verleden te leven.
+
+27.23
+
+313 titel noun, de(m) title
+
+• De titel van het boek is wat dat betreft goed gekozen.
+
+27.05
+
+314 reden noun, de reason
+
+• Een reden voor de scheiding werd niet gegeven.
+
+27.02
+
+315 slaan verb to hit
+
+• Frank sloeg met zijn vuist op tafel.
+
+27.01
+
+316 afgelopen adj last
+
+• Afgelopen jaar had hij een grote hit.
+
+26.93
+
+317 volledig adj full
+
+• Bovendien heerst in ons team volledige openheid.
+
+26.80
+
+318 inderdaad adv indeed
+
+• Hij kijkt naar de klok. Die staat inderdaad goed.
+
+26.75
+
+319 thuis adv at home
+
+• Als het risico voor je bevalling niet verhoogd is, heb je de keuze tussen een bevalling thuis of in het ziekenhuis.
+
+26.67
+
+320 half adj half
+
+• Binnen een half jaar wordt de scheiding aangevraagd.
+
+26.65
+
+321 open adj open
+
+• De deur was voor iedereen open.
+
+26.65
+
+322 vriend noun, de(m) friend
+
+• Het huis stroomt zo langzamerhand vol met vrienden en familieleden.
+
+26.38
+
+323 langs prep past
+
+• Ik liep langs de meubels.
+
+26.19
+
+324 hoofd noun, het head
+
+• De man schudde zijn al wat kalende hoofd.
+
+26.15
+
+325 uiteindelijk adj final
+
+• Wie de uiteindeiijke beslissing heeft genomen weet ik niet.
+
+26.10
+
+326 bedrijf noun, het business
+
+• In de horeca gingen in 2003 272 bedrijven failliet.
+
+25.96
+
+327 kant noun, de(m) side
+
+• De inzittenden kropen tijdig uit de auto en zwommen naar de kant.
+
+25.95
+
+328 voorbij adj past
+
+• Ze raakte niet uitgepraat over de voorbije week.
+
+25.90
+
+329 rijden verb to drive
+
+• Hij rijdt de auto de garage uit en het tuinhek door.
+
+25.63
+
+330 gemakkelijk, makkelijk adj easy
+
+• Al met al is dit geen gemakkelijke beslissing om te nemen.
+
+• Het wordt geen makkelijke klus.
+
+25.52
+
+331 zodat conj so that
+
+• Wij willen die bootjes registreren zodat we de eigenaars kunnen opsporen.
+
+25.42
+
+332 vrij adj free
+
+• In een vrij land mag je zeggen wat je vindt.
+
+36.36
+
+333 politie noun, de(f) police
+
+• De politie onderzoekt de zaak.
+
+25.22
+
+334 verhaal noun, het story
+
+• Welk verhaal wordt hier verteld?
+
+25.22
+
+335 artikel noun, het a) article b) product, object
+
+• a) De rechtbank vond het in strijd met artikel 8 van de mensenrechten.
+
+• b) In de winkel verkopen ze huishoudelijke artikelen als potten en pannen.
+
+25.19
+
+336 boek noun, het book
+
+• Boeken schrijven is makkelijk, interviews geven is moeilijk.
+
+25.17
+
+337 onderzoek noun, het research
+
+• De hypothesen moeten nog door archeologisch onderzoek worden gestaafd.
+
+25.14
+
+338 kopen verb to buy
+
+• Ik heb vorige week nog een nieuwe fiets gekocht.
+
+24.94
+
+339 zowel adv both
+
+• De rechter acht zowel diefstal als bedreiging bewezen.
+
+24.93
+
+340 betekenen verb to mean
+
+• Maar groter betekent ook duurder.
+
+24.91
+
+341 bezig adj busy
+
+• We zijn allemaal bezig met de band.
+
+24.86
+
+342 gevolg noun, het result
+
+• Hij overleed aan de gevolgen van een overdosis heroïne.
+
+24.67
+
+343 school noun, de school
+
+• Op school is hij de beste leerling van de klas.
+
+24.66
+
+344 hangen verb to hang
+
+• Ik bleef nog even uit het raam hangen.
+
+24.64
+
+345 plan noun, het plan
+
+• Voor dat plan moet het parlement met twee derde meerderheid toestemming geven.
+
+24.49
+
+346 wanneer conj when
+
+• Het was het klokje waar hij als kind al naar luisterde wanneer hij in bed lag.
+
+29.34
+
+347 daarmee adv with it
+
+• Hun bedrijf is in rook opgegaan en daarmee hun inkomen.
+
+24.25
+
+348 extra adj additional
+
+• De extra manschappen moeten voorkomen dat de zaak uit de hand loopt.
+
+24.24
+
+349 pakken verb to take
+
+• Hij pakte het koffertje en klikte het slot open.
+
+24.12
+
+350 nadat conj after
+
+• De fontein werd in 1781 gebouwd, nadat een brand het centrum verwoest had.
+
+24.08
+
+351 ruim adj spacious
+
+• Ze heeft een ruime kamer met een mooi uitzicht.
+
+• (adv) Ze kregen ruim 300 reacties.
+
+23.98
+
+352 voeren verb to have, to carry out
+
+• Maar wat een dom gesprek voeren ze.
+
+23.93
+
+353 ongeveer adv about
+
+• Het bellen van vast naar mobiel wordt ongeveer drie cent goedkoper.
+
+23.89
+
+354 idee noun, de(f)/het idea
+
+• Vincent kwam met een leuk idee.
+
+23.88
+
+355 zin noun, de(m) a) sentence b) sense
+
+• a) Korte zinnen zijn gemakkelijker te begrijpen.
+
+• b) Iedereen vraagt zich wel eens af wat de zin van het leven is.
+
+23.74
+
+356 zondag noun, de(m) Sunday
+
+• Op zaterdag en zondag is de voorstelling om halftien afgelopen.
+
+23.72
+
+357 geloven verb to believe
+
+• Hij gelooft ten onrechte dat tactiek belangrijker is dan talent.
+
+23.63
+
+358 zaterdag noun, de(m) Saturday
+
+• In de nacht van zaterdag op zondag was er een feest.
+
+23.41
+
+359 hoeven verb to need (to)
+
+• Zij hoeven hun medicijnen niet te betalen.
+
+23.39
+
+360 staat noun, de(m) state
+
+• De gevel werd zorgvuldig in de oorspronkelijke staat hersteld.
+
+23.30
+
+361 veranderen verb to change
+
+• De wereld is enorm veranderd.
+
+23.29
+
+362 leuk adj nice
+
+• Zij heeft een leuke baan, een leuk huis en twee kinderen.
+
+23.14
+
+363 bieden verb to offer
+
+• Ze bieden een mooi bedrag voor de woning.
+
+23.13
+
+364 auto noun, de(m) car
+
+• Hij had in zijn auto op haar gewacht.
+
+23.11
+
+365 rest noun, de rest
+
+• De rest van de familie komt ook nog aan de beurt.
+
+23.10
+
+366 vader noun, de(m) father
+
+• Je vader en moeder hoeven minder belasting te betalen.
+
+22.88
+
+367 familie noun, de(f) family
+
+• Op de foto stond de hele familie.
+
+22.87
+
+368 precies adj exact
+
+• De precieze afmetingen zijn nog niet bekend.
+
+22.82
+
+369 steken verb a) to stab b) to put
+
+• a) Zij stak hem met het mes.
+
+• b) Hij steekt de sleutel in het slot.
+
+22.78
+
+370 trouwens adv anyway
+
+• Ook vorig seizoen presteerde hij trouwens niet al te best.
+
+22.76
+
+371 begrijpen verb to understand
+
+• Ik begrijp niet naar wie jij altijd zit te bellen.
+
+22.70
+
+372 moeder noun, de(f) mother
+
+• Haar moeder kreeg juist in deze maanden het diepste respect voor haar eigen kind.
+
+22.70
+
+373 stoppen verb to stop
+
+• Hij stopte enkele keren om haar te laten genieten van het uitzicht.
+
+22.64
+
+374 lid noun, het member
+
+• Twintig jaar is het echtpaar lid van de carnavalsvereniging.
+
+22.57
+
+375 leveren verb to supply
+
+• De goederen werden nooit geleverd maar de klanten waren wel hun geld kwijt.
+
+22.43
+
+376 laag adj low
+
+• Je kunt hoge of lage salarissen betalen.
+
+22.42
+
+377 tonen verb to show
+
+• Het huis toonde de sporen van hun abrupte vertrek.
+
+22.37
+
+378 waarbij adv in which
+
+• Een vierkant is ook een bijzondere ruit: het is een ruit waarbij alle hoeken gelijk zijn.
+
+22.36
+
+379 praten verb to talk
+
+• We hebben met uw vrouw gepraat over het huis.
+
+22.26
+
+380 vorm noun, de(m) form
+
+• Het project heeft bestuurlijk de vorm van een stichting.
+
+22.26
+
+381 zichzelf pron herself, himself, itself, yourself, themselves
+
+• Hoe schat u zichzelf in in politiek opzicht?
+
+• Ze vonden zichzelf best goed.
+
+22.26
+
+382 hetzelfde pron the same
+
+• Het is hetzelfde behang als mijn oma had.
+
+22.19
+
+383 juist adv really; on the contrary
+
+• Het is juist leuk als je komt.
+
+22.10
+
+384 meter noun, de(m) metre
+
+• De put was zeker vijf meter diep en bijna 30 meter lang.
+
+22.08
+
+385 rol noun, de role
+
+• Ze hebben hun rol gespeeld en hun doel bereikt.
+
+21.98
+
+386 prijs noun, de(m) price
+
+• De gemiddelde prijs ligt tussen de 150 en 300 euro.
+
+21.90
+
+387 tellen verb to count
+
+• Onderzoekers vonden een manier om alle insecten te vangen, te benoemen en te tellen.
+
+21.86
+
+388 reageren verb to react
+
+• Op afgunst en schijnheiligheid reageer ik kordaat.
+
+21.85
+
+389 waarvan adv whose
+
+• Dat is informatie waarvan de betrouwbaarheid niet altijd kan worden geverifieerd.
+
+21.82
+
+390 jongen noun, de(m) boy
+
+• De jongens gingen op de fiets naar het strand.
+
+21.81
+
+391 waarop adv on which
+
+• Waarop baseer je die veronderstelling?
+
+21.72
+
+392 dienst noun, de(m) service
+
+• Ik zou graag willen dat je me een dienst bewees.
+
+21.71
+
+393 ervan adv of it
+
+• Dat ziet er lekker uit; mag ik ook een stukje ervan?
+
+21.70
+
+394 draaien verb to turn
+
+• Heel langzaam draaiden haar ogen omlaag en keken naar mij.
+
+21.54
+
+395 roepen verb to call
+
+• ‘Hallo!’ riep ik en zwaaide ook nog met allebei mijn handen.
+
+21.53
+
+396 daarvoor adv therefore, for that
+
+• Hij wilde een nieuwe baan en had daarvoor de voorzitter nodig.
+
+21.49
+
+397 gelukkig adj happy
+
+• Zolang we winnen, is iedereen gelukkig.
+
+21.48
+
+398 sturen verb to send
+
+• Hij stuurt mij elke dag een sms’je.
+
+21.45
+
+399 dragen verb to carry
+
+• Daarna droeg hij zijn zeven vuilniszakken naar de stoeprand.
+
+21.44
+
+400 verkopen verb to sell
+
+• Op de markt staat een kraam waar ze snoep verkopen.
+
+21.42
+
+401 resultaat noun, het result
+
+• Het resultaat van het onderzoek bevestigt alle verhalen over wanpraktijken en gesjoemel.
+
+21.41
+
+402 minuut noun, de minute
+
+• Vijf minuten later werd me verzekerd dat de zaak geregeld zou worden.
+
+21.34
+
+403 niks pron nothing
+
+• Ik geloof er niks van dat je dit zelf wilde.
+
+21.32
+
+404 verdwijnen verb to disappear
+
+• Een voor een verdwenen mijn vrienden naar huis.
+
+21.20
+
+405 daarbij adv with it, besides
+
+• Ik heb daar nu geen tijd voor en daarbij heb ik er ook niet zoveel zin in.
+
+21.17
+
+406 totaal adj total
+
+• Het totale aantal afgelegde kilometers was vorig jaar groter dan 9 miljard.
+
+21.12
+
+407 meestal adv mostly
+
+• Vanmiddag blijft het op een bui na meestal droog.
+
+21.01
+
+408 succes noun, het success
+
+• De kansen op een mislukking zijn groter dan die op een succes.
+
+20.99
+
+409 besluiten verb to decide
+
+• We besloten brood te smeren en op pad te gaan.
+
+20.96
+
+410 kosten verb to cost
+
+• Die maatregelen kosten geld.
+
+20.86
+
+411 straat noun, de street
+
+• De meeste huizen in deze straat zijn goed onderhouden.
+
+20.81
+
+412 ouder noun, de(m) parent
+
+• Alle kinderen hadden hun ouders meegenomen naar school.
+
+20.75
+
+413 organiseren verb to organize
+
+• Zij organiseert een benefietconcert om geld in te zamelen voor voedsel.
+
+20.72
+
+414 bijzonder adj special
+
+• De bijzondere tentoonstelling trok veel aandacht.
+
+• in het bijzonder, in het bijz.: Maaltijden zijn van prima kwaliteit in het bijz. de visschotels.
+
+20.68
+
+415 acht num eight
+
+• Ik moet acht uur slaap per dag hebben.
+
+20.66
+
+416 duren verb to last
+
+• De werkzaamheden starten op 6 februari en duren vermoedelijk tot in de zomervakantie.
+
+20.65
+
+417 water noun, het water
+
+• Enkele brandweerlieden drongen het gebouw binnen en spoten het onder water.
+
+20.64
+
+418 wijzen verb to point
+
+• Op het eerste gezicht wijst niets op kwade opzet.
+
+20.59
+
+419 terecht adj correct, deserved
+
+• Hij was de terechte winaar.
+
+20.53
+
+420 vormen verb to form
+
+• De gekozen artiesten vormen een hechte eenheid.
+
+20.53
+
+421 persoon noun, de(m) person
+
+• Hij reserveerde een tafel voor drie personen.
+
+20.49
+
+422 waarschijnlijk adv probably
+
+• Waarschijnlijk is het werk volgende week klaar.
+
+20.47
+
+423 zeven num seven
+
+• Zij scoorde vorige week zeven keer voor de provinciate ploeg.
+
+20.47
+
+424 waardoor adv as a result of which
+
+• Er worden geen knopen doorgehakt waardoor zaken blijven liggen.
+
+20.42
+
+425 klinken verb to sound
+
+• In de weilanden klonk het loeien van vee.
+
+20.27
+
+426 periode noun, de(f) period
+
+• Vandaag is het zwaar bewolkt en er zijn perioden met motregen.
+
+20.23
+
+427 merken verb to notice
+
+• Ik merkte dat ik het leuk vond om mee te doen.
+
+20.21
+
+428 helft noun, de half
+
+• De helft van uw loon gaat naar belastingen.
+
+20.20
+
+429 recht noun, het right
+
+• Maar de rechten van het kind gaan gepaard met de rechten van het individu.
+
+20.16
+
+430 opzetten verb to set up
+
+• De tentoonstelling werd speels opgezet om het ook voor kinderen leuk te maken.
+
+20.15
+
+431 gebruik noun, het use
+
+• Het gebruik van biobrandstof voor auto’s wordt gestimuleerd.
+
+20.09
+
+432 gevoel noun, het feeling
+
+• Het boek heeft een slot dat de lezer een gevoel van opluchting geeft.
+
+20.09
+
+433 beeld noun, het statue
+
+• Er stond een stenen beeld in de tuin.
+
+19.96
+
+434 grand noun, de(m) ground
+
+• Ze bouwen een huis op de grand van zijn vader.
+
+19.94
+
+435 normaal adj normal
+
+• Op een normale dag gebeurt zoiets niet.
+
+19.84
+
+436 bouwen verb to build
+
+• Binnenkort kunnen er woningen worden gebouwd.
+
+19.83
+
+437 zoon noun, de(m) son
+
+• Het koppel kreeg een zoon en twee dochters.
+
+19.80
+
+438 deur noun, de door
+
+• Wij gingen weg en trokken de deur van het huis achter ons dicht.
+
+19.79
+
+439 rood adj red
+
+• Het knipperlicht vervangt het rode licht op de toren.
+
+19.79
+
+440 ontstaan verb to start
+
+• De brand is vermoedelijk ontstaan door kortsluiting.
+
+19.76
+
+441 meisje noun, het girl
+
+• Het gaat om meisjes van 7 en 8 en een jongetje van nog geen jaar oud.
+
+19.71
+
+442 enorm adj enormous
+
+• Deze sector kende vorig jaar een enorme groei.
+
+19.62
+
+443 nacht noun, de(m) night
+
+• Het was al diep in de nacht toen hij eindelijk thuiskwam.
+
+19.55
+
+444 hoewel conj although
+
+• Het bedrijf presteerde aardig in ons land, hoewel de omzet op hetzelfde niveau bleef.
+
+19.45
+
+445 uw pron your
+
+• Graag zien we uw sollicitatiebrief en cv in het Nederlands tegemoet.
+
+19.45
+
+446 gelijk adj equal
+
+• Zij verdeelde de appel in twee gelijke helften.
+
+20.23
+
+447 vergeten verb to forget
+
+• Na een week was iedereen vergeten wat er gebeurd was.
+
+19.39
+
+448 bereiken verb to reach
+
+• Ze sloegen linksaf en bereikten drie kilometer verderop de top van een andere heuvel.
+
+19.26
+
+449 algemeen adj general
+
+• Achter dit algemene beeld gaan toch enkele verschillen schuil.
+
+19.18
+
+450 passen verb to suit
+
+• Zij passen uitstekend bij elkaar en vullen elkaar op belangrijke punten aan.
+
+19.09
+
+451 richten (zich) verb to focus
+
+• Hij richt zich vanaf nu op zijn carrière.
+
+18.92
+
+452 verschil noun, het difference
+
+• Er zijn enkele kleine verschillen tussen de merken.
+
+18.90
+
+453 programma noun, het programme, program
+
+• Zij presenteerde programma’s op radio en televisie.
+
+• De Zwitser neemt de Tour in zijn programma op.
+
+18.64
+
+454 lachen verb to laugh
+
+• Hij gedroeg zich aardig en hij lachte vriendelijk.
+
+18.63
+
+455 groeien verb to grow
+
+• Ik heb nog nooit gehoord dat een kind groeit van suiker.
+
+18.62
+
+456 verdienen verb to earn
+
+• Denk je met dit idee geld te kunnen verdienen?
+
+18.55
+
+457 verschijnen verb to appear
+
+• Ze verscheen sinds 1988 niet meer in het openbaar.
+
+18.53
+
+458 krant noun, de newspaper
+
+• Ik schrijf tegenwoordig berichten voor een krant alsook voor enige tijdschriften.
+
+18.42
+
+459 eten verb to eat
+
+• De kinderen eten braaf hun groente en fruit.
+
+18.34
+
+460 nummer noun, het number
+
+• Mijn moeder woonde ook in deze straat op nummer 10.
+
+18.32
+
+461 belang noun, het importance
+
+• Het belang van het team gaat boven het belang van het individu.
+
+in het belang van: Ze handelen in het belang van hun dochter.
+
+18.25
+
+462 jullie pron you
+
+• Welke film hebben jullie gisteren bekeken?
+
+18.23
+
+463 situatie noun, de(f) situation
+
+• Hij zit in een moeilijke situatie en is daardoor verdrietig.
+
+18.13
+
+464 kilometer noun, de(m) kilometre
+
+• Alle wagens rijden met een gemiddelde snelheid van 30 kilometer per uur.
+
+18.12
+
+465 toekomst noun, de(f) future
+
+• Zij sparen voor de toekomst.
+
+18.11
+
+466 zwart adj black
+
+• Ze had een zwart lint om haar haar gebonden.
+
+18.11
+
+467 verklaren verb to explain
+
+• Hoe verklaar je het dat hij wel op tijd thuis was en jij niet?
+
+18.08
+
+468 honderd num hundred
+
+• Minder dan drie op de honderd kiezers zijn nog lid van een politieke partij.
+
+18.07
+
+469 bepaald adj certain
+
+• Op bepaalde momenten weet je gewoon niet meer waar je bent.
+
+18.00
+
+470 aandacht noun, de attention
+
+• De bedoeling was om zo wat meer aandacht te vestigen op de taalkunde.
+
+17.99
+
+471 waarmee adv with which
+
+• De dief had een apparaatje bij zich waarmee hij het winkelalarm kon uitschakelen.
+
+17.91
+
+472 daardoor adv therefore
+
+• De boiler raakte oververhit en daardoor ontstond brand in de keuken.
+
+17.88
+
+473 speciaal adj special
+
+• Zij moet speciaal voedsel eten in verband met haar allergie.
+
+17.81
+
+474 beslissen verb to decide
+
+• Uiteindelijk beslist de top van elke partij wie waar op de lijst komt te staan.
+
+17.80
+
+475 bepalen verb to determine
+
+• De smaak van bier wordt bepaald door het gebruikte water.
+
+17.74
+
+476 dochter noun, de(f) daughter
+
+• Bij de deur kijkt hij nog een keer om naar zijn vrouw en dochter.
+
+17.66
+
+477 plaatsen verb to place
+
+• In ons huis worden nieuwe ramen geplaatst.
+
+17.66
+
+
+
+
+
+2 Body
+
+Note that some of the most frequent terms for body parts also have extensive use in more general meanings, e.g. hoofd, kop, mond, etc.
+
+hand 44.98 hand
+
+oog 31.50 eye
+
+hoofd 26.15 head
+
+voet 16.41 foot
+
+kop 16.20 head
+
+gezicht 15.52 face
+
+rug 14.30 back
+
+hart 14.07 heart
+
+been 12.55 leg
+
+arm 11.91 arm
+
+mond 10.40 mouth
+
+vinger 8.30 finger
+
+oor 8.04 ear
+
+neus 7.90 nose
+
+schouder 7.32 shoulder
+
+haar 7.14 hair
+
+knie 5.89 knee
+
+tand 5.35 tooth
+
+borst 5.23 chest
+
+buik 5.05 belly
+
+nek 4.31 neck
+
+huid 4.17 skin
+
+lip 3.63 lip
+
+keel 3.36 throat
+
+pink 3.01 little finger
+
+teen 2.80 toe
+
+tong 2.59 tongue
+
+hersenen, hersens 2.50 brain
+
+duim 2.36 thumb
+
+enkel 2.34 ankle
+
+wang 2.30 cheek
+
+vuist 2.29 fist
+
+hals 2.24 neck
+
+bil 2.15 buttock
+
+maag 2.14 stomach
+
+orgaan 1.74 organ
+
+schoot 1.73 lap
+
+voorhoofd 1.69 forehead
+
+spier 1.60 muscle
+
+heup 1.57 hip
+
+nagel 1.56 nail
+
+long 1.54 lung
+
+wenkbrauw 1.51 eyebrow
+
+pols 1.50 wrist
+
+kaak 1.49 jaw
+
+rechterhand 1.35 right hand
+
+baard 1.24 beard
+
+zij 1.23 side
+
+kin 1.18 chin
+
+kont 1.18 bottom
+
+achterhoofd 1.18 back of the head
+
+dij 1.10 thigh
+
+schedel 1.06 skull
+
+elleboog 1.01 elbow
+
+snor 1.00 moustache
+
+gelaat 0.79 face
+
+wijsvinger 0.77 index finger
+
+linkerhand 0.66 left hand
+
+vingertop 0.48 fingertip
+
+
+
+478 stem noun, de a) voice b) vote
+
+• a) Ik hoor mijn eigen stem op het antwoordapparaat.
+
+• b) De huidige president kreeg de meeste stemmen en werd dus herkozen.
+
+17.63
+
+479 Frans adj French
+
+• Bastide is een Franse benaming voor een nieuw aangelegde en versterkte nederzetting.
+
+17.56
+
+480 dienen verb to serve (as)
+
+• Deze strepen dienen als camouflage in de bossen.
+
+17.51
+
+481 gebied noun, het area
+
+• Het systeem biedt vooral een goede dekking in stedelijke gebieden.
+
+17.49
+
+482 richting noun, de(f) direction
+
+• Je probeert deze discussie in een andere richting te duwen.
+
+17.49
+
+483 vertrekken verb to leave
+
+• Maar liefst zeven uur moesten we wachten om te kunnen vertrekken.
+
+17.48
+
+484 openen verb to open
+
+• Hij opende de deur en sloot die geluidloos achter zich.
+
+17.47
+
+485 voorkomen verb a) to occur b) to prevent
+
+• a) De luisteraars bedenken drie trefwoorden die in het gedicht moeten voorkomen.
+
+• b) We moeten voorkomen dat hij zich buitengesloten voelt.
+
+17.39
+
+486 dood noun, de death
+
+• De dood komt altijd onverwacht.
+
+17.38
+
+487 missen verb to miss, to lack
+
+• Het team zelf miste creativiteit om het spel open te breken.
+
+17.31
+
+488 morgen adv tomorrow
+
+• Vandaag is het niet gelukt, maar morgen gaan we het opnieuw proberen.
+
+17.24
+
+489 antwoord noun, het answer
+
+• De informatie op het bord geeft op deze vragen antwoord.
+
+17.23
+
+490 heten verb to be called
+
+• Het bedrijf bestaat al sinds 1984, maar heette destijds anders.
+
+17.11
+
+491 persoonlijk adj personal
+
+• De drummer verliet de band om persoonlijke redenen.
+
+17.07
+
+492 voorbeeld noun, het example
+
+• In het voorbeeld ziet u een zak met tien knikkers.
+
+17.06
+
+493 weekend noun, het weekend
+
+• Wij eten altijd aan tafel, doordeweeks en in het weekend.
+
+17.06
+
+494 slagen verb to succeed
+
+• Als hij slaagt in zijn opdracht krijgt hij 300 miljoen dollar
+
+17.05
+
+495 doel noun, het goal
+
+• Het doel van spyware is meestal om geld te verdienen.
+
+17.03
+
+496 gelden verb to apply
+
+• Die maatregel geldt voor 21 dagen.
+
+17.01
+
+497 stappen verb to step
+
+• Ze stapte in de richting van het centrum.
+
+17.00
+
+498 licht noun, het light
+
+• Er scheen licht door het raam.
+
+16.98
+
+499 klaar adj ready
+
+• Toen hij klaar was, nam een andere jongen zijn plaats in.
+
+16.95
+
+500 muziek noun, de(f) music
+
+• De Nederlandse koren die Russische muziek, zang of dans brengen, zijn razend populair.
+
+16.95
+
+501 ondanks prep in spite of
+
+• Het tweede doelpunt bleef ondanks een handvol kansen uit.
+
+16.95
+
+502 liever adv rather
+
+• Ik zou liever zelf met hem meegaan.
+
+16.91
+
+503 twintig num twenty
+
+• Het is twintig minuten fietsen naar jouw huis.
+
+16.73
+
+504 buurt noun, de neighbourhood
+
+• Er wonen veel jonge mensen in onze buurt.
+
+16.70
+
+505 slachtoffer noun, het victim
+
+• Het slachtoffer kreeg als compensatie een mooie bos bloemen.
+
+16.66
+
+506 reactie noun, de(f) reaction
+
+• Zij kreeg leuke reacties op haarartikel.
+
+16.65
+
+507 bekijken verb to look at
+
+• Hij gaat bekijken of ze morgen mee naar de film kunnen.
+
+16.59
+
+508 contact noun, het contact
+
+• Wie zijn fiets herkent kan contact opnemen met de politie.
+
+16.57
+
+509 televisie noun, de(f) television
+
+• Hij zette de televisie aan om naar het nieuws te kijken.
+
+16.55
+
+510 tegenover prep opposite, against
+
+• Ze stonden tegenover elkaar te schreeuwen.
+
+16.54
+
+511 kaart noun, de map
+
+• De nieuwe weg stond nog niet op de kaart.
+
+16.50
+
+512 voorlopig adj provisional
+
+• Het is een voorlopige oplossing waar ze later nog naar gaan kijken.
+
+16.45
+
+513 avond noun, de(m) evening
+
+• De avond valt en de zon gaat in voile pracht onder
+
+16.44
+
+514 voet noun, de(m) foot
+
+• Haar voeten waren opgezwollen door de lange wandeling.
+
+16.41
+
+515 rekening noun, de(f) bill
+
+• Hij vroeg de rekening van het drankje.
+
+rekening houden met: Je moet wel rekening houden met zijn beperkingen.
+
+16.40
+
+516 breken verb to break
+
+• De stengels van deze plant breken gemakkelijk.
+
+16.39
+
+517 eeuw noun, de century
+
+• In de vorige eeuw was het leven toch wat rustiger.
+
+16.36
+
+518 betreffen verb to concern
+
+• Het betreft een vrouw die haar sleutel vergeten is.
+
+• wat betreft: Mijn moeder is niet gemakkelijk wat betreft uitgaan.
+
+16.27
+
+519 kop noun, de(m) a) head b) cup
+
+• a) Met een punt van zijn overhemd droogde hij zijn zwetende kop.
+
+• b) Om mijzelf te kalmeren zette ik thuis een kop koffie.
+
+16.20
+
+520 dicht adj closed
+
+• Er was niemand thuis zodat ze voor een dichte deur stonden.
+
+18.91
+
+521 direct adj immediate
+
+• De gids zocht met de lantaarn de directe omgeving af.
+
+• (adv) Hij wilde direct met zijn nieuwe auto rijden.
+
+16.19
+
+522 druk adj busy
+
+• Langs het hotel liep een drukke verkeersweg.
+
+16.19
+
+523 melden verb to report
+
+• Dit bedrijf meldde maandag dat de winst daalt.
+
+16.17
+
+524 daarvan adv thereof, from that
+
+• Het was koud maar dankzij zijn jas had hij daarvan weinig last.
+
+16.08
+
+525 inmiddels adv meanwhile
+
+• Inmiddels is zij twintig jaar oud en nog steeds aan het zwemmen.
+
+16.05
+
+526 lukken verb to succeed
+
+• Wij wilden winnen en dat lukte ook.
+
+16.02
+
+527 film noun, de(m) film
+
+• Er is een groot verschil tussen het boek en de film.
+
+16.01
+
+528 mogelijkheid noun, de(f) possibility
+
+• De financiële mogelijkheden van de club waren gering.
+
+15.95
+
+529 markt noun, de market
+
+• Hij ging naar de markt en kocht daar groente en fruit.
+
+15.93
+
+530 publiek noun, het public
+
+• Met zijn duidelijke taal dicht hij de kloof tussen het publiek en de politiek.
+
+15.93
+
+531 informatie, info noun, de(f) information
+
+• De informatie op deze site is voor iedereen toegankelijk.
+
+• Voor mij is het de enige site die goede info geeft.
+
+15.92
+
+532 geraken verb to get
+
+• Ik was verdwaald en wist niet meer thuis te geraken.
+
+15.91
+
+533 alsof conj as if
+
+• Ze liep alsof ze wist dat ik achter haar liep.
+
+15.87
+
+534 overigens adv anyway
+
+• De oorzaak is overigens nooit aan het licht gekomen.
+
+15.85
+
+535 Duits adj German
+
+• Ik houd wel van die Duitse degelijkheid.
+
+15.84
+
+536 keuze noun, de choice
+
+• De keuze voor een nieuwe partner kwam als een verrassing.
+
+15.80
+
+537 rekenen verb to count
+
+• De supporters rekenden op een grote overwinning.
+
+15.75
+
+538 oh interj oh
+
+• ‘Oh, wat een schatje,’ zei de nieuwe tante.
+
+15.74
+
+539 blij adj happy
+
+• Het blije kind huppelde weg.
+
+15.66
+
+540 nauwelijks adv hardly
+
+• De afgelopen jaren hebben we nauwelijks nog wat van je gehoord.
+
+15.62
+
+541 opnemen verb to record
+
+• In de studio namen ze hun nieuwe cd op.
+
+15.61
+
+542 lijst noun, de list
+
+• De molen staat op de lijst van de beschermde monumenten.
+
+15.60
+
+543 wit adj white
+
+• In de vijver zwommen twee witte zwanen.
+
+15.59
+
+544 officieel adj official
+
+• De officiële opening is op zaterdag 16 September.
+
+15.55
+
+545 diep adj deep
+
+• Op sommige plaatsen ontstonden door de overstroming diepe putten.
+
+15.54
+
+546 hoogte noun, de(f) height
+
+• De toren heeft een hoogte van dertig meter.
+
+15.53
+
+547 gezicht noun, het face
+
+• Wim hield zijn handen voor zijn gezicht.
+
+15.52
+
+548 stijgen verb to rise
+
+• De temperatuur steeg tot zesentwintig graden.
+
+15.42
+
+549 gesprek noun, het conversation
+
+• Het gesprek ging over de vakantie.
+
+15.36
+
+550 rust noun, de rest
+
+• Een gevoel van rust komt over haar.
+
+15.34
+
+551 kloppen verb to knock, to beat
+
+• Zij klopte zachtjes op de deur.
+
+15.33
+
+552 stap noun, de(m) step
+
+• Hij liep stap voor stap naar de keuken.
+
+15.33
+
+553 blijkbaar adv apparently
+
+• Blijkbaar hebben jullie mijn redenering toch niet helemaal begrepen.
+
+15.29
+
+554 verlaten verb to leave
+
+• De journalisten wordt verzocht de zaal te verlaten.
+
+15.29
+
+555 ervaring noun, de(f) experience
+
+• Als ploeg hebben we er een leerrijke ervaring aan overgehouden.
+
+15.26
+
+556 dood adj dead
+
+• Een dode bultrugwalvis is aangespoeld op het strand van de Maasvlakte.
+
+15.22
+
+557 geschiedenis noun, de(f) history
+
+• De geschiedenis van deze stad is interessant.
+
+15.15
+
+558 namelijk adv namely
+
+• Je moet hard werken, het gaat namelijk niet allemaal vanzelf.
+
+15.13
+
+559 duur adj expensive
+
+• Hij heeft een duur boek gekocht.
+
+15.11
+
+560 ergens adv somewhere
+
+• Je zal me dus niet gauw ergens zien binnenstappen.
+
+15.09
+
+561 bewijzen verb to prove
+
+• Camerabeelden bewijzen dat zij wel in de bar geweest is.
+
+15.07
+
+562 vervolgens adv then
+
+• We verzamelden bij de kerk en gingen vervolgens naar de tentoonstelling.
+
+15.06
+
+563 plek noun, de place, spot
+
+• Ze zochten een plek om wat te drinken.
+
+14.99
+
+564 centrum noun, het centre
+
+• We wandelden naar het centrum van de stad.
+
+14.86
+
+565 geboren adj born
+
+• De baby is in april geboren.
+
+14.85
+
+566 groen adj green
+
+• Nu zie je nog steeds eiken met groen blad.
+
+14.84
+
+567 oorlog noun, de(m) war
+
+• De Romeinen hebben een oorlog uitgevochten met Carthago.
+
+14.83
+
+568 politiek noun, de(f) politics
+
+• Hij combineerde een zware job met de lokale politiek.
+
+14.81
+
+569 ondertussen adv meanwhile
+
+• De barman was ondertussen aan ons tafeltje komen staan.
+
+14.80
+
+570 ruimte noun, de(f) space
+
+• Ze hebben behoefte aan een eigen ruimte om te kunnen musiceren.
+
+14.75
+
+571 durven verb to dare
+
+• Hij durfde niet te verte lien dat hij een slecht rapport had.
+
+14.64
+
+572 nieuws noun, het news
+
+• Het nieuws over de brand verspreidde zich snel.
+
+14.64
+
+573 band noun, de(m) bond
+
+• Met mijn moeder heb ik een prima band.
+
+14.60
+
+574 overlijden verb to die
+
+• Mijn tante is vorige week in haar slaap overleden.
+
+14.58
+
+575 directeur noun, de(m) director
+
+• De directeur gaf alle medewerkers de rest van de dag vrij.
+
+14.56
+
+576 schieten verb to shoot
+
+• Hij schoot de bal in het doel.
+
+14.55
+
+577 zomer noun, de(m) summer
+
+• Na een schitterende winter volgde een dito zomer.
+
+14.55
+
+578 kracht noun, de strength
+
+• Hij heeft veel kracht in zijn armen voor zo’n kleine jongen.
+
+14.51
+
+579 wellicht adv possibly, perhaps
+
+• De grootste tegenstand komt wellicht uit de buurt.
+
+14.50
+
+580 genieten verb to enjoy
+
+• Wij genoten van de prachtige natuur.
+
+14.49
+
+581 bedoeling noun, de(f) intention
+
+• Het is de bedoeling dat iedereen iets lekkers meeneemt.
+
+14.48
+
+582 voorstellen verb to propose
+
+• Ik stel voor dat we nu teruggaan.
+
+• zich voorstellen: Je kan je niet voorstellen hoe blij ik ben dat je weer terug bent.
+
+14.45
+
+583 erop adv on it
+
+• Een hart met een naam erop en een pijl erdoor.
+
+14.43
+
+584 leeftijd noun, de(m) age
+
+• Op achtjarige leeftijd speelde hij al prachtig viool.
+
+14.39
+
+585 ontvangen verb to receive
+
+• De startende ondernemer ontvangt drie jaar lang financiële ondersteuning.
+
+14.39
+
+586 rug noun, de(m) back
+
+• Het is onaardig om met je rug naar iemand toe te gaan zitten.
+
+14.30
+
+587 behalve conj except
+
+• Iedereen was blij, behalve Johan, want die bleef met de rommel zitten.
+
+14.28
+
+588 bank noun, de a) bank b) bench, sofa
+
+• a) De banken verhogen de rentetarieven.
+
+• b) Ik zat op de bank met een mooi boek.
+
+14.20
+
+589 absoluut adj absolute
+
+• Twintig juni is de absolute deadline.
+
+• (adv) Ik was het absoluut niet met haar eens.
+
+14.19
+
+590 nogal adv rather
+
+• Gisteren was ik op bezoek bij een vriend die nogal slecht ter been is.
+
+14.18
+
+591 lekker adj tasty
+
+• Hij maakte een lekkere maaltijd klaar.
+
+14.17
+
+592 negen num nine
+
+• De schepen zijn ongeveer negen weken op zee.
+
+14.15
+
+593 hart noun, het heart
+
+• Zijn hart klopte zo hard dat hij het voelde.
+
+14.07
+
+594 bellen verb to ring, to call
+
+• Er wordt gebeld.
+
+14.06
+
+595 waar adj true
+
+• Het lijkt een vreemd verhaal, maar het is echt waar.
+
+14.06
+
+596 vreemd adj strange, foreign
+
+• Het is een vreemde jongen, maar hij is wel aardig.
+
+14.05
+
+597 waarde noun, de(f) value
+
+• De waarde van het huis is flink gestegen.
+
+14.04
+
+598 ziekenhuis noun, het hospital
+
+• Alle gewonden werden overgebracht naar ziekenhuizen.
+
+14.01
+
+599 betrekken verb to involve
+
+• Tegen mijn zin werd ik betrokken in het gesprek.
+
+13.91
+
+600 oplossing noun, de(f) solution
+
+• Er bestaat eigenlijk geen echte oplossing voor deze klacht.
+
+13.90
+
+601 verkeerd adj wrong
+
+• Heb je nu alweer het verkeerde huiswerk gemaakt?
+
+13.87
+
+602 slag noun, de(m) blow
+
+• Dat zijn vrouw overleed was voor hem een zware slag.
+
+aan de slag: Snel gingen ze aan de slag om alles op te ruimen.
+
+13.86
+
+603 bericht noun, het message
+
+• Ze stuurde een bericht toen ze geslaagd was voor haar diploma.
+
+13.85
+
+604 dergelijk adj such
+
+• Ik heb nooit eerder van dergelijke zaken gehoord.
+
+13.83
+
+605 duizend num thousand
+
+• Een vergunning kost jaarlijks tot duizend euro.
+
+13.80
+
+606 collega noun, de(m) colleague
+
+• Overdag het werk, na afloop met collega’s napraten in het café, dan terug naar huis.
+
+13.77
+
+607 vrezen verb to fear
+
+• Er is door de verbouwing veel minder verknoeid dan ik vreesde.
+
+13.77
+
+608 overtuigen verb to convince
+
+• Piet probeerde me te overtuigen om ook een gokje te wagen.
+
+13.76
+
+609 moeite noun, de(f) difficulty
+
+• Met moeite kon hij de letters nog ontcijferen.
+
+13.75
+
+610 baan noun, de job
+
+• Als je bent afgestudeerd, moet je op zoek naar een baan.
+
+13.66
+
+611 last noun, de(m) load
+
+• Het was alsof een zware last van mijn schouders viel.
+
+last hebben van: De plant heeft weinig last van ruwe weersomstandigheden.
+
+13.66
+
+612 rustig adj quiet
+
+• Het is een stille, rustige jongen.
+
+13.66
+
+613 tekst noun, de(m) text
+
+• Je hebt blijkbaar de tekst niet gelezen.
+
+13.64
+
+614 bezoek noun, het visit
+
+• Morgen komen mijn leukste oom en tante op bezoek.
+
+13.60
+
+615 hoop noun, de a) hope b) pile
+
+• a) Er was nog hoop op een goede afloop.
+
+• b) Er lag een hoop stenen naast de weg.
+
+13.58
+
+616 kamer noun, de room
+
+• Ze besluiten in een hotel een kamer te nemen voor de nacht.
+
+13.56
+
+617 treffen verb to hit, to strike
+
+• De bal trof doel en het was 1–0.
+
+13.54
+
+618 uiteraard adv of course, naturally
+
+• Uiteraard hebben we in sportief opzicht veel aan hem te danken.
+
+13.54
+
+619 orde noun, de order
+
+• Zijn werken getuigen van een gevoel voor orde, ritme en regelmaat.
+
+in orde zijn: We checken ook of het papierwerk en de vergunning in orde zijn.
+
+13.53
+
+620 lijn noun, de line
+
+• Op de vloer liep een zwarte lijn waarachter je moest blijven wachten.
+
+13.51
+
+621 aanwezig adj present
+
+• Alle aanwezige klanten schoten in de lach.
+
+13.50
+
+622 gang noun, de(m) corridor
+
+• In de gangen van het schoolgebouw hangen de jassen van de kinderen.
+
+13.50
+
+623 voorzien verb to provide
+
+• De nieuwe regeling voorziet in subsidie voor de laagste inkomens.
+
+13.49
+
+624 overal adv everywhere
+
+• In de loop van de dag krijgen we perioden met zon en het blijft vrijwel overal droog.
+
+13.48
+
+625 keren verb to turn
+
+• De auto keerde aan het einde van de straat.
+
+13.46
+
+626 tafel noun, de table
+
+• Bij ons ligt de hond vaak onder de bank of onder de tafel.
+
+13.43
+
+627 middel noun, het means
+
+• Ze voerden actie voor meer werk en meer middelen voor de sociale zekerheid.
+
+13.41
+
+628 gezin noun, het family
+
+• Het gezin bestond uit vader, moeder en drie kinderen.
+
+13.40
+
+629 licht adj light
+
+• Ze zat in een lichte kamer met uitzicht op de tuin.
+
+13.40
+
+630 dik adj thick
+
+• Zijn schoenen zakten weg in de dikke laag modder.
+
+13.39
+
+631 dagelijks adj daily
+
+• Het dagelijks leven gaat gewoon door.
+
+• (adv) Het gebeurt dagelijks dat hij te laat komt.
+
+13.38
+
+632 mening noun, de(f) opinion
+
+• Ik deel haar mening over het drinken van alcohol niet.
+
+13.34
+
+633 eindelijk adv finally
+
+• Na lang wachten kwam eindelijk toch antwoord.
+
+13.29
+
+634 grens noun, de border
+
+• Wij zijn zojuist de grens tussen Nederland en België gepasseerd.
+
+13.29
+
+635 menen verb to believe, to think
+
+• Statistici menen dat een kleine afwijking niet uitzonderlijk is.
+
+13.29
+
+636 beslissing noun, de(f) decision
+
+• Iedereen is tegen de beslissing van de rechter.
+
+13.15
+
+637 telkens adv each time
+
+• De tijdsduur van de huurovereenkomst is telkens één jaar.
+
+13.15
+
+638 ontdekken verb to discover
+
+• Ik ontdekte dat ik nog tien euro in mijn portemonnee had.
+
+13.12
+
+639 gooien verb to throw
+
+• Ze mochten zoveel confetti gooien als ze wilden.
+
+13.08
+
+640 zoiets pron something
+
+• Het was onvoorstelbaar dat vader zoiets deed.
+
+13.08
+
+641 wet noun, de law
+
+• Dat staat nu eenmaal in de wet.
+
+13.06
+
+642 drinken verb to drink
+
+• De kinderen drinken limonade.
+
+13.03
+
+643 gebouw noun, het building
+
+• Het gebouw biedt ruimte aan drie bedrijven.
+
+13.00
+
+644 luisteren verb to listen
+
+• Zijn vader luisterde geamuseerd.
+
+12.90
+
+645 opdracht noun, de task
+
+• De kandidaten moesten verschillende opdrachten uitvoeren.
+
+12.88
+
+646 twaalf num twelve
+
+• De achtertuin was zes bij twaalf meter.
+
+12.84
+
+647 stil adj silent
+
+• De telefoon rinkelde in het stille huis.
+
+12.76
+
+648 verleden noun, het past
+
+• Het museum geeft een kijkje in het verleden van de club.
+
+12.74
+
+649 hoeveel num how many, how much
+
+• Hier staat precies hoeveel calorieën je per dag mag hebben.
+
+12.73
+
+650 voldoende adj sufficient
+
+• Verderop is er voldoende parkeerruimte.
+
+12.70
+
+651 dreigen verb to threaten
+
+• De directie dreigde met het ontslag van 75 werknemers.
+
+12.67
+
+652 spel noun, het game
+
+• Is de mahjong in orde, dan is het spel klaar en worden de punten geteld.
+
+12.67
+
+653 eenmaal adv a) just b) once
+
+• a) Het hoort nu eenmaal bij het leven dat mensen ziek worden of dood gaan.
+
+• b) De club wist slechts eenmaal te winnen.
+
+12.65
+
+654 wijze noun, de way
+
+• Het was een wijze van praten die me wel beviel.
+
+12.63
+
+655 zorg noun, de a) care b) worry
+
+• a) Patiënten liggen langer in het ziekenhuis of hebben thuis extra zorg nodig.
+
+• b) Die mannen hebben echt wel andere zorgen aan hun hoofd.
+
+12.63
+
+656 los adj loose
+
+• Hij struikelde over zijn losse veters.
+
+12.60
+
+657 tevreden adj satisfied
+
+• Wat een heerlijk rustig en tevreden jongetje.
+
+12.59
+
+658 brief noun, de(m) letter
+
+• Ze stuurde elke week een lange brief.
+
+12.57
+
+659 sterven verb to die
+
+• Mijn oma is op 96-jarige leeftijd gestorven.
+
+12.57
+
+660 been noun, het leg
+
+• Ze was moe en haar benen voelden zwaar aan.
+
+12.55
+
+661 omgeving noun, de(f) environment, surroundings
+
+• Er was in de omgeving niemand meer te zien.
+
+12.55
+
+662 broer noun, de(m) brother
+
+• Ze ging met haar broer naar de kermis.
+
+12.54
+
+663 daarin adv therein
+
+• Zij kreeg een doosje met daarin een ketting.
+
+12.52
+
+664 onmiddellijk adj immediate
+
+• De voetballer beëindigt met onmiddellijke ingang zijn carrière.
+
+• (adv) We zijn het paard onmiddellijk gaan ophalen.
+
+12.52
+
+665 indruk noun, de(m) impression
+
+• Zijn levensverhaal maakte veel indruk.
+
+12.48
+
+666 onderzoeken verb to investigate
+
+• Alle kaartjes moeten op vingerafdrukken onderzocht worden.
+
+12.44
+
+667 beschouwen verb to consider
+
+• Ik beschouw alles wat ik krijg als mooi meegenomen.
+
+12.43
+
+668 straks adv later
+
+• Kom je straks nog even langs?
+
+12.43
+
+669 taal noun, de language
+
+• De taal van de liefde is universeel.
+
+12.35
+
+670 winkel noun, de(m) shop
+
+• De winkel stond vol klanten.
+
+12.32
+
+671 ervoor adv for it
+
+• De daarop volgende publiciteit zorgde ervoor dat deze regels werden veranderd.
+
+12.27
+
+672 breed adj wide
+
+• Televisiebeelden toonden een 30 meter brede krater.
+
+12.23
+
+673 regel noun, de(m) rule
+
+• De overheid is gebonden aan regels.
+
+12.23
+
+674 lucht noun, de air
+
+• Ik ging naar buiten, want ik had behoefte aan frisse lucht.
+
+12.22
+
+675 hulp noun, de help
+
+• Door hulp in te schakelen sta je er niet meer alleen voor.
+
+12.20
+
+676 daarop adv on it
+
+• Hij liep naar de kast en zette de envelop daarop.
+
+12.18
+
+677 warm adj hot
+
+• Hij zat lekker in het warme zonnetje.
+
+12.15
+
+678 tegenwoordig adv nowadays
+
+• Tegenwoordig koop je niet veel meer voor een euro.
+
+12.10
+
+679 tekenen verb to draw
+
+• Het kind tekende een huis en kleurde het daarna in.
+
+12.06
+
+680 volk noun, het people
+
+• Het volk juichte de koning toe.
+
+12.01
+
+681 voordeel noun, het advantage
+
+• Het voordeel van deze winkel is dat alles er goedkoper is.
+
+12.01
+
+682 lief adj nice
+
+• Hij is een lieve vader voor zijn kinderen.
+
+11.95
+
+683 serieus adj serious
+
+• Hans is een serieuze werker die altijd goed zijn best doet.
+
+11.94
+
+684 ernstig adj serious
+
+• De aangereden fietser had ernstige verwondingen.
+
+11.93
+
+685 arm noun, de(m) arm
+
+• Ze nam het kind in haar armen en knuffelde het.
+
+11.91
+
+686 vanwege prep because of
+
+• Vanwege de overstroming moesten we iets eerder naar huis.
+
+11.89
+
+687 regelmatig adj regular
+
+• Hij is een regelmatige gast.
+
+• (adv) De groepsleden kwamen de voorbije twintig jaar regelmatig samen.
+
+11.88
+
+688 vriendin noun, de(f) a) (female) friend b) girlfriend
+
+• a) Haar moeder zwaaide haar na tot ze met een sliert vriendinnen uit het zicht was verdwenen.
+
+• b) Hij en zijn vriendin zijn 21 jaar als ze gaan trouwen.
+
+11.87
+
+689 bed noun, het bed
+
+• Er gaat toch niets boven slapen in je eigen bed!
+
+11.86
+
+690 top noun, de(m) top
+
+• De toppen van de dennen steken roerloos als bezems in de lucht.
+
+11.82
+
+691 kennis noun, de(f) a) knowledge b) acquantaince
+
+• a) Hij heeft weinig kennis op het gebied van techniek.
+
+• b) Vrienden en kennissen kwamen op bezoek.
+
+11.74
+
+692 flink adj significant
+
+• Het duurde nog een flinke tijd voor we de eindstreep zagen.
+
+11.72
+
+693 stand noun, de(m) a) position b) score
+
+• a) Het bed staat in de laagste stand.
+
+• b) Na dertig minuten was de stand al 4–0.
+
+11.71
+
+694 mama noun, de(f) mummy
+
+• Kleine kinderen kunnen hun papa en mama echt niet missen.
+
+11.69
+
+695 eindigen verb to end
+
+• De tweede dag eindigde in een hoogtepunt toen we opnieuw wonnen.
+
+11.67
+
+696 relatie noun, de(f) relation
+
+• De relatie met zijn vader kon beter.
+
+11.65
+
+697 bang adj afraid, frightened
+
+• De bange kinderen kropen bij elkaar.
+
+11.63
+
+698 slapen verb to sleep
+
+• Ik sliep heerlijk in het grote bed.
+
+11.63
+
+699 macht noun, de power
+
+• Zij heeft de macht om dat te doen.
+
+11.62
+
+700 kerk noun, de church
+
+• Deze kerk is gebouwd in de Gotische stijl.
+
+11.61
+
+701 beroep noun, het profession
+
+• De opleiding leidt op voor beroepen als ontwerper, tekenaar, uitvoerder of opzichter.
+
+11.46
+
+702 lichaam noun, het body
+
+• Vol bewondering keek zij naar zijn prachtige lichaam.
+
+11.40
+
+703 rijk adj rich
+
+• De rijke generatie heeft veel te besteden.
+
+11.40
+
+704 ontwikkelen verb to develop
+
+• Kinderen ontwikkelen zich in een enorm tempo.
+
+11.39
+
+705 regelen verb to regulate, to arrange
+
+• Heb je al opvang voor die dagen kunnen regelen?
+
+11.37
+
+706 kwijt adj lost
+
+• Hij is zijn horloge kwijt.
+
+11.34
+
+707 beseffen verb to realize
+
+• Gaandeweg beseft hij dat hij minder gemeen heeft met bepaalde vrienden dan hij dacht.
+
+11.33
+
+708 allerlei pron all kinds of
+
+• Ik voel me vrij om allerlei leuke dingen te doen.
+
+11.29
+
+709 dorp noun, het village
+
+• Veel mensen gaan van het dorp naar de stad om werk te vinden.
+
+11.28
+
+710 gedachte noun, de(f) thought
+
+• Hij uitte zijn gedachten over de wetenschap en het geloof.
+
+11.26
+
+711 invloed noun, de(m) influence
+
+• Deze discussie heeft geen invloed op de huidige onderhandelingen.
+
+11.26
+
+712 delen verb to share
+
+• Het komt voor dat vossen zelfs hun hoi delen met konijnen en dassen.
+
+11.25
+
+713 vliegen verb to fly
+
+• Vogels vliegen niet als het donker is.
+
+11.24
+
+714 jammer adj a pity
+
+• Het is jammer dat je je zo beroerd voelt.
+
+11.19
+
+715 Nederlands noun, het Dutch
+
+• Hij weigert Nederlands te spreken of te bewijzen dat hij die taal kent.
+
+11.14
+
+716 herinneren verb to remember
+
+• Ik kan mij herinneren dat er bij mij in de klas een landkaart hing op het bord.
+
+11.09
+
+717 beloven verb to promise
+
+• Mijn moeder heeft me een dvd-speler beloofd als ik een goed rapport heb.
+
+11.08
+
+718 afstand noun, de(m) distance
+
+• De afstand varieert van twintig tot vijftig kilometer
+
+11.06
+
+719 prachtig adj wonderful
+
+• Het landschap is omgeven door een prachtige, heldere zee.
+
+11.04
+
+720 bezoeken verb to visit
+
+• Soms bezoeken we een museum.
+
+10.98
+
+721 eerlijk adj honest, fair
+
+• Van een eerlijke herverdeling van het geld is geen sprake.
+
+10.96
+
+722 voorstel noun, het proposal
+
+• De voorstellen van de commissie werden in de vergadering besproken.
+
+10.94
+
+723 veilig adj safe
+
+• Ik woon gelijkvloers en ik geloof dat mijn huis vrij veilig is.
+
+10.90
+
+724 Engels adj English
+
+• Het Engelse elftal heeft gisteravond verloren.
+
+10.86
+
+725 vlak adv right
+
+• Ze hoort ons niet aankomen tot we vlak voor haar staan.
+
+10.86
+
+726 bewust adj conscious, aware
+
+• Het is een bewuste keus: we gaan met elkaar om of we doen dat niet.
+
+10.82
+
+727 optreden verb to appear
+
+• Door urenlang door te gaan kan er hoofdpijn optreden.
+
+10.80
+
+728 feest noun, het party
+
+• Het feest barstte los en zou tot in de late uurtjes duren.
+
+10.73
+
+729 geel adj yellow
+
+• Het pad voert door een gele bloemenzee.
+
+10.68
+
+730 kwestie noun, de(f) question, issue
+
+• Het is een kwestie van oefenen.
+
+10.67
+
+731 perfect adj perfect
+
+• Ze maakte een eenvoudige maar perfecte dressing van olie, azijn, knoflook, zout en peper.
+
+10.66
+
+3 Clothing
+
+General terms and parts of clothing
+
+kleren 3.33 clothes
+
+kleding 3.31 clothing
+
+knoop 2.47 button
+
+mouw 2.40 sleeve
+
+kledij 1.61 clothing
+
+kraag 0.99 collar
+
+Items of clothing
+
+schoen 6.34 shoe
+
+broek 4.72 trousers
+
+jas 3.28 coat
+
+trui 2.80 sweater
+
+hoed 2.33 hat
+
+jurk 1.96 dress
+
+pet 1.88 cap, hat
+
+T-shirt 1 67 T-shirt
+
+uniform 1.64 uniform
+
+laars 1.59 boot
+
+rok 1.49 skirt
+
+hoofddoek 1.46 headscarf
+
+riem 1.38 belt
+
+hemd 1.22 vest, shirt
+
+kostuum 118 suit
+
+sok 1.15 sock
+
+handschoen 1.03 glove
+
+sjaal 0.82 scarf
+
+kous 0.81 stocking
+
+onderbroek 0.80 underpants
+
+mantel 0.78 overcoat
+
+muts 0.72 hat
+
+overhemd 0.70 shirt
+
+
+
+732 links adj a) left b) left-wing
+
+• a) De linkse auto is van mij.
+
+• b) De linkse partijen hebben een grote winst behaald.
+
+10.60
+
+733 god noun, de(m) god
+
+• Sommige mensen geloven in een god in de hemel.
+
+10.56
+
+734 springen verb to jump
+
+• Ze sprongen door de kamer van blijdschap.
+
+10.55
+
+735 dier noun, het animal
+
+• Op de kinderboerderij lopen dieren zoals schapen en geiten vrij rond.
+
+10.54
+
+736 hoek noun, de(m) corner
+
+• In de hoek van de kamer stond een stoel.
+
+10.53
+
+737 enig adj only
+
+• De bestuurder van de vrachtwagen was de enige gewonde.
+
+10.52
+
+738 bal noun, de(m) ball
+
+• Hij schoot de bal in het doel.
+
+10.51
+
+739 eenvoudig adj simple
+
+• Deze kunstenaar heeft een voorkeur voor eenvoudige en abstracte composities.
+
+10.49
+
+740 vergelijken verb to compare
+
+• De meisjes vergeleken de inhoud van hun broodtrommel.
+
+10.46
+
+741 verplichten verb to oblige
+
+• De school verplicht de ouders om de dure boeken te kopen.
+
+10.42
+
+742 mond noun, de(m) mouth
+
+• Zij opende haar mond om iets te zeggen.
+
+10.40
+
+743 vullen verb to fill
+
+• Hij vulde zijn flesje met water voor onderweg.
+
+10.38
+
+744 tiental noun, het ten
+
+• In de eetzaal zat al een tiental gasten.
+
+10.37
+
+745 redden verb to save
+
+• De agenten waren snel ter plaatse en redden haar leven.
+
+10.33
+
+746 studie noun, de(f) study
+
+• Er bestaan talrijke studies en onderzoekingen naar de taal van het fascisme.
+
+10.33
+
+747 afsluiten verb to close
+
+• De Stationsstraat wordt zaterdag en zondag volledig afgesloten.
+
+10.32
+
+748 gat noun, het hole
+
+• Het licht valt binnen door gaten in het beton.
+
+10.32
+
+749 kleur noun, de colour
+
+• De kleur van hun vacht is volledig roodbruin.
+
+10.31
+
+750 goedkoop adj cheap
+
+• In Australië woonde ik in goedkope pensions en jeugdherbergen.
+
+10.29
+
+751 liefde noun, de(f) love
+
+• Van bij de eerste aanblik was het liefde op het eerste gezicht.
+
+10.26
+
+752 modern adj modern
+
+• De premier heeft de mogelijkheid een modern systeem te creëren.
+
+10.25
+
+753 positie noun, de(f) position
+
+• Beide instellingen hebben een zelfstandige positie binnen het geheel van de publieke omroep.
+
+10.25
+
+754 gast noun, de(m) guest
+
+• De gasten waren tevreden over de bediening en het eten.
+
+10.24
+
+755 grijpen verb to grab
+
+• Hij greep onmiddellijk zijn telefoon en maakte waarschijnlijk de eerste foto van de brand.
+
+10.22
+
+756 aanleiding noun, de(f) reason, occasion
+
+• De verloren wedstrijd was aanleiding om het team flink te veranderen.
+
+10.21
+
+757 terrein noun, het ground
+
+• Het terrein is bereikbaar voor rolstoelgebruikers.
+
+10.06
+
+758 interessant adj interesting
+
+• Het is een heel interessante discussie.
+
+10.05
+
+759 rij noun, de row
+
+• Ik stond lang in de rij voor kaartjes voor het concert.
+
+10.03
+
+760 universiteit noun, de(f) university
+
+• Het aantal studenten dat de universiteit met een diploma verlaat, moet omhoog.
+
+10.01
+
+761 zulk pron such
+
+• Ik ben benieuwd of er een markt is voor zulke dingen!
+
+9.98
+
+762 les noun, de lesson
+
+• De lessen op school en de training van de sportclub moeten beter op elkaar aansluiten.
+
+9.95
+
+763 degelijk adj sound
+
+• Voor een degelijke journalistiek zijn middelen nodig.
+
+9.94
+
+764 erin adv in it
+
+• Hij kreeg een andere kijk op het leven en zijn eigen plaats erin.
+
+9.91
+
+765 zingen verb to sing
+
+• Ze zingt dit liedje de hele dag.
+
+9.91
+
+766 aanbieden verb to offer
+
+• De vrouw bood een goedkope armband aan die van echt goud zou zijn.
+
+9.86
+
+767 onderwerp noun, het topic
+
+• Deze onderwerpen worden behandeld tijdens de les.
+
+9.84
+
+768 vanavond adv tonight
+
+• Vergeet niet dat we vanavond om acht uur te eten gevraagd zijn bij de buren.
+
+9.83
+
+769 gevaarlijk adj dangerous
+
+• Ze reden over een steile weg met gevaarlijke haarspeldbochten.
+
+9.78
+
+770 danken verb to thank, to owe
+
+• Halle staat momenteel op de tweede plaats en dankt die klassering vooral aan een sterke maand november.
+
+• dank je wel: Wat lief zeg, dank je wel.
+
+9.77
+
+771 trouwen verb to marry
+
+• Zij trouwde met de liefde van haar leven.
+
+9.77
+
+772 erbij adv there
+
+• Zij die erbij waren, hebben het er nog steeds over.
+
+9.75
+
+773 afspraak noun, de appointment
+
+• Ik maakte een afspraak om met haar te gaan lunchen.
+
+9.74
+
+774 wensen verb to wish
+
+• Ik wil jullie alvast fijne kerstdagen wensen.
+
+9.73
+
+775 kwaad adj a) angry b) evil
+
+• a) De kwade man dreigde te vertrekken.
+
+• b) Ze zei dat er kwade geesten waren.
+
+9.71
+
+776 verlopen verb to go
+
+• De school groeide en het onderwijs verliep voorspoedig.
+
+9.71
+
+777 mijzelf, mezelf pron myself
+
+• Heb je nog plek voor mijn dochtertje van 6 jaar en mijzelf?
+
+• Ik ben voor mezelf toch tevreden over het optreden van vanavond.
+
+9.70
+
+778 muur noun, de(m) wall
+
+• Op de muur stonden allerlei kreten geschreven.
+
+9.69
+
+779 stemmen verb to vote
+
+• Ik stem op een partij die er hetzelfde over denkt als ik.
+
+9.69
+
+780 boodschap 1) noun, de(f) 2) noun, pl 1) message 2) purchase, shopping
+
+• 1) Zij kreeg de boodschap dat ze volgende week al kon beginnen.
+
+• 2) Wij gaan naar de winkel om boodschappen te doen.
+
+9.68
+
+781 gek adj crazy
+
+• Hij moet zich geen gekke dingen in zijn hoofd halen.
+
+9.65
+
+782 zak noun, de(m) bag
+
+• Stop de oude kleren maar in zakken, dan brengen we ze straks weg.
+
+9.65
+
+783 dak noun, het roof
+
+• De met mos begroeide pannen liggen scheef op het dak.
+
+9.62
+
+784 zee noun, de sea
+
+• Ze hoorden het ruisen van de zee.
+
+9.55
+
+785 vakantie noun, de(f) holiday
+
+• Ze gingen op vakantie naar Spanje.
+
+9.53
+
+786 alweer adv again
+
+• Hoewel hij ongewoon lang en diep geslapen had, kreeg hij alweer zin om naar bed te gaan.
+
+9.51
+
+787 ziek adj ill
+
+• Het zieke kind lag in bed.
+
+9.51
+
+788 verhuizen verb to move (house)
+
+• Hij droeg dure maatpakken en was verhuisd naar een peperdure flat.
+
+9.50
+
+789 schuiven verb to push, to pull
+
+• Paul schuift zijn stoel naar achteren en staat op.
+
+9.49
+
+790 bureau noun, het desk
+
+• Hij zat achter zijn bureau te schrijven en keek op.
+
+9.48
+
+791 stevig adj firm
+
+• Deze kever heeft stevige kaken.
+
+9.46
+
+792 zomaar adv just
+
+• Anne legde zich niet zomaar neer bij wat de dokters haar hadden verteld.
+
+9.45
+
+793 bedenken verb to think (up)
+
+• Zij bedacht een manier om ongezien binnen te komen.
+
+9.44
+
+794 doordat conj because
+
+• De arbeidsproductiviteit is toegenomen doordat er meer mensen zijn gaan werken.
+
+9.44
+
+795 controleren verb to check
+
+• De conducteur controleerde of iedereen een treinkaartje had.
+
+9.41
+
+796 helaas adv unfortunately
+
+• Helaas voor hen werden ze ontdekt en verjaagd.
+
+9.41
+
+797 boom noun, de(m) tree
+
+• Het zonlicht viel in stralen tussen de bomen van het bos.
+
+9.40
+
+798 drukken verb to print
+
+• Het boek werd in een grote oplage gedrukt.
+
+9.40
+
+799 dubbel adj double
+
+• De dubbele plaatjes ruilde hij op school met andere verzamelaars.
+
+9.38
+
+800 vieren verb to celebrate
+
+• De verjaardag wordt gevierd op zaterdag 6 mei.
+
+9.36
+
+801 beweging noun, de(f) movement
+
+• De kleine hersenen coördineren de bewegingen en bewaren het evenwicht.
+
+9.35
+
+802 tegelijk adv at the same time
+
+• We kunnen helaas niet alles tegelijk doen.
+
+9.33
+
+803 verbinden verb a) to link b) to bandage
+
+• a) Als je alle punten met een potloodlijn verbindt, krijg je een rechthoek.
+
+• b) De wond in zijn zij was deskundig verbonden met repen stof die verbazend wit waren.
+
+9.32
+
+804 schuld noun, de a) debt b) blame
+
+• a) Ze kunnen moeilijk krediet krijgen vanwege hun oude schuld.
+
+• b) Het is te gemakkelijk daarvan alleen de scheidsrechter de schuld te geven.
+
+9.30
+
+805 bus noun, de bus
+
+• Veel leerlingen pendelen dagelijks met de bus van en naar school.
+
+9.24
+
+806 leeg adj empty
+
+• ’s Morgens stonden er veel lege glazen op de tafel.
+
+9.24
+
+807 sfeer noun, de atmosphere
+
+• De trainer zorgt ervoor dat er een leuke sfeer heerst op het oefenveld.
+
+9.24
+
+808 taak noun, de task
+
+• Het is zijn taak om ervoor te zorgen dat iedereen het naar zijn zin heeft.
+
+9.23
+
+809 pijn noun, de pain
+
+• Hij brak zijn been en had veel pijn.
+
+9.22
+
+810 verband noun, het a) link b) bandage
+
+• a) Er is zeker een verband tussen goed je best doen en hoge cijfers halen.
+
+• b) Na vier weken gips zit haar been nu alleen nog maar in het verband.
+
+9.22
+
+811 geluk noun, het happiness, luck
+
+• Volgens de brandweer heeft de man veel geluk gehad.
+
+9.20
+
+812 voordat conj before
+
+• De mensen praatten nog wat na voordat ze naar binnen gingen.
+
+9.19
+
+813 onmogelijk adj impossible
+
+• Op papier staan wij dus voor een bij na onmogelijke opdracht.
+
+9.17
+
+814 zon noun, de sun
+
+• De zon schijnt, het is hoogzomer.
+
+9.13
+
+815 nergens adv nowhere
+
+• Jij hoeft je nergens schuldig over te voelen.
+
+9.08
+
+816 fijn adj nice
+
+• Alvast een heel fijne vakantie gewenst.
+
+9.07
+
+817 slot noun, het lock
+
+• Met een klap viel de deur in het slot.
+
+9.06
+
+818 gezond adj healthy
+
+• Gezonde voeding is belangrijk.
+
+9.05
+
+819 verdelen verb to divide
+
+• Vorig jaar hebben de ploegen de punten verdeeld.
+
+9.04
+
+820 leerling noun, de(m) pupil
+
+• De leerlingen zitten in de klas.
+
+9.03
+
+821 tenminste adv at least
+
+• Dat klinkt mij tenminste heel bekend in de oren.
+
+ten minste: Je moet ten minste tien punten hebben om verder te mogen.
+
+9.00
+
+822 midden noun, het middle
+
+• In het midden van deze bladeren zit een lichte vlek.
+
+8.97
+
+823 behandelen verb to treat
+
+• Hij verwachtte nog altijd dat hij overal correct behandeld werd.
+
+8.95
+
+824 rechts adj a) right b) right-wing
+
+• a) Het rechtse huis is blauw geverfd.
+
+• b) De rechtse partijen stemden daartegen.
+
+8.89
+
+825 loop noun, de(m) course
+
+• In de loop van de week moet duidelijk worden wat er verder gaat gebeuren.
+
+8.75
+
+826 fout adj wrong
+
+• Opnieuw gaf ze het foute antwoord.
+
+8.71
+
+827 redelijk adj reasonable
+
+• De winkel verkoopt radio’s tegen redelijke prijzen.
+
+8.66
+
+828 studeren verb to study
+
+• Hij studeerde rechten in Leuven.
+
+8.63
+
+829 donker adj dark
+
+• Hij draagt een donkere bril en tikt met zijn witte stok tegen de muur.
+
+8.59
+
+830 lied noun, het song
+
+• Welk lied stond hij daar te zingen?
+
+8.54
+
+831 zacht adj soft
+
+• Zij legde haar hoofd op het zachte kussen.
+
+8.47
+
+832 behoorlijk adj decent, considerable
+
+• Deze oogst is van een behoorlijke omvang.
+
+8.39
+
+833 reis noun, de trip, journey
+
+• De reis werd per boot gemaakt.
+
+8.39
+
+834 beurt noun, de turn
+
+• De leerlingen voeren om de beurt een opdracht uit.
+
+8.38
+
+835 simpel adj simple
+
+• Gelukkig is dit een simpele ingreep.
+
+8.31
+
+836 beneden prep under, down
+
+• Kinderen beneden de tien jaar moeten nu naar bed.
+
+8.30
+
+837 vinger noun, de(m) finger
+
+• Frank legde twee vingers op haar lippen.
+
+8.30
+
+838 blauw adj blue
+
+• De blauwe oceaan ligt er rustig bij.
+
+8.24
+
+839 werkelijk adj real
+
+• Niemand kende de werkelijke toedracht van de zaak.
+
+8.18
+
+840 opstellen verb to draw up
+
+• De erfenis wordt verdeeld volgens een testament dat de overledene heeft opgesteld.
+
+8.10
+
+841 student noun, de(m) student
+
+• Een aantal hogescholen heeft geld ontvangen voor studenten aan wie nooit onderwijs is gegeven.
+
+8.10
+
+842 waard adj worth
+
+• Het aandeel is nu meer dan 30 euro waard.
+
+8.09
+
+843 raar adj strange
+
+• Brenda vond dit maar een rare vraag.
+
+8.08
+
+844 apart adj separate
+
+• Er is een aparte weg aangelegd naar het pretpark toe.
+
+8.05
+
+845 oor noun, het ear
+
+• Hij spitste zijn oren en hoorde het tieren van de noordenwind.
+
+8.04
+
+846 pak 1) noun, het 2) noun, de(m) 1) suit 2) bunch
+
+• 1) Zij laten hun belangen behartigen door juristen met dure pakken en dassen in keurige kantoren.
+
+• 2) Met een pak enthousiasme drongen ze zelfs door tot in de finale.
+
+8.04
+
+847 begrip noun, het understanding
+
+• Uiteindelijk gaat het gebrek aan werkelijk begrip en inzicht zich wreken.
+
+8.03
+
+848 lastig adj difficult
+
+• Op hun tocht raken ze verzeild in lastige situaties.
+
+8.02
+
+849 wakker adj awake
+
+• Ik ben bang dat ze wakker wordt en niet meer verder slaapt.
+
+8.02
+
+850 tuin noun, de(m) garden
+
+• Er is een grote tuin met een tuinhuis en een garage.
+
+7.99
+
+851 verzamelen verb to collect
+
+• Het is niet meer gebruikelijk dat kinderen postzegels gaan verzamelen.
+
+7.94
+
+852 eraan adv with it
+
+• Ze zullen wel twee keer nadenken voor ze eraan beginnen.
+
+7.93
+
+853 angst noun, de(m) fear
+
+• De brandweer stopte hierna onmiddellijk met blussen uit angst te worden geëlektrocuteerd.
+
+7.92
+
+854 realiseren verb to realize
+
+• Hij realiseerde zich dat hij te laat zou komen.
+
+7.91
+
+855 gelegenheid noun, de(f) opportunity
+
+• Kom je ook langs als je daartoe in de gelegenheid bent?
+
+7.90
+
+856 neus noun, de(m) nose
+
+• Ik deed mijn ogen open en bleek ongeveer met mijn neus tegen een geparkeerde autobus te staan.
+
+7.90
+
+857 schoon adj clean
+
+• Vlekken van jam verwijdert u in het algemeen met schoon warm water.
+
+7.89
+
+858 antwoorden verb to answer
+
+• Waarom antwoord je niet op die drie vragen?
+
+7.83
+
+859 ineens adv suddenly
+
+• Ik ben niet verder gekomen dan de vooropleiding, want ineens vond ik het toch maar niets meer.
+
+7.82
+
+860 lijden verb to suffer
+
+• Als ik dat liedje hoor, herinnert me dat aan het verlies dat ik heb geleden.
+
+7.82
+
+861 langzaam adj slow
+
+• Met langzame bewegingen vouwt hij de krant dicht.
+
+7.78
+
+862 beschrijven verb to describe
+
+• De gedichten beschrijven de gevoelens van de dichter.
+
+7.75
+
+863 herkennen verb to recognize
+
+• Hij is zo veranderd dat ik hem eerst niet herkende.
+
+7.75
+
+864 besteden verb to spend
+
+• Dagelijks besteed ik ministens twee uur aan het opzoeken van al die weetjes.
+
+7.74
+
+865 fiets noun, de bicycle
+
+• Ga jij met de fiets naar je werk?
+
+7.74
+
+866 koud adj cold
+
+• Het koude water zag er onaantrekkelijk uit.
+
+7.74
+
+867 hond noun, de(m) dog
+
+• Onze hond rent graag achter een tennisbal aan.
+
+7.70
+
+868 dame noun, de(f) lady
+
+• Bij het kampioenschap voor dames eindigde ze op de vierde plaats.
+
+7.66
+
+869 meemaken verb to experience
+
+• Oudere bewoners hebben nog meegemaakt dat de eerste auto door het dorp reed.
+
+7.64
+
+870 uitkomen verb to come out
+
+• De diefstal kwam al snel uit en de daders werden opgepakt door de politie.
+
+7.64
+
+871 aardig adj nice
+
+• Het is een aardige vrouw die altijd voor een ander klaarstaat.
+
+7.60
+
+872 mis adv wrong
+
+• Ik snap niet wat daar mis mee is.
+
+7.58
+
+873 ermee adv with it
+
+• Ze zullen ermee moeten leren leven.
+
+7.57
+
+874 verandering noun, de(f) change
+
+• Inwoners moeten niet meteen drastische veranderingen verwachten.
+
+7.54
+
+875 waarvoor adv what for
+
+• Waarvoor heb je die boetes gekregen?
+
+7.53
+
+876 radio noun, de(m) radio
+
+• Televisie trok de aandacht weg van het oude medium radio.
+
+7.51
+
+877 zover adv so far
+
+• Ik lees het wel als het zover is!
+
+7.51
+
+878 daarover adv about it
+
+• Mijn ouders nemen mijn mededeling daarover laconiek in ontvangst.
+
+7.48
+
+879 opzicht noun, het regard
+
+• De timing van die aankondiging is in twee opzichten zeer interessant.
+
+7.47
+
+880 plezier noun, het pleasure
+
+• Voor het plezier van de kijker maakte ik het verhaal een beetje mooier.
+
+7.47
+
+881 aankomen verb to arrive
+
+• We zijn gisteren in Parijs aangekomen.
+
+7.40
+
+882 toestand noun, de(m) state
+
+• De man werd in kritieke toestand overgebracht naar het ziekenhuis.
+
+7.40
+
+883 station noun, het station
+
+• De reis tussen beide stations duurt ongeveer tien minuten.
+
+7.33
+
+884 bloed noun, het blood
+
+• Zijn hart maakte overuren om het nog overgebleven bloed door zijn lichaam te pompen.
+
+7.31
+
+885 toevallig adj accidental
+
+• Een toevallige voorbijganger merkte de brand tijdig op.
+
+7.29
+
+886 heer noun, de(m) gentleman
+
+• Dames en heren, hartelijk welkom.
+
+7.28
+
+887 uitnodigen verb to invite
+
+• Ze nodigen elke kunstenaar uit om te exposeren.
+
+7.27
+
+888 teken noun, het sign
+
+• In de rand van de tekst schreef hij vreemde te kens.
+
+7.25
+
+889 baas noun, de(m) boss
+
+• Veel werknemers denken dat hun baas daar anders over denkt.
+
+7.24
+
+890 maat 1) noun, de 2) noun, de 3) noun, de(m) 1) size 2) rhythm 3) mate
+
+• 1) Ik heb maat vijfenveertig van schoenen.
+
+• 2) Hij zong mee en hij sloeg de maat met zijn kwast.
+
+• 3) Mijn maat en ik gaan graag een biertje drinken.
+
+in hoge mate: Het antwoord bevreemdde mij in hoge mate.
+
+7.19
+
+891 bewegen verb to move
+
+• Elke dag een half uur bewegen is goed voor je.
+
+7.18
+
+892 oplossen verb to solve
+
+• Leo houdt van kruiswoordraadsels oplossen.
+
+7.18
+
+893 haar noun, de/het hair
+
+• Mijn ouders kregen rond hun 45ste jaar grijze haren.
+
+7.14
+
+894 vandaar adv hence
+
+• Het was nat en koud, vandaar dat we besloten niet te gaan.
+
+7.14
+
+895 dokter noun, de(m) doctor, GP
+
+• Hij is op advies van zijn dokter weer gaan zwemmen.
+
+7.12
+
+896 ontmoeten verb to meet
+
+• Heb jij de koningin weleens ontmoet?
+
+7.07
+
+897 stof noun, het dust
+
+• Na maanden niet in het huis te zijn geweest, lag overal een dikke laag stof.
+
+7.07
+
+898 achteraf adv afterwards
+
+• Uit metingen bleek achteraf dat er geen gevaar was voor de omstanders.
+
+7.05
+
+899 vooruit adv forward
+
+• Ondanks heel veel vergaderen kwamen we geen stap vooruit.
+
+7.02
+
+900 geluid noun, het sound
+
+• Hij hoorde alleen het geluid van krekels.
+
+7.00
+
+901 blad noun, het a) journal, magazine b) leaf
+
+• a) Het blad bevat informatie over de universiteit.
+
+• b) De plant heeft wat dikkere bladeren.
+
+6.96
+
+902 boos adj angry
+
+• Zij stuurden een boze brief naar het stadsbestuur.
+
+6.96
+
+903 bos 1) noun, het 2) noun, de(m) 1) forest 2) bunch
+
+• 1) Elk verkocht exemplaar is goed voor één extra boom in een van de nieuwe bossen.
+
+• 2) We hebben haar een grote bos bloemen gegeven.
+
+6.96
+
+904 knap adj a) good-looking b) smart, clever, able
+
+• a) Het is een knap meisje met prachtige krullen.
+
+• b) Vooral zijn vrije trap was een knap staaltje traptechniek.
+
+6.95
+
+905 zus noun, de(f) sister
+
+• Zij en haar zussen hebben hun vader altijd op handen gedragen.
+
+6.92
+
+906 trein noun, de(m) train
+
+• Ik moest vroeger een trein en twee bussen nemen om op school te geraken.
+
+6.91
+
+907 prima adj excellent
+
+• Volgens de website van de Onderwijsinspectie is dit een prima school.
+
+• (adv) Zij vermaakte zich prima en had veel plezier.
+
+6.86
+
+908 doorgaan verb to continue
+
+• De vele grote en kleine acties blijven ook de komende dagen en weken doorgaan.
+
+6.84
+
+909 type noun, het type
+
+• Ik ben ook niet het type dat veel bezig is met haar uiterlijk of met mode.
+
+6.84
+
+910 nadenken verb to think
+
+• Je moet bij elke beslissing heel goed nadenken.
+
+6.75
+
+911 natuur noun, de(f) nature
+
+• Een deel van de opbrengsten zal geïnvesteerd worden in het behoud van de natuur.
+
+6.73
+
+912 aannemen verb to assume
+
+• Ik heb ten onrechte aangenomen dat jij ook honger had.
+
+6.72
+
+913 geweldig adj great
+
+• Wat een geweldig nieuws.
+
+6.69
+
+914 recht adj straight
+
+• Maria hurkte met rechte rug en legde beheerst de boeken terug.
+
+6.69
+
+915 eruit adv out
+
+• Ze pikt de macaroni eruit en laat de groenten liggen.
+
+6.65
+
+916 gezellig adj enjoyable, cosy
+
+• Omdat onze school maar klein is, hangt er een gezellige sfeer.
+
+6.61
+
+917 bloem noun, de flower
+
+• De bloemen stonden in de vaas.
+
+6.55
+
+918 herhalen verb to repeat
+
+• Deze procedure moet tweemaal daags twee weken achtereen worden herhaald.
+
+6.52
+
+919 twijfelen verb to doubt
+
+• Hebben jullie als groep nooit getwijfeld of jullie wel zouden gaan?
+
+6.43
+
+920 droog adj dry
+
+• Het droge weer zorgt voor problemen.
+
+6.41
+
+921 inhoud noun, de(m) content
+
+• Vraag is altijd wat de inhoud is van bepaalde termen.
+
+6.38
+
+922 ochtend noun, de(m) morning
+
+• Vandaag is het in de ochtend eerst overal flink zonnig.
+
+6.33
+
+923 verjaardag noun, de(m) birthday
+
+• Bij deze een grote schaal gebak ter ere van mijn 25ste verjaardag.
+
+6.29
+
+924 plaat noun, de a) record b) plate
+
+• a) Een programma met evenveel presentatoren als platen.
+
+• b) De gebarsten betonnen platen moeten vervangen worden.
+
+6.24
+
+925 kost, kosten noun, de(m) cost(s)
+
+• Hij wil graag werken, de kost verdienen.
+
+• Wij betalen de trein en ook alle andere kosten.
+
+ten koste van: Als overheden al bezuinigen gaat dat ten koste van service en het personeel.
+
+6.23
+
+926 behoefte noun, de(f) need
+
+• Ons lichaam heeft meer behoefte aan calcium dan aan fosfor.
+
+6.22
+
+927 allebei num both
+
+• Gisteren stonden de twee voetballers gewoon allebei in de ploeg.
+
+6.21
+
+928 bewaren verb to keep
+
+• Vaste kazen kun je beter en langer bewaren dan zachte kazen.
+
+6.21
+
+929 uitleggen verb to explain
+
+• Hij wilde het probleem uitleggen en zocht woorden.
+
+6.20
+
+930 rand noun, de(m) edge
+
+• Uitgebreid ontbijten kan bij mooi weer aan de rand van het zwembad.
+
+6.14
+
+931 achtergrond noun, de(m) background
+
+• Op die achtergrond wilden ze haar foto nemen.
+
+6.07
+
+932 min adv minus
+
+• Acht min vijf is nog altijd drie en geen vier.
+
+zo min mogelijk: Je zou meer eiwitten moeten eten en zo min mogelijk koolhydraten.
+
+min of meer: Ze gaf me min of meer gelijk.
+
+6.07
+
+933 opmerking noun, de(f) remark
+
+• An negeert de opmerking van haar zus.
+
+6.07
+
+934 figuur noun, de/het figure
+
+• Plotseling zie ik in de krabbels die ik gemaakt heb een figuur verschijnen.
+
+• Hij is een invloedrijk figuur in de wetenschapsfilosofie.
+
+6.03
+
+935 opvallen verb to strike, to catch the eye
+
+• Ze trokken onopvallende kleren aan, zodat ze niet zouden opvallen.
+
+6.03
+
+936 ruzie noun, de(f) quarrel, row
+
+• De vrouw zou ruzie hebben gehad met haar man over het kopen van een ander huis.
+
+6.02
+
+937 winter noun, de(m) winter
+
+• Het heeft deze winter bij na niet gesneeuwd.
+
+5.94
+
+938 overkomen verb to happen to
+
+• Het overkomt mij niet elke dag dat ik kan ontbijten en tegelijk mag luisteren naar poëzie.
+
+5.83
+
+939 heerlijk adj lovely
+
+• De geur van het heerlijke gerecht doordrong het hele huis.
+
+5.82
+
+940 bespreken verb to discuss
+
+• Tijdens de vergadering werd het voorstel uitvoerig besproken.
+
+5.67
+
+941 tegelijkertijd adv at the same time
+
+• Jonge kinderen zijn heel goed in staat twee of zelfs drie talen tegelijkertijd te verwerven.
+
+5.67
+
+942 uitgaan verb to go out
+
+• Regelmatig verzucht mijn man dat hij mee wil als we een dagje uitgaan.
+
+5.42
+
+943 slim adj smart, clever
+
+• Ze heeft zelf een slimme manier bedacht om zich voort te bewegen.
+
+5.13
+
+

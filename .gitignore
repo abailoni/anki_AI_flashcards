@@ -2,3 +2,5 @@
 __pycache__/
 *.pyc
 handoff/
+.env
+data/audio_cache/

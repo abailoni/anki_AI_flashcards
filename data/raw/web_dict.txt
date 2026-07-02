@@ -1,0 +1,3285 @@
+
+
+
+Web
+
+1 eerste num first
+
+• De projectgroep komt een eerste keer bijeen op woensdag 29 juni.
+
+66.80
+
+2 tweede num second
+
+• Meer uitleg hierover volgt in de tweede paragraaf.
+
+42.56
+
+3 gij, ge pron you
+
+• Wat doet gij hier nog?
+
+• Ge moest allang in de winkel staan.
+
+12.11
+
+4 Vlaams adj Flemish
+
+• In de Vlaamse wooncode wordt het recht op een menswaardig wonen nader omschreven.
+
+26.59
+
+5 later adj later, subsequent
+
+• De bijeenkomsten die gepland stonden in de maand april worden verschoven naar een later tijdstip.
+
+35.37
+
+6 he interj hey
+
+• Het wordt toch gezegd he, ik hoop dat het klopt.
+
+0.98
+
+7 gemeente noun, de(f) municipality
+
+• De provincies en de gemeenten hebben op tal van plaatsen scholen opgericht.
+
+23.91
+
+8 Belgisch adj Belgian
+
+• Zij werd geboren uit een Belgische vader en een Italiaanse moeder.
+
+25.61
+
+9 politiek adj political
+
+• Dit is puur en alleen een politiek spelletje.
+
+22.41
+
+10 inwoner noun, de(m) resident, inhabitant
+
+• Dit komt neer op een gemiddelde jaarlijkse groei van 3,4 per duizend inwoners.
+
+15.70
+
+11 provincie noun, de(f) province
+
+• Hij begon de provincie af te reizen om steun voor zijn positie te verkrijgen.
+
+14.04
+
+12 januari noun, de(m) January
+
+• Op 1 januari 2007 moeten alle restaurants in België rookvrij zijn.
+
+19.27
+
+13 juni noun, de(m) June
+
+• De verkiezingen zijn voorzien voor juni 2005.
+
+18.04
+
+14 mei noun, de(m) May
+
+• In mei 1993 werd de huidige grondwet aangenomen.
+
+18.86
+
+15 huidig adj current
+
+• De huidige situatie kan sterk verbeterd worden.
+
+20.83
+
+16 groet noun, de(m) greeting
+
+• Hartelijke groeten en tot gauw.
+
+7.04
+
+17 September noun, de(m) September
+
+• Op 28 en 29 September vindt de 19e editie van de Kunstroute Leiden plaats.
+
+20.06
+
+18 link noun, de(m) link
+
+• Meer info vind je door naar de volgende link te gaan.
+
+7.59
+
+19 regio noun, de region
+
+• Een derde van de bevolking in de regio is chronisch ondervoed.
+
+16.04
+
+20 bron noun, de source
+
+• Dagboeken zijn een belangrijke bron voor historisch onderzoek.
+
+10.77
+
+21 basis noun, de(f) basis
+
+• Dit verslag moet de basis vormen voor dat debat.
+
+17.81
+
+22 december noun, de(m) December
+
+• Op 5 december zal Sinterklaas de school bezoeken.
+
+15.79
+
+23 oktober noun, de(m) October
+
+• Op 3 oktober vieren ze in Leiden het ontzet van de stad in 1573.
+
+18.50
+
+24 regering noun, de(f) government
+
+• De invloed die burgers kunnen uitoefenen op hun regering is gering.
+
+19.07
+
+25 maart noun, de(m) March
+
+• Maart is sinds 1987 niet zo koud geweest.
+
+16.50
+
+26 ene pron a, one
+
+• De ene week werken we wat harder dan de andere.
+
+14.07
+
+27 juli noun, de(m) July
+
+• In juli gaan we op vakantie naar Frankrijk.
+
+15.74
+
+28 Europees adj European
+
+• In Brussel zijn de meeste Europese instellingen gevestigd.
+
+24.28
+
+29 jouw pron your
+
+• Jouw idee om met zijn allen naar de film te gaan was top.
+
+7.46
+
+30 april noun, de(m) April
+
+• Pasen valt dit jaar vroeg in april.
+
+16.50
+
+31 oppervlakte noun, de(f) surface
+
+• De oppervlakte van een voetbalveld is minimaal 4050 vierkante meter.
+
+6.92
+
+32 november noun, de(m) November
+
+• Op 11 november wordt in sommige streken Sint-Maarten gevierd.
+
+15.50
+
+33 forum noun, het forum
+
+• Het forum is bedoeld om respectvol meningen met elkaar uit te wisselen.
+
+6.11
+
+34 internationaal adj international
+
+• De organisatie van de kampioenschappen was een mooi voorbeeld van internationale samenwerking.
+
+20.01
+
+35 sociaal adj social
+
+• Scouting brengt je sociale vaardigheden bij en is niet, zoals veel sportverenigingen, competitief.
+
+18.97
+
+36 cijfer noun, het a) figure, number b) mark
+
+• a) Die cijfers geven een vertekend beeld.
+
+• b) Leerlingen die goede cijfers halen, verdienen straks vrije uren.
+
+15.26
+
+37 bevolking noun, de(f) population
+
+• Hij vertegenwoordigt een grote laag van de huidige Vlaamse bevolking.
+
+13.00
+
+38 augustus noun, de(m) August
+
+• Augustus was zonnig en warm.
+
+14.62
+
+39 website noun, de website
+
+• De ANWB gebruikt cookies om haar websites gebruiksvriendelijker en persoonlijker te maken.
+
+12.05
+
+40 daarnaast adv beside it
+
+• Zij had een voltijdse job en nam daarnaast ook de zorg voor haar zoontje op zich.
+
+13.79
+
+41 sorry interj sorry
+
+• Uw stelling houdt geen steek, sorry.
+
+6.32
+
+42 divers adj various
+
+• Al in zijn middelbare schooltijd had hij diverse gedichten geschreven.
+
+11.23
+
+43 februari noun, de(m) February
+
+• Bep denkt dat er half februari een Elfstedentocht in Friesland komt.
+
+14.07
+
+44 topic noun, de/het topic
+
+• Hoe maak je een nieuw topic aan op dit forum?
+
+4.56
+
+45 indien conj if
+
+• We gaan na hoe de resultaten wijzigen indien een correctie wordt ingebouwd.
+
+8.44
+
+46 enzovoort, enz., en zo adv etc., and so on
+
+• Hier leert men blinde mensen hoe men zelfstandig kan wonen, zich zelfstandig op straat begeven, enzovoort.
+
+• Hij geeft muziekles, bespeelt het orgel, dirigeert diverse koren, enz.
+
+• Ze aten op vrijdag vaak gemakkelijk, brood met soep, een hamburger, en zo.
+
+6.68
+
+47 tja interj well
+
+• Tja, zoals sommigen kunnen bevestigen, word je daar dik van.
+
+6.13
+
+48 nationaal adj national
+
+• Er zijn vier nationale universiteiten en één regionale universiteit.
+
+18.55
+
+49 aangezien conj since
+
+• De schrik sloeg me om het hart aangezien ik daar een heel ander idee bij had.
+
+8.07
+
+50 post noun, de post
+
+• De post wordt elke dag bezorgd.
+
+7.84
+
+51 site noun, de site
+
+• Wie kan mij helpen om een coole site te vinden?
+
+8.38
+
+52 actief adj active
+
+• Deze reisorganisatie organiseert actieve zomer-en wintersportvakanties.
+
+14.56
+
+53 snappen verb to understand
+
+• Ik snap het gedeeltelijk, jazeker.
+
+6.78
+
+54 oprichten verb to establish, to found
+
+• Stichtingen worden vooral voor goede doelen opgericht.
+
+9.62
+
+55 politicus noun, de(m) politician
+
+• De politicus hield in de Kamer een vlammend betoog.
+
+11.87
+
+56 starten verb to start
+
+• De politie is een grote zoekactie gestart.
+
+17.34
+
+57 verenigen (zich) verb to unite
+
+• Individuen kunnen zich verenigen en gezamenlijke belangen verdedigen.
+
+7.24
+
+58 tevens adv also
+
+• De diefstal van de autosleutels betekende tevens de diefstal van de auto zelf.
+
+7.54
+
+59 historisch adj historical
+
+• Het bedrijf bracht een atlas met historische landkaarten uit.
+
+10.07
+
+60 economisch adj economic
+
+• Dankzij de economische crisis komt er veel creativiteit los bij het zoeken naar goedkope oplossingen.
+
+13.02
+
+61 maja interj but then
+
+• Zij had toen een vaste vriend, maja die kerel was haar niet waard.
+
+3.90
+
+62 et cetera, etc. adv etc.
+
+• De kinderen brachten de dag door met roeien, kanoën, zwemmen, etc.
+
+4.06
+
+63 oorspronkelijk adj original
+
+• De oorspronkelijke bewoners van Australië heten Aboriginals.
+
+8.03
+
+64 versie noun, de(f) version
+
+• Dit is de originele versie van het nummer.
+
+8.27
+
+65 statistiek noun, de(f) statistics
+
+• Volgens de statistieken is hij beter dan zijn landgenoot.
+
+5.44
+
+66 afbeelding noun, de(f) image
+
+• Vrouwen kunnen sneller zien of twee afbeeldingen hetzelfde zijn.
+
+4.64
+
+67 waaronder adv including
+
+• De president heeft uitgebreide bevoegdheden, waaronder ministeriële en diplomatieke benoemingen.
+
+9.28
+
+68 populair adj popular
+
+• Clijsters en Henin staan bekend als populaire en vriendelijke spelers.
+
+10.94
+
+69 baseren verb to base (on)
+
+• Het eindcijfer is gebaseerd op twee proefwerken en een mondelinge presentatie.
+
+8.68
+
+70 media noun, de media
+
+• De media waren volop aanwezig bij de kroning in Amsterdam.
+
+10.80
+
+71 voormalig adj former
+
+• Zijn voormalige baas had de zaken goed overgedragen.
+
+14.39
+
+72 vervangen verb to replace
+
+• Na de rust werd hij vervangen door een extra spits.
+
+11.95
+
+73 bedragen verb to amount (to)
+
+• Pensioenen bedragen 70% van het gemiddelde salaris.
+
+10.34
+
+74 voornamelijk adv mainly
+
+• Het onderwijssysteem is kwalitatief hoogwaardig en wordt voornamelijk publiek gefinancierd.
+
+7.01
+
+75 lokaal adj local
+
+• In de lokale media werd ruimschoots over het jubileum bericht.
+
+12.73
+
+76 tip noun, de(m) tip
+
+• Bedankt voor alle hulp en tips.
+
+6.76
+
+77 verkiezing noun, de(f) election
+
+• De eerste verkiezingen onder het nieuwe stelsel vonden plaats in 1995.
+
+12.54
+
+78 gemiddeld adj average
+
+• De gemiddelde leeftijd is de laatste decennia flink gestegen.
+
+12.52
+
+79 momenteel adv currently
+
+• Momenteel staat Feyenoord op de derde plaats.
+
+14.41
+
+80 commercieel adj commercial
+
+• Ze is op zoek naar commerciële bedrijven die meer vrouwen in de top willen opnemen.
+
+6.12
+
+81 alvast adv meanwhile
+
+• Hij had alvast alle kampeerspullen klaargezet.
+
+11.69
+
+82 Spaans adj Spanish
+
+• De Spaanse koning was ook aanwezig op het banket.
+
+8.21
+
+83 term noun, de(m) term
+
+• De term gras kan ook gebruikt worden voor andere planten.
+
+in termen van: In het competentiemanagement wordt niet gedacht in termen van niveaus of van geletterdheid.
+
+5.93
+
+84 hoofdstad noun, de capital
+
+• Amsterdam is de hoofdstad van Nederland.
+
+9.01
+
+85 Brits adj British
+
+• Britse scholieren zijn gezonder gaan eten.
+
+12.88
+
+86 grappig adj funny
+
+• Hij vertelt een grappig verhaal over zijn ouders.
+
+5.78
+
+87 wereldoorlog noun, de(m) world war
+
+• Na de wereldoorlog werd er snel begonnen aan de wederopbouw.
+
+4.39
+
+88 onafhankelijk adj independent
+
+• Laura is wat je noemt een onafhankelijke geest.
+
+7.91
+
+89 steun noun, de(m) support
+
+• Na de brand kregen zij veel steun van de buren.
+
+12.93
+
+90 centraal adj central
+
+• Het centrale deel van het land heeft een hooggebergteklimaat.
+
+12.10
+
+91 hierdoor adv because of this, through this
+
+• Ik denk dat de andere partijen hierdoor stemmen gaan verliezen.
+
+5.88
+
+92 Vlaming noun, de(m) Fleming
+
+• België wordt bewoond door Vlamingen, Walen en Brusselaars.
+
+6.55
+
+93 hierbij adv hereby, with this
+
+• Hij wordt hierbij gesteund door vele vooraanstaande wetenschappers.
+
+5.26
+
+94 hiervoor adv for this
+
+• De reden hiervoor ligt voor de hand.
+
+6.31
+
+95 Italiaans adj Italian
+
+• Dit is een zeer goed Italiaans restaurant waar we gegarandeerd blijven komen.
+
+9.37
+
+96 economie noun, de(f) economy
+
+• Structurale hervormingen kunnen het vertrouwen in de economie herstellen.
+
+9.84
+
+97 produceren verb to produce
+
+• Hoe produceren we elektriciteit?
+
+7.14
+
+98 hopelijk adv hopefully
+
+• Bedankt allemaal voor jullie tips; hopelijk helpt het.
+
+6.81
+
+99 samenwerking noun, de(f) collaboration
+
+• De gemeente doet dit project in samenwerking met de scholen.
+
+10.86
+
+100 gemeenschap noun, de(f) community
+
+• Ze maken als volwassen personen actief deel uit van de gemeenschap.
+
+7.85
+
+101 president noun, de(m) president
+
+• De gouverneurs van de deelstaten worden in India benoemd door de president.
+
+11.39
+
+102 circa, ca. adv approximately
+
+• Op het concert waren circa 50.000 mensen.
+
+5.41
+
+103 hiervan adv of this
+
+• Mogelijk zijn een aantal gegevens hiervan achterhaald.
+
+4.44
+
+104 meerderheid noun, de(f) majority
+
+• De meerderheid van de jongeren heeft een bijbaantje.
+
+9.86
+
+105 presenteren verb to present
+
+• Tijdens deze bijeenkomst werd ook het boek gepresenteerd.
+
+8.91
+
+106 parlement noun, het parliament
+
+• De leden van het parlement worden gekozen voor een periode van vijf jaar.
+
+8.36
+
+107 district noun, het district
+
+• Deze regio bestaat uit drie districten.
+
+3.57
+
+108 hoi interj hi
+
+• Hoi, hier dan even snel mijn vakantieverslag!
+
+2.90
+
+109 merk noun, het brand
+
+• Hij koopt graag kleding van een bekend merk.
+
+4.86
+
+110 recent adj recent
+
+• De meest recente film van Quentin Tarantino verschijnt binnenkort op dvd en blu-ray.
+
+10.42
+
+111 uitzenden verb to broadcast
+
+• Het songfestival wordt in vele landen uitgezonden.
+
+5.56
+
+112 burger noun, de(m) citizen
+
+• Kinderen zijn volwaardige burgers en hebben zowel recht op bescherming als recht op inspraak.
+
+10.03
+
+113 pink noun, de(m) little finger
+
+• Gij hebt meer verstand in uw pink dan 10 professoren bij elkaar.
+
+3.01
+
+114 benieuwd adj curious
+
+• Ik ben benieuwd wat ge daarover gaat zeggen.
+
+3.91
+
+115 samenleving noun, de(f) society
+
+• Onze samenleving is tegenwoordig erg gericht op het individu.
+
+8.45
+
+116 activiteit noun, de(f) activity
+
+• Op het kamp worden allerlei activiteiten georganiseerd.
+
+10.45
+
+117 relatief adj relative
+
+• Na een periode van relatieve rust, barstte het geweld los.
+
+6.98
+
+118 publiceren verb to publish
+
+• De resultaten worden gepubliceerd in een verslag dat openbaar is.
+
+7.83
+
+119 bijdrage noun, de contribution
+
+• Dankzij een bijdrage van het bestuur konden de kinderen toch op kamp.
+
+7.25
+
+120 deelstaat noun, de(m) (federal) state
+
+• Potsdam is de hoofdstad van de Duitse deelstaat Brandenburg.
+
+3.24
+
+121 erkennen verb to recognize
+
+• Ik erken absoluut mijn tekortkomingen.
+
+8.96
+
+122 afkomstig adj originating, from
+
+• Haar vriendinnetje is afkomstig uit Senegal.
+
+7.58
+
+123 westen noun, het west
+
+• In Nederland komt de wind vaak uit het westen.
+
+4.50
+
+124 live adj live
+
+• De kampioenschappen werden live uitgezonden.
+
+4.89
+
+125 productie noun, de(f) production
+
+• Industriële productie en export vertonen een stijgende lijn.
+
+7.74
+
+126 sterkte noun, de(f) strength
+
+• Deze kabel heeft een sterkte die gelijk is aan die van 99 staaldraden.
+
+sterkte wensen: Ik wens je alvast sterkte.
+
+3.73
+
+127 zender noun, de(m) channel
+
+• Deze zender heeft vaak interessante programma’s.
+
+5.13
+
+128 partner noun, de(m) partner
+
+• Ik houd van vis, maar mijn partner houdt meer van vlees.
+
+8.61
+
+129 serie noun, de(f) series
+
+• Een serie basiswetten voorziet in een aantal fundamentele rechten, zoals de vrijheid van godsdienst en meningsuiting.
+
+6.63
+
+14 Transportation
+
+weg 29.10 road
+
+auto 23.11 car
+
+straat 20.81 street
+
+wagen 14.00 car
+
+schip 11.64 ship
+
+bus 9.24 bus
+
+verkeer 8.90 traffic
+
+fiets 7.74 bicycle
+
+station 7.33 station
+
+trein 6.91 train
+
+voertuig 6.15 vehicle
+
+vliegtuig 5.92 plane
+
+motor 5.48 engine, motorcycle
+
+boot 5.14 boat
+
+vrachtwagen 5.10 lorry
+
+haven 4.37 harbour
+
+kruispunt 4.16 crossing
+
+vervoer 4.09 transport
+
+fietser 3.62 cyclist
+
+parking 3.58 parking
+
+luchthaven 3.29 airport
+
+rijbewijs 2.83 driving licence
+
+file 2.67 traffic jam
+
+motorfiets 2.64 motorcycle
+
+automobilist 2.63 motorist, driver
+
+snelweg 2.36 motorway
+
+parkeerplaats 2.21 parking space, car park
+
+tram 2.20 tram
+
+fietspad 2.19 cycle lane
+
+vliegveld 1.85 airport
+
+tunnel 1.77 tunnel
+
+taxi 1.64 taxi
+
+stoep 1.52 pavement
+
+metro 1.51 metro
+
+helikopter 1.42 helicopter
+
+benzine 1.41 petrol
+
+
+
+130 geslacht noun, het sex
+
+• Discriminatie op basis van geslacht, leeftijd en godsdienst is verboden.
+
+3.86
+
+131 alhoewel conj although
+
+• Balletjes in tomatensaus blijft mijn favoriet, alhoewel ik de laatste tijd ook erg gek ben op kroketten.
+
+3.59
+
+132 publiek adj public
+
+• Geven tweets een goed beeld van de publieke opinie?
+
+6.99
+
+133 fan noun, de(m) fan
+
+• Veel fans van Ajax waren meegereisd om de ploeg kampioen te zien worden.
+
+7.17
+
+134 beschikbaar adj available
+
+• Op de website vind je een overzicht van de beschikbare kamers.
+
+7.36
+
+135 rivier noun, de river
+
+• De Donau is de enige rivier in Europa die van west naar oost stroomt.
+
+4.42
+
+136 album noun, het album
+
+• Hoe zit het met de andere liedjes op hun album?
+
+3.89
+
+137 overzicht noun, het survey
+
+• Dit hoofdstuk wil een kort overzicht geven van de werkwijze.
+
+4.64
+
+138 militair adj military
+
+• Fotograferen van militaire objecten is verboden.
+
+7.53
+
+139 moslim noun, de(m) Muslim
+
+• Meestal wordt met een moslim een aanhanger van de islam bedoeld.
+
+5.50
+
+140 carrière noun, de career
+
+• Ook jij kunt een succesvolle carrière opbouwen.
+
+9.04
+
+141 vereniging noun, de(f) club
+
+• Ter gelegenheid van het honderdjarig bestaan organiseert de vereniging een jeugdtoernooi.
+
+9.50
+
+142 vergelijking noun, de(f) comparison
+
+• Het is verstandig een vergelijking te maken tussen de aanbiedingen van verschillende leveranciers.
+
+7.43
+
+143 succesvol adj successful
+
+• De badmintonvereniging start het nieuwe jaar met een succesvol toernooi.
+
+7.18
+
+144 eentje num one
+
+• Je zal de juiste man nog wel tegenkomen, eentje die je niet zal kwetsen.
+
+5.80
+
+145 behalen verb to gain, to achieve
+
+• Het team behaalde goede resultaten.
+
+8.10
+
+146 motorfiets noun, de motorcycle
+
+• Als het mooi weer is, trekt hij er graag met de motorfiets op uit.
+
+2.64
+
+147 verwijzen verb to refer
+
+• Hij en zijn verwijzen naar mannelijke woorden.
+
+7.22
+
+148 extreem adj extreme
+
+• Door de extreme regenval zijn er overstromingen in Toscane.
+
+5.76
+
+149 derde num third
+
+• Ongeveer een derde van de bevolking kwam stemmen.
+
+2.35
+
+150 oosten noun, het east
+
+• Hij groeide op in het oosten van het land.
+
+4.06
+
+151 origineel adj original
+
+• Ouders geven hun kind graag een originele naam.
+
+5.46
+
+152 super adj super
+
+• De dag zelf was super!
+
+2.76
+
+153 koninkrijk noun, het kingdom
+
+• België en Nederland zijn beide koninkrijken.
+
+3.19
+
+154 verkrijgen verb to obtain
+
+• De president verkreeg steun van alle groeperingen.
+
+4.35
+
+155 regionaal adj regional
+
+• Het Brabants Dagblad is de regionale krant voor Tilburg en omstreken.
+
+5.59
+
+156 diegene pron he, she, those who
+
+• Dit bericht is bestemd voor diegene die het laatst vertrekt.
+
+3.20
+
+157 rap adj fast, quick(ly)
+
+• Hij gaat in rap tempo langs elf steden.
+
+3.47
+
+158 tof adj great
+
+• De nieuwe stadsdichter van Groningen is een toffe gast!
+
+3.52
+
+159 traditioneel adj traditional
+
+• De grenzen tussen traditionele media vervagen.
+
+7.90
+
+160 editie noun, de(f) edition
+
+• Meer nieuws kunt u lezen in een volgende editie van de nieuwsbrief.
+
+6.56
+
+161 huishouden noun, het household
+
+• Dit tijdschrift geeft praktische tips om je huishouden eenvoudiger, gestroomlijnder en leuker te maken.
+
+3.75
+
+162 zalig adj glorious, heavenly
+
+• Toch niks zo zalig als die lange zomeravonden op een terrasje?
+
+2.67
+
+163 cultureel adj cultural
+
+• Culturele organisaties worden gestimuleerd om mensen aan werk te helpen.
+
+7.20
+
+164 verkiezen verb a) to prefer b) to elect
+
+• a) Welke muziekstijl verkies je? Rock, metal, punk?
+
+• b) De afgevaardigden worden via kiesdistricten verkozen.
+
+6.22
+
+165 locatie noun, de(f) location
+
+• We gingen op zoek naar een nieuwe locatie die nog meer fans kon verwelkomen.
+
+6.86
+
+166 verhogen verb to increase
+
+• De regering heeft voorgesteld om de uitkeringen te verhogen.
+
+8.20
+
+167 Engels noun, het English
+
+• Internationale communicatie verloopt in het Engels of Frans.
+
+2.20
+
+168 innen verb to collect
+
+• Het is de taak van de penningmeester om de contributie te innen.
+
+2.54
+
+169 aflevering noun, de(f) episode
+
+• De introductie van vijf personages in de eerste aflevering is opvallend.
+
+4.98
+
+170 btw noun, de(f) VAT
+
+• De btw bedraagt 21 procent.
+
+2.47
+
+171 haha interj haha
+
+• Haha, dat is vast een grapje.
+
+2.02
+
+172 republiek noun, de(f) republic
+
+• Malta is een parlementaire republiek met een president als staatshoofd.
+
+3.13
+
+173 oorsprong noun, de(m) origin
+
+• Het conflict vindt zijn oorsprong in de koloniale tijd.
+
+van oorsprong: Ledger is een van oorsprong Australische acteur.
+
+3.35
+
+174 Franstalig adj French(-speaking)
+
+• Haar nieuwe album is een groot succès in Quebec en andere Franstalige landen.
+
+4.21
+
+175 federaal adj federal
+
+• Maleisië is een federale constitutionele monarchie.
+
+7.61
+
+176 mede adv also
+
+• Dit is mede het geval vanwege ruimtegebrek.
+
+5.76
+
+177 Frans noun, het French
+
+• De voertaal op deze school is Frans.
+
+2.12
+
+178 omroep noun, de(m) broadcasting company
+
+• Omroep Brabant is de regionale omroep voor de provincie Noord-Brabant, actief op radio, televisie en internet.
+
+4.05
+
+179 democratic noun, de(f) democracy
+
+• Tsjechië is een parlementaire democratie.
+
+4.98
+
+180 opvolger noun, de(m) successor
+
+• Zijn opvolgers hebben het werk voortgezet.
+
+5.97
+
+181 democratisch adj democratic
+
+• In 1920 werd een nieuwe democratische grondwet ingevoerd.
+
+5.48
+
+182 maximaal adj maximum
+
+• De maximale duur van de subsidie bedraagt twee jaar.
+
+6.22
+
+183 artiest noun, de(m) artist
+
+• In het programma traden verschillende artiesten op.
+
+4.72
+
+184 job noun, de(m) job
+
+• De mensen met wie je werkt maken jouw job aangenaam.
+
+7.10
+
+185 stichten verb to found, to start
+
+• Zij wilde een gezinnetje stichten.
+
+3.49
+
+186 zanger noun, de(m) singer
+
+• De Franse zanger Georges Moustaki is overleden.
+
+5.11
+
+187 show noun, de(m) show
+
+• Bij dit amfitheater worden shows opgevoerd met roofvogels.
+
+5.44
+
+188 voldoen verb to satisfy, to fulfil
+
+• Om toegelaten te worden moet je voldoen aan de volgende voorwaarden.
+
+6.52
+
+189 streven verb to pursue, to strive (for)
+
+• We streven naar gelijke rechten én kansen voor iedereen.
+
+4.83
+
+190 alternatief noun, het alternative
+
+• Ik vind ook dat er alternatieven zijn om kinderen te straffen.
+
+5.80
+
+191 definitie noun, de(f) definition
+
+• Wat is de definitie van sportiviteit?
+
+3.24
+
+192 conflict noun, het conflict
+
+• Iedereen raakt wel eens in een conflict verzeild.
+
+6.06
+
+193 werking noun, de(f) functioning
+
+• Een dienst moet zijn werking evalueren en nadenken over mogelijkheden om verbeteringen aan te brengen.
+
+5.44
+
+194 luisteraar noun, de(m) listener
+
+• Het nieuwe radiostation trok miljoenen luisteraars.
+
+2.67
+
+195 uniek adj unique
+
+• Een twitterspreekuur is een unieke en snelle mogelijkheid om kennis met elkaar te delen.
+
+6.90
+
+196 genre noun, het genre
+
+• Ik ben vooral een fan van het genre fantasie.
+
+3.43
+
+197 kenmerk noun, het characteristic
+
+• In deze periode zijn alle kenmerken van de bottel goed zichtbaar.
+
+2.86
+
+198 rijk noun, het state (kingdom, empire)
+
+• Na de dood van de keizer viel het rijk uiteen.
+
+2.93
+
+199 beschrijving noun, de(f) description
+
+• leder model wordt ingeleid door een korte theoretische beschrijving.
+
+2.86
+
+200 religie noun, de(f) religion
+
+• De vrijheid van religie wordt door de wet in bescherming genomen.
+
+3.35
+
+201 grotendeels adv largely
+
+• Het intérieur van de molen is grotendeels in authentieke staat.
+
+4.49
+
+202 heilig adj holy
+
+• We zijn op dat vlak ook geen heilig landje.
+
+3.45
+
+203 vertegenwoordigen verb to represent
+
+• Ook minderheidsgroepen en vrouwen zijn hierbij vertegenwoordigd.
+
+4.97
+
+204 cc cc
+
+• Deze pot met een inhoud van 500 cc is uitermate geschikt voor het verpakken van o.a. soepen of vlees.
+
+1.87
+
+205 groei noun, de(m) growth
+
+• Windenergie heeft een grote groei doorgemaakt.
+
+6.68
+
+206 religieus adj religious
+
+• De paus is een religieuze leider.
+
+4.50
+
+207 o.a. amongst other things
+
+• De gemaakte produkten bestaan o.a. uit jenever, likeur en eau de vie.
+
+2.50
+
+208 bouw noun, de(m) construction
+
+• De bouw van de kerk begon in 1440.
+
+6.61
+
+209 onafhankelijkheid noun, de(f) independence
+
+• Hij werd de eerste gekozen president sinds de onafhankelijkheid.
+
+3.05
+
+210 westers adj Western
+
+• De afgelopen decennia is in veel westerse landen de hoeveelheid landbouwgrond afgenomen.
+
+4.70
+
+211 zever noun, de(m) nonsense
+
+• Wat hij daar beweert, is gewoon zever.
+
+1.67
+
+212 stichting noun, de(f) foundation, institution
+
+• Daarnaast zijn er nog kleinere stichtingen actief op het gebied van gezondheidszorg.
+
+4.14
+
+213 departement noun, het department
+
+• Bayeux is een Franse stad in het departement Calvados in de regio Normandië.
+
+2.99
+
+214 opvolgen verb to follow
+
+• Alvast bedankt en ik ga de raad opvolgen denk ik.
+
+3.70
+
+215 wereldwijd adj worldwide
+
+• ledereen is tegenwoordig actief op het wereldwijde web.
+
+5.80
+
+216 single noun, de(m) single
+
+• Zijn eerste drie singles werden grote zomerhits.
+
+2.90
+
+217 aantonen verb to demonstrate
+
+• Archeologische vondsten hebben aangetoond dat de plaats al sinds 12.000 voor Christus bewoond wordt.
+
+4.53
+
+218 crisis noun, de(f) crisis
+
+• De economische crisis heeft ook zijn invloed gehad.
+
+4.82
+
+219 islam noun, de(m) Islam
+
+• De islam is ontstaan in de 7e eeuw.
+
+3.58
+
+220 optie noun, de(f) option
+
+• Verkopen is pas de laatste optie!
+
+5.22
+
+221 netwerk noun, het network
+
+• Een goed sociaal netwerk is onmisbaar.
+
+4.33
+
+222 toenmalig adj former, then
+
+• In 1973 trad Denemarken toe tot de toenmalige EEG.
+
+5.31
+
+223 digitaal adj digital
+
+• Ik probeer up-to-date te blijven in het huidige digitale tijdperk.
+
+4.42
+
+224 geografie noun, de(f) geography
+
+• De geografie beschrijft de aarde, zowel wat natuurlijke als wat menselijke factoren betreft.
+
+1.62
+
+225 favoriet adj favourite
+
+• Ik ga morgen naar de verjaardag van m’n favoriete nichtje.
+
+4.76
+
+226 unie noun, de(f) union
+
+• In 1264 kwam er een unie tot stand tussen Noorwegen en IJsland.
+
+6.13
+
+227 wijten verb to blame
+
+• Die onvoldoendes zijn te wijten aan een gebrek aan inzet.
+
+5.73
+
+228 radiostation noun, het radio station
+
+• De overheid beheert enkele televisie-en radiostations.
+
+1.95
+
+229 indusief adv including
+
+• De prijs is indusief 21% btw.
+
+4.27
+
+230 godsdienst noun, de(m) religion
+
+• Het recht op vrijheid van godsdienst wordt nageleefd.
+
+2.75
+
+231 ’s avonds adv in the evening, at night
+
+• Mijn oom was zo vriendelijk om ons’s avonds aan de bushalte af te zetten.
+
+6.41
+
+232 hierin adv in this
+
+• Het perspectief van het kind is hierin zeer belangrijk.
+
+2.86
+
+233 grenzen verb to border
+
+• De provincie grenst aan Duitsland.
+
+2.11
+
+234 zwangerschap noun, de(f) pregnancy
+
+• De zwangerschap en bevalling zijn prima verlopen.
+
+2.50
+
+235 beluisteren verb to listen
+
+• Zijn dagen vult hij met muziek beluisteren.
+
+2.41
+
+236 dr. noun, de(m) Dr, doctor
+
+• Dr. Brown geeft een lezing aan de universiteit.
+
+2.57
+
+237 voorstander noun, de(m) supporter
+
+• Ik ben een voorstander van de vrijheid van meningsuiting.
+
+3.99
+
+238 variant noun, de variant
+
+• Er worden alsmaar meer varianten van producten aangeboden.
+
+3.39
+
+239 evolutie noun, de(f) evolution
+
+• Evolutie is het overgaan van de ene soort in de andere.
+
+3.73
+
+240 wijzigen verb to change
+
+• Zijn mentaliteit zal op die paar dagen niet gewijzigd zijn.
+
+4.06
+
+241 hierboven adv above
+
+• De hierboven beschreven cijfers zijn afkomstig van de website.
+
+1.78
+
+242 testen verb to test
+
+• In het kader van dit korte project kon dit niet volledig getest worden.
+
+4.55
+
+243 eenheid noun, de(f) unit, unity
+
+• Een eenheid is een geheel met kenmerkende eigenschappen.
+
+3.81
+
+244 alstublieft, alsjeblieft, a.u.b. please
+
+• Wilt u ons alstublieft het adres mailen.
+
+• Twijfel alsjeblieft niet te veel.
+
+• Kan iemand het a.u.b. even verduidelijken?
+
+1.53
+
+245 analyse noun, de(f) analysis
+
+• Een goede analyse van de situatie is zeer gewenst.
+
+4.16
+
+246 kenmerken verb to characterize
+
+• Zijn regeerperiode werd gekenmerkt door politieke stabiliteit en economische vooruitgang.
+
+2.76
+
+247 hit noun, de(m) hit
+
+• Zijn eerste tune was meteen een hit.
+
+2.61
+
+248 keizer noun, de(m) emperor
+
+• Japan is een constitutionele monarchie, met als staatshoofd de keizer.
+
+2.29
+
+249 hierop adv (up)on this
+
+• Er is niemand die hierop met zekerheid het juiste antwoord kan geven.
+
+2.49
+
+250 veelal adv often
+
+• Zij krijgen veelal hulp van een grotere kring van vrijwilligers.
+
+3.31
+
+251 geografisch adj geographic(al)
+
+• Ook verschillen de eilanden geografisch van elkaar.
+
+1.89
+
+252 respectievelijk adv respectively
+
+• De prijs bedraagt respectievelijk 450 euro en 535 euro.
+
+4.29
+
+253 respecteren verb to respect
+
+• Als ge om mekaar geeft, moet ge elkaars mening ook respecteren.
+
+4.10
+
+254 werkloos adj unemployed
+
+• Deze maatregelen hebben volgens hem veel mensen werkloos gemaakt.
+
+3.86
+
+255 Waals adj Walloon
+
+• De Nederlandse minister-president ontmoet zijn Vlaamse en Waalse collega’s jaarlijks.
+
+4.20
+
+256 vergelijkbaar adj comparable
+
+• Is dit vergelijkbaar met de situatie in andere Europese landen?
+
+3.99
+
+257 grondwet noun, de constitution
+
+• De handhaving van mensenrechten is in de grondwet verankerd.
+
+3.31
+
+258 minderheid noun, de(f) minority
+
+• Een minderheid van de mensen in mijn directe omgeving is niet in voetbal geïnteresseerd.
+
+3.21
+
+259 hanteren verb to employ
+
+• Sommige luchtvaartmaatschappijen hanteren andere bagageregels dan wij.
+
+4.28
+
+260 industrie noun, de(f) industry
+
+• De dienstensector en de industrie zijn de dominante sectoren.
+
+3.85
+
+261 aanzienlijk adj considerable
+
+• Een aanzienlijk deel van het personeel in deze sector is deeltijds aan de slag.
+
+4.82
+
+262 instituut noun, het institute
+
+• Het instituut is verbonden aan de Leidse université it.
+
+4.37
+
+263 omschrijven verb to describe
+
+• De situatie wordt inmiddels omschreven als gespannen doch kalm.
+
+4.48
+
+264 zuidelijk adj southern
+
+• De zuidelijke provincies krijgen nog veel sneeuw.
+
+2.97
+
+265 paus noun, de(m) pope
+
+• Die nieuwe paus heeft de naam Franciscus aangenomen.
+
+2.64
+
+266 indeling noun, de(f) division
+
+• De indeling van de klassen is te vinden op onze website.
+
+1.73
+
+267 categorie noun, de(f) category
+
+• Ongeveer 80% behoort tot de categorie van het onderwijzend personeel.
+
+4.30
+
+268 inzake prep concerning
+
+• Er is recentelijk sprake van een groeiende bewustwording inzake dit probleem.
+
+3.44
+
+269 Romeins adj Roman
+
+• Zwitserland – in de Romeinse tijd de provincie Helvetia – is een federatie van kantons.
+
+1.36
+
+270 frequentie noun, de(f) frequency
+
+• Deze commissie vergadert met een frequentie van ongeveer één vergadering per maand.
+
+1.80
+
+271 zot adj foolish
+
+• Zotte streken en apenkuren zijn ons niet vreemd.
+
+2.08
+
+272 liberaal adj liberal
+
+• Hij engageert zich in de liberale partij.
+
+3.91
+
+273 bijgevolg adv as a consequence
+
+• Ze beschikken bijgevolg niet over eigen personeel.
+
+2.35
+
+274 oceaan noun, de(m) ocean
+
+• Alex en Chris willen de oceaan oversteken per waterfiets.
+
+2.23
+
+275 overeenkomst noun, de(f) agreement
+
+• De voorwaarden en afspraken werden vastgelegd in overeenkomsten.
+
+4.98
+
+276 wettelijk adj legal
+
+• De meerderheid is tegen een wettelijke verplichting voor winterbanden.
+
+4.27
+
+277 festival noun, het festival
+
+• In de zomer ga ik ook graag naar festivals.
+
+4.46
+
+278 hoofdzakelijk adv mainly
+
+• Het leven is hoofdzakelijk wat je er zelf van maakt!
+
+2.28
+
+279 heden adv today
+
+• Vanaf heden wordt dit een vaste waarde.
+
+2.24
+
+280 muzikaal adj musical
+
+• Hij heeft maar weinig muzikaal talent.
+
+4.44
+
+281 decennium noun, het decade
+
+• Wij zijn de voorbije decennia aardig verwend geraakt.
+
+4.32
+
+282 factor noun, de(m) factor
+
+• Hier blijken konijnen dus de bepalende factor voor verjonging te zijn.
+
+3.97
+
+283 noordelijk adj northern
+
+• Na 1770 blijven ontginningen beperkt tot het meest noordelijke deel.
+
+2.68
+
+284 islamitisch adj Islamic
+
+• Turkije is een islamitisch land.
+
+4.30
+
+285 publicatie noun, de(f) publication
+
+• Eindnoten komen vooral in wetenschappelijke publicaties voor.
+
+3.49
+
+286 presentator noun, de(m) presenter
+
+• In de uitzending beval de presentator het pas verschenen boek aan.
+
+2.55
+
+287 variëren verb to vary
+
+• De bloem varieert van wit tot roze.
+
+3.20
+
+288 gelijk conj just as
+
+• Het is gelijk ik zei.
+
+2.02
+
+289 uitbreiding noun, de(f) expansion
+
+• Luxemburg is groot voorstander van de uitbreiding van de EU.
+
+4.84
+
+290 benaming noun, de(f) name
+
+• De oude benaming voor Sri Lanka is Ceylon.
+
+1.69
+
+291 lanceren verb to launch
+
+• Elk jaar lanceert de Vlaamse overheid een oproep om projectvoorstellen in te dienen.
+
+5.58
+
+292 dateren verb to date (from)
+
+• De foto dateert uit 1951.
+
+4.57
+
+293 introduceren verb to introduce
+
+• Tegelijk met deze program mering introduceert de radiozender een gloednieuwe stijl.
+
+2.84
+
+294 ex noun, de ex
+
+• Wat doe je als je je ex terug wilt?
+
+2.26
+
+295 tal noun, het number
+
+• De provincies en de gemeenten hebben op tal van plaatsen scholen opgericht.
+
+5.23
+
+296 posten verb to post
+
+• Ik heb dit echt niet gepost om een steek onder water te geven.
+
+1.37
+
+297 oprichting noun, de(f) foundation, establishment
+
+• Enkele maanden na de oprichting werd het bedrijfje gesloten.
+
+3.09
+
+298 oproep noun, de(m) call
+
+• Zo bevat haar pleidooi heel duidelijk een oproep om de uitkeringen te verhogen.
+
+4.74
+
+299 daadwerkelijk adj actual
+
+• Het komt nu aan op daadwerkelijke implementatie van deze wetgeving.
+
+3.11
+
+300 gewest noun, het region
+
+• Het Vlaamse gewest is volledig bevoegd voor de onroerende voorheffing.
+
+3.78
+
+301 eigendom noun, het property
+
+• Hiervoor was het nodig om de eigendommen van elke grondbezitter in kaart te brengen.
+
+3.75
+
+302 toekomstig adj future
+
+• Den Haag wordt zijn toekomstige woonplaats.
+
+4.58
+
+303 rubriek noun, de(f) section
+
+• Meer informatie vind je onder de rubriek toernooien op onze website.
+
+2.42
+
+304 componist noun, de(m) composer
+
+• De Franse componist Henri Dutilleux is op 97-jarige leeftijd overleden in Parijs.
+
+2.56
+
+305 vertegenwoordiger noun, de(m) representative
+
+• De meeste ministeries hebben een eigen vertegenwoordiger op de ambassade.
+
+4.15
+
+306 uitgave noun, de a) expense b) edition
+
+• a) Andere uitgaven moeten gedekt kunnen worden met het persoonlijke inkomen.
+
+• b) Ik weet zeker dat de nieuwe uitgave in een grote behoefte voorziet.
+
+3.68
+
+307 regime noun, het regime
+
+• Met de verkiezingen kwam er een einde aan het militaire regime.
+
+3.56
+
+308 hierna adv after this
+
+• De hierna volgende opsomming geeft een bondig overzicht.
+
+1.58
+
+309 fenomeen noun, het phenomenon
+
+• Slaap-sms’en is een nieuw fenomeen onder jongeren.
+
+3.69
+
+310 racisme noun, het racism
+
+• Op deze school wordt streng opgetreden tegen uitingen van racisme.
+
+2.49
+
+311 kiezer noun, de(m) voter
+
+• Die parlementsleden vertegenwoordigen de kiezers!
+
+5.12
+
+312 toekennen verb to award
+
+• De onderscheiding wordt jaarlijks toegekend aan personen die zich vrijwillig inzetten voor de stad.
+
+3.27
+
+313 deels adv partly
+
+• De boerderij bestaat deels uit grasland en deels uit akkers.
+
+3.80
+
+314 hieronder adv below
+
+• Het reizen naar de hieronder genoemde gebieden wordt ontraden.
+
+1.43
+
+315 verwant adj related
+
+• Het gilde is een ontmoetingsplek van verwante geesten.
+
+1.74
+
+316 concept noun, het concept
+
+• Men bedacht ook een totaal nieuw concept voor licht, decor en grafiek.
+
+3.22
+
+317 zangeres noun, de(f) (female) singer
+
+• De beroemde zangeres is haar stem verloren en kan niet optreden.
+
+3.33
+
+318 engel noun, de(m) angel
+
+• Volgens de Bijbel waren in oorsprong alle engelen heilig.
+
+2.06
+
+319 vernoemen verb to name
+
+• Het eilandje is vernoemd naar de beroemde Spaanse ontdekkingsreiziger.
+
+1.63
+
+320 weeral adv again
+
+• Ik heb weeral iets bijgeleerd!
+
+1.31
+
+321 bevorderen verb to promote
+
+• Muntthee bevordert de eetlust.
+
+3.05
+
+322 voeding noun, de(f) nutrition, food
+
+• Om af te vallen zijn goede voeding en veel beweging noodzakelijk.
+
+2.44
+
+323 kus noun, de(m) kiss
+
+• Veel liefs en een dikke kus van je tante.
+
+1.96
+
+324 grondgebied noun, het territory
+
+• Het dorp Baarle bestaat uit 30 stukjes Nederlands en Belgisch grondgebied.
+
+2.94
+
+325 privé adj private
+
+• Wat je thuis doet, is privé, daar heeft niemand iets mee te maken.
+
+1.89
+
+326 hedendaags adj contemporary
+
+• De auteurs schreven een nieuwe kinderbijbel in hedendaagse taal.
+
+3.51
+
+327 allochtoon noun, de immigrant
+
+• ledere allochtoon moet wel perspectief worden geboden.
+
+3.23
+
+328 alternatief adj alternative
+
+• Met de auto kan je eventueel ook nog een alternatieve route nemen.
+
+3.21
+
+329 werkzaam adj active
+
+• Heb je de werkzame stoffen laten onderzoeken?
+
+2.50
+
+330 efficiënt adj efficient
+
+• Een omheining is de meest efficiënte bescherming.
+
+3.68
+
+331 socialistisch adj socialist
+
+• Hij groeide op in een socialistisch milieu.
+
+2.94
+
+332 beu adj tired
+
+• Ik ben het geknoei met de site meer dan beu.
+
+2.59
+
+333 stam noun, de(m) trunk
+
+• Het aandeel bomen met waterscheuten op de stam is laag en stabiel.
+
+2.07
+
+334 gelijknamig adj of the same name
+
+• De geschiedenis van het Wijnendalebos is verbonden met het gelijknamige kasteel en zijn bewoners.
+
+2.56
+
+335 wetenschapper noun, de(m) scientist, scholar
+
+• Op 1 maart stelden de wetenschappers hun eindrapport voor.
+
+3.74
+
+336 EU noun, de(f) EU
+
+• De EU is een vrije markt voor goederen, diensten, arbeid en kapitaal.
+
+4.29
+
+337 mailen verb to mail, to post
+
+• Als je graag meer weet over deze verkiezing, mail me dan gewoon.
+
+1.85
+
+338 chemisch adj chemical
+
+• Liefde is nog steeds een chemische reactie die in de hersenen plaatsvindt.
+
+2.51
+
+339 bevalling noun, de(f) delivery
+
+• De bevalling is heel vlot verlopen.
+
+1.76
+
+340 gebruiker noun, de(m) user
+
+• Er wordt per gebruiker een budget bepaald.
+
+3.04
+
+341 werkloosheid noun, de(f) unemployment
+
+• In alle drie de landen is de werkloosheid gedaald!
+
+2.87
+
+342 ontwerp noun, het design
+
+• De architect maakt een nieuw ontwerp voor de benedenverdieping.
+
+3.49
+
+343 aanhalen verb to pull in, to tighten
+
+• De zakelijke relaties tussen China en Nederland zijn de laatste tijd flink aangehaald.
+
+1.81
+
+344 splitsen verb to split
+
+• De Nederlandse politiek weigert banken te splitsen.
+
+1.69
+
+345 congres noun, het congress
+
+• De themakeuze voor het tweede congres lag voor de hand.
+
+2.97
+
+346 nationaliteit noun, de(f) nationality
+
+• Nu hij de Nederlandse nationaliteit heeft, mag hij uitkomen voor het Nederlands elftal.
+
+2.61
+
+347 gewoonweg adv simply
+
+• Sommige gebeurtenissen heb je gewoonweg niet in de hand.
+
+1.52
+
+348 genaamd adj called
+
+• Kroatië heeft een unicameraal parlement genaamd de Sabor.
+
+1.34
+
+349 bijdragen verb to contribute
+
+• Iedereen kan bijdragen aan het lied.
+
+3.38
+
+350 natie noun, de(f) nation
+
+• De grondwet gaat uit van de eenheid van de natie.
+
+3.16
+
+351 constructie noun, de(f) construction
+
+• Het bestaande dak wordt verstevigd met een nieuwe constructie.
+
+2.71
+
+352 socialist noun, de(m) socialist
+
+• Vandaar dat ik niet meer de linkse socialist ben die ik vroeger was.
+
+2.77
+
+353 anno prep anno, in the year
+
+• Wat doet de woningmarkt anno 2013 in Frankrijk, Spanje en Italië?
+
+1.93
+
+354 racistisch adj racist
+
+• Racistische opmerkingen worden niet getolereerd.
+
+2.22
+
+355 beperking noun, de(f) restriction
+
+• Met dit abonnement kun je internetten zonder beperking.
+
+2.96
+
+356 gram noun, het gram
+
+• Want hoe vettig en hoeveel ik ook eet, er komt geen gram bij.
+
+2.68
+
+357 netjes adv neat(ly)
+
+• Wie ruimt alles netjes op?
+
+2.94
+
+358 complex adj complex
+
+• Mensen zijn complexe wezens.
+
+2.87
+
+359 thans adv at present, now
+
+• De gezondheidssector leidt thans een moeizaam bestaan.
+
+1.78
+
+360 downloaden verb to download
+
+• Welke film was je aan het downloaden?
+
+1.72
+
+361 vooraleer conj before
+
+• Velen hebben de reflex om het aantal bladzijden te tellen vooraleer ze beginnen te studeren.
+
+3.20
+
+362 discriminatie noun, de(f) discrimination
+
+• ledereen heeft zonder discriminatie aanspraak op gelijke bescherming door de wet.
+
+2.22
+
+363 samenstelling noun, de(f) composition
+
+• De samenstelling van die kometen is niet altijd hetzelfde.
+
+2.47
+
+364 wielrenner noun, de(m) cyclist
+
+• Hij stopte op 35-jarige leeftijd als wielrenner
+
+2.15
+
+365 aanhanger noun, de(m) adherent
+
+• Ik ben een aanhanger van de evolutietheorie.
+
+2.72
+
+366 actrice noun, de(f) actress
+
+• De 24-jarige actrice speelt een mooie rol.
+
+3.23
+
+367 resulteren verb to result
+
+• Dit resulteert in een voordeel voor beide partijen.
+
+2.44
+
+368 toegankelijk adj accessible
+
+• Het is een vlot bereikbare en goed toegankelijke plaats.
+
+3.82
+
+369 integratie noun, de(f) integration
+
+• Dat lijkt me iets wat de integratie bevordert.
+
+3.30
+
+370 insect noun, het insect
+
+• Het stuifmeel van rozen wordt door insecten verspreid.
+
+1.50
+
+371 conservatief adj conservative
+
+• Ook Bergoglio is een conservatieve paus.
+
+2.99
+
+372 doch conj but
+
+• Het verschil tussen bruin en wit brood is zeer gecompliceerd doch interessant.
+
+1.80
+
+373 radicaal adj radical
+
+• Alles gebeurt in een sfeertje van radicale geheimhouding.
+
+3.35
+
+374 wijziging noun, de(f) change
+
+• Er was een wijziging in het wedstrijdschema.
+
+2.52
+
+375 typen verb to type
+
+• Snel typte hij een berichtje.
+
+1.18
+
+376 bekendheid noun, de(f) fame
+
+• Zij gebruikt haar bekendheid om geld in te zamelen voor goede doelen.
+
+1.92
+
+377 administratief adj administrative
+
+• Als startende zelfstandige ondernemer heb je ook nood aan hulp op administratief vlak.
+
+3.77
+
+378 dialect noun, het dialect
+
+• Wat vind jij het leukste dialect in Vlaanderen?
+
+1.45
+
+379 hervorming noun, de(f) reform
+
+• De grootscheepse hervorming van de jeugdzorg moet de hulpverlening stroomlijnen.
+
+2.99
+
+380 derhalve adv therefore
+
+• Cyprus heeft geen eigen energiebronnen en is derhalve volledig aangewezen op de import van energie.
+
+1.38
+
+381 deelname noun, de participation
+
+• Het Nederlandse team plaatste zich voor deelname aan het EK.
+
+3.85
+
+382 percentage noun, het percentage
+
+• Het percentage leerlingen dat slaagt neemt langzaam toe.
+
+2.74
+
+383 favoriet noun, de(m) favourite
+
+• Dit liedje hoort absoluut bij mijn favorieten.
+
+3.53
+
+15 Weather
+
+Nouns
+
+zon 9.13 sun
+
+wind 7.64 wind
+
+graad 4.98 degree
+
+regen 4.41 rain
+
+temperatuur 4.10 temperature
+
+wolk 3.00 cloud
+
+storm 2.57 storm
+
+sneeuw 2.41 snow
+
+hitte 2.15 heat
+
+bui 2.02 shower, rain
+
+vorst 1.62 frost
+
+mist 1.35 fog
+
+Verbs
+
+regenen 3.08 to rain
+
+waaien 2.17 to blow/to be windy
+
+stormen 1.00 to be stormy
+
+donderen 0.85 to thunder
+
+
+
+384 erkenning noun, de(f) recognition
+
+• Ik hoop dat ze ooit de erkenning krijgt die ze al jaren verdient.
+
+2.80
+
+385 liberaal noun, de(m) liberal
+
+• Franstalige liberalen dwingen de regering tot aftreden.
+
+2.66
+
+386 exdusief adj exclusive
+
+• Zij kochten een exclusief penthouse in het centrum van de stad.
+
+3.34
+
+387 reportage noun, de(f) report
+
+• Plots worden er reportages en interviews in tijdschriften gezet.
+
+2.76
+
+388 definiëren verb to define
+
+• Hij definieerde welvaart als alles waar mensen nu en in de toekomst, waar ook ter wereld, behoefte aan hebben.
+
+1.40
+
+389 realistisch adj realistic
+
+• Het is prettig als mensen een realistisch wereldbeeld hebben.
+
+3.02
+
+390 weergeven verb to represent
+
+• De tabel geeft de groei van de economie weer.
+
+1.62
+
+391 ideologie noun, de(f) ideology
+
+• Ideologieën kunnen zich specifiek toespitsen op een bepaald aspect van de samenleving.
+
+1.55
+
+392 Christendom noun, het Christianity
+
+• Het Christendom is een monotheïstische godsdienst.
+
+1.50
+
+393 kolonie noun, de(f) colony
+
+• Namibië is van 1884 tot 1915 een Duitse kolonie geweest.
+
+1.53
+
+394 aanpassing noun, de(f) adjustment
+
+• De minister heeft enkele aanpassingen in de wet voorgesteld.
+
+3.41
+
+395 misbruik noun, het abuse
+
+• Soms maakt men misbruik van haar vertrouwen.
+
+3.15
+
+396 beheren verb to manage
+
+• Hij beheert het familiekapitaal.
+
+2.73
+
+397 matigen verb to moderate
+
+• De overheid wil graag dat de banken hun lonen matigen.
+
+1.90
+
+398 technologie noun, de(f) technology
+
+• Er wordt aandacht geschonken aan het ontwikkelen van nieuwe technologieën.
+
+2.48
+
+399 solidariteit noun, de(f) solidarity
+
+• De vele blijken van solidariteit deden de familie goed.
+
+2.34
+
+400 dj noun, de(m) disc jockey
+
+• Ik ben zelf dj, vaak bezig met club en trance.
+
+2.01
+
+401 mensheid noun, de(f) humankind
+
+• De mensheid is heel wat ouder dan gedacht.
+
+1.75
+
+402 interpreteren verb to interpret
+
+• Door één woord verkeerd te interpreteren ging de hele vertaling de mist in.
+
+1.63
+
+403 wiskunde noun, de(f) mathematics
+
+• De een is goed in wiskunde, de ander goed in talen.
+
+1.52
+
+404 goesting noun, de(f) fancy
+
+• Het programma is veel te commercieel naar mijn goesting.
+
+1.31
+
+405 schatting noun, de(f) estimate
+
+• Naar schatting gaan 350.000 Belgen op vakantie.
+
+3.37
+
+406 criterium noun, het criterion
+
+• Veiligheid is niet het enige criterium in de luchtvaart.
+
+3.03
+
+407 verkrijgbaar adj available
+
+• De app is vanaf volgende week verkrijgbaar.
+
+2.33
+
+408 doelgroep noun, de target group
+
+• Voor elke doelgroep zijn er specifieke noden en aandachtspunten.
+
+2.03
+
+409 data noun, pi data
+
+• De analyse heeft als doel eventuele trends in de data visueel voor te stellen.
+
+1.45
+
+410 elektronisch adj electronic
+
+• Het is beter voor het milieu om oude elektronische apparaten in te leveren.
+
+3.12
+
+411 zaad noun, het seed
+
+• De plant is altijd in staat om zaden te produceren.
+
+1.48
+
+412 westelijk adj west, western
+
+• Het westelijk deel van de stad is een groot en rommelig opgezet bedrijventerrein.
+
+1.56
+
+413 burgeroorlog noun, de(m) civil war
+
+• In 2002 kwam er een einde aan de burgeroorlog.
+
+1.98
+
+414 oostelijk adj east, eastern
+
+• Het oostelijke deel krijgt de bestemming openbaar wandelbos.
+
+1.53
+
+415 extern adj external
+
+• Er zijn veel externe factoren die meespelen.
+
+2.14
+
+416 allochtoon adj foreign
+
+• In mijn vorige job als leerkracht had ik heel wat leerlingen van allochtone afkomst.
+
+3.05
+
+417 promoveren verb a) to obtain one’s doctoral degree b) to be promoted
+
+• a) In 2007 promoveerde hij tot doctor in de rechten.
+
+• b) Een team kan promoveren of degraderen.
+
+2.46
+
+418 verspreiding noun, de(f) spread
+
+• De verspreiding van deze soort is zeer slecht gekend.
+
+1.60
+
+419 populariteit noun, de(f) popularity
+
+• Zijn populariteit zou decennia lang zeer groot blijven.
+
+2.36
+
+420 verdeling noun, de(f) division
+
+• De verdeling over de verschillende richtingen is opvallend.
+
+2.02
+
+421 strategie noun, de(f) strategy
+
+• Zijn strategie was erop gericht om ze tegen elkaar uit te spelen.
+
+3.04
+
+422 impact noun, de(m) impact
+
+• Werk heeft een behoorlijke impact op uw dagelijkse leven.
+
+2.43
+
+423 verbod noun, het ban, prohibition
+
+• Het verbod op mobiele telefoons in de klas moet volgend schooljaar van kracht worden.
+
+3.08
+
+424 nazi noun, de Nazi
+
+• Een nazi is een aanhanger van het nationaalsocialisme.
+
+1.47
+
+425 stabiel adj stable
+
+• In een stabiele situatie is alles onder controle en is er rust aan boord.
+
+2.66
+
+426 verwijzing noun, de(f) reference
+
+• In de tekst zijn verwijzingen naar andere hoofdstukken opgenomen.
+
+2.38
+
+427 ligging noun, de(f) location
+
+• Het vakantiedorp geniet een uitgelezen ligging te midden van de natuur.
+
+1.53
+
+428 achterlijk adj backward
+
+• Ik vind je nog steeds een achterlijk kalf.
+
+1.20
+
+429 besturen verb to drive
+
+• Met een rijbewijs B mag u een auto besturen van maximaal 3500 kg.
+
+3.04
+
+430 opkomst noun, de(f) turnout
+
+• Ondanks de lage opkomst kan de uitslag als positief worden gezien.
+
+2.72
+
+431 crimineel noun, de(m) criminal
+
+• Zijn carrière als kleine crimineel leidde uiteindeiijk tot een veroordeling van drie jaar.
+
+2.64
+
+432 promoten verb to promote
+
+• De regeringen moeten openbaar vervoer promoten en de prijzen verlagen.
+
+2.57
+
+433 gen noun, het gene
+
+• Jongens doen stoer omdat het gewoon in hun genen zit.
+
+1.42
+
+434 hernemen verb to resume
+
+• We hernemen deze onderwerpen hier niet, omdat dit weinig meerwaarde zou bieden.
+
+1.44
+
+435 beheer noun, het management
+
+• De goede ziekenhuizen zijn in particulier beheer.
+
+2.18
+
+436 hoofdrol noun, de leading role
+
+• Dirk speelt een hoofdrol in dat boek.
+
+3.18
+
+437 financiën noun, pl finance(s)
+
+• In mei verscheen het eerste rapport over de financiën van de Vlaamse gemeenten.
+
+3.10
+
+438 wielrennen noun, het cycle racing
+
+• De grote sporten zullen waarschijnlijk altijd voetbal en wielrennen blijven.
+
+2.43
+
+439 vorming noun, de(f) formation, training
+
+• De school dient voor je vorming zodat jij later je eigen boontjes kan doppen.
+
+2.23
+
+440 opstarten verb to start (up)
+
+• Ik wou hier ook een topic opstarten.
+
+2.35
+
+441 bewind noun, het government, regime
+
+• Het militaire bewind faalde op economisch gebied.
+
+1.95
+
+442 documentaire noun, de(m) documentary
+
+• Een Duitse televisiezender maakte vorige week een documentaire over de hele historie.
+
+3.08
+
+443 content adj content
+
+• Ik keek alsof ik een contente man was.
+
+1.21
+
+444 capaciteit noun, de(f) capability
+
+• Gaan de mensen mij beoordelen op mijn capaciteiten of op mijn uiterlijk?
+
+2.67
+
+445 structureel adj structural
+
+• Zij zoeken naar structurele oplossingen en maatregelen in de armoedebestrijding.
+
+2.49
+
+446 song noun, de(m) song
+
+• Wat klinkt die song toch lekkerl
+
+2.15
+
+447 oprichter noun, de(m) founder
+
+• Portugal is een van de oprichters van de NAVO.
+
+1.81
+
+448 bestuurlijk adj administrative
+
+• Het land is ingedeeld in zeven bestuurlijke regio’s.
+
+1.74
+
+449 gelijkaardig adj similar
+
+• Is er iemand die zich een hemel of iets gelijkaardigs kan voorstellen?
+
+2.57
+
+450 welzijn noun, het welfare
+
+• Geestelijk en emotioneel welzijn dienen aandacht te krijgen.
+
+2.21
+
+451 regulier adj regular
+
+• In oktober hebben er reguliere parlementsverkiezingen plaatsgevonden.
+
+1.90
+
+452 simpelweg adv simply
+
+• Ik word er simpelweg gek van!
+
+1.85
+
+453 fusie noun, de(f) merger
+
+• De organisatie is ontstaan uit een fusie.
+
+3.08
+
+454 gouverneur noun, de(m) governor
+
+• De gouverneurs van de deelstaten worden in India benoemd door de president.
+
+2.61
+
+455 inspiratie noun, de(f) inspiration
+
+• Waar haalt hij telkens de inspiratie om zulke boeken te schrijven.
+
+2.14
+
+456 levend adj living, alive
+
+• We zijn altijd omringd met verschillende levende wezens.
+
+1.24
+
+457 eender adj (the) same
+
+• Op de schoorsteenmantel staan twee eendere vazen.
+
+1.15
+
+458 mix noun, de(m) mix
+
+• Een gezonde mix van beide is belangrijk denk ik.
+
+2.41
+
+459 irritant adj irritating
+
+• Nagelbijten is een irritante gewoonte.
+
+1.20
+
+460 Arabisch adj Arabic
+
+• De tafel is beplakt met pagina’s uit Chinese, Japanse en Arabische kranten.
+
+2.75
+
+461 etnisch adj ethnic
+
+• De pers heeft weinig oog voor de diversiteit binnen de etnische minderheden.
+
+1.92
+
+462 misbruiken verb to abuse
+
+• Uiteraard mag je de vertrouwelijke informatie niet misbruiken.
+
+2.21
+
+463 historie noun, de(f) history
+
+• India kent een oude en rijke historie.
+
+1.33
+
+464 domineren verb to dominate
+
+• Kleinere tot middelgrote ondernemingen domineren de branche.
+
+3.09
+
+465 schadelijk adj harmful
+
+• Roken is schadelijk voor de gezondheid.
+
+1.94
+
+466 nutteloos adj useless
+
+• Dit artikel bevat nutteloze informatie.
+
+1.32
+
+467 hieraan adv to this
+
+• Wie heeft er nog zo’n ervaring en wat hebben jullie hieraan gedaan?
+
+1.30
+
+468 slaaf noun, de(m) slave
+
+• Om te voorzien in de behoefte aan arbeidskrachten werden slaven geïmporteerd uit Afrika.
+
+1.21
+
+469 debuut noun, het debut
+
+• Het nieuwe album is het beste sinds hun debuut.
+
+2.98
+
+470 legendarisch adj legendary
+
+• De artiest geeft tekst en uitleg bij de klassiekers van dat legendarisch album.
+
+2.60
+
+471 ’s morgens adv in the morning
+
+• Vorige week vertrok ik’s morgens van huis naar mijn werk.
+
+2.54
+
+472 uitreiken verb to present
+
+• De felbegeerde awards worden uitgereikt aan nationale en internationale artiesten.
+
+2.38
+
+473 parlementair adj parliamentary
+
+• De regering zou belast worden met het organiseren van parlementaire verkiezingen.
+
+2.34
+
+474 vaststelling noun, de(f) conclusion
+
+• Een opvallende vaststelling is dat mensen met een verstandelijke beperking zich gelukkiger voelen dan mensen met een fysieke beperking.
+
+2.70
+
+475 berucht adj notorious
+
+• Het gaat hier om beruchte cafés in Antwerpen.
+
+2.33
+
+476 referendum noun, het referendum
+
+• Per referendum is een nieuwe grondwet aangenomen.
+
+1.92
+
+477 crimineel adj criminal
+
+• Er is een hoop geld gemoeid met die criminele organisaties.
+
+2.38
+
+478 volwaardig adj full
+
+• Als hij als volwaardige leerling wordt aanvaard, mag hij ook zijn examens afleggen.
+
+2.24
+
+479 strategisch adj strategic
+
+• Hij voert hierbij historische en strategische motieven aan.
+
+2.44
+
+480 kartel noun, het cartel
+
+• Het progressieve kartel kan niet profiteren van het communautaire geruzie.
+
+2.59
+
+481 toerisme noun, het tourism
+
+• Een belangrijke bron van inkomsten is het toerisme.
+
+2.50
+
+482 soortgelijk adj similar
+
+• Ik heb zelf in een soortgelijke situatie gezeten.
+
+2.05
+
+483 verhoging noun, de(f) increase
+
+• Het is belangrijk om te streven naar een verhoging van de kennis.
+
+2.14
+
+484 infrastructuur noun, de(f) infrastructure
+
+• De infrastructuur is zowel kwalitatief als kwantitatief goed.
+
+2.60
+
+485 comité noun, het committee
+
+• Een internationaal comité zal waken over de uitvoering van het verdrag.
+
+2.59
+
+486 bestempelen verb to label
+
+• De sector kan bestempeld worden als vrij arbeidsintensief.
+
+1.86
+
+487 criminaliteit noun, de(f) criminality
+
+• Drugs blijven in het hele land zorgen voor instabiliteit en criminaliteit.
+
+2.22
+
+488 toename noun, de increase
+
+• De toename van het gebruik van het openbaar vervoer leidt ook tot enkele problemen.
+
+2.46
+
+489 doorbraak noun, de breakthrough
+
+• De grote doorbraak kwam in 2007 en 2008.
+
+2.45
+
+490 brandstof noun, de fuel
+
+• Olie is de belangrijkste brandstof.
+
+1.71
+
+491 fiscaal adj fiscal
+
+• De nieuwe regeling is fiscaal zeker gunstig.
+
+2.68
+
+492 federatie noun, de(f) federation
+
+• De federatie was een los samenwerkingsverband waarvan de leden hun eigen gang gingen.
+
+1.94
+
+493 historicus noun, de(m) historian
+
+• In de geschriften van de historicus Herodotus lees je beschrijvingen van kannibalen.
+
+1.75
+
+494 klassieker noun, de(m) classic
+
+• Zaterdag staat de klassieker tussen Ajax en Feyenoord weer op het programma.
+
+2.33
+
+495 drastisch adj drastic
+
+• Het wordt tijd voor drastische maatregelen.
+
+2.32
+
+496 hip adj fancy
+
+• Ik hou wel van een beetje hippe kleding op van die grote dancefeesten.
+
+1.94
+
+497 groepering noun, de(f) group, grouping
+
+• De kerk is jammer genoeg nog steeds verdeeld in verschillende groeperingen.
+
+1.65
+
+498 tempel noun, de(m) temple
+
+• Ik zou wel eens de tempels op de Akropolis in Griekenland willen zien.
+
+1.24
+
+499 fabrikant noun, de(m) manufacturer
+
+• De vrouw klaagt de fabrikant van de magnetron aan.
+
+2.28
+
+500 elite noun, de elite
+
+• Ik hoef niet zo nodig tot de elite te behoren.
+
+2.48
+
+501 prominent adj prominent
+
+• De centrale overheid speelde hierbij een prominente rol.
+
+2.30
+
+502 volwassene noun, de adult
+
+• Een kind onder de 12 jaar rijdt gratis mits er een volwassene betaalt.
+
+2.35
+
+503 subsidiëren verb to subsidize
+
+• Initiatieven voor buitenschoolse opvang worden door verschillende instanties gesubsidieerd.
+
+1.88
+
+504 slogan noun, de(m) slogan
+
+• Dat is een slogan waar veel waarheid in zit.
+
+2.07
+
+505 onterecht adj unfair, undeserved
+
+• Hij baalt van de onterechte rode kaart en penalty.
+
+2.20
+
+506 column noun, de(m) column
+
+• De tweemaandelijkse nieuwsbrief bevat ook telkens een column.
+
+1.69
+
+507 peiling noun, de(f) poll
+
+• Hij wordt met de dag bekender en stijgt in peilingen als een raket.
+
+2.25
+
+508 lening noun, de(f) loan
+
+• Deze lening heeft een looptijd van 10 of 25 jaar.
+
+2.28
+
+509 buurland noun, het neighbouring country
+
+• De relatie met de buurlanden is sinds 2002 verbeterd.
+
+1.95
+
+510 eenzijdig adj unilateral, one-sided
+
+• Tot een eenzijdige wapenstilstand heeft men vooralsnog niet besloten.
+
+1.68
+
+511 arbeidsmarkt noun, de labour market
+
+• Het duurt enige tijd eer mensen hun plaats krijgen op de arbeidsmarkt.
+
+2.27
+
+512 ongelovig adj unbelieving
+
+• Keer op keer blijkt uit onderzoek dat gelovige mensen gelukkiger zijn dan ongelovige mensen.
+
+1.12
+
+513 werkgelegenheid noun, de(f) employment
+
+• De dienstensector is de belangrijkste bron van nieuwe werkgelegenheid.
+
+2.05
+
+514 corruptie noun, de(f) corruption
+
+• Het tegengaan van corruptie is een van de speerpunten van het beleid van de Wereldbank.
+
+2.28
+
+515 betaalbaar adj affordable
+
+• Het is voor jongeren steeds moeilijker om betaalbare huisvesting te vinden.
+
+2.08
+
+516 benoeming noun, de(f) appointment
+
+• De stemming over de benoeming van de nieuwe directeur is uitgesteld.
+
+1.77
+
+517 parlementslid noun, het member of parliament
+
+• De sprekers beantwoorden concrete vragen van de parlementsleden.
+
+2.20
+
+518 dumpen verb to dump
+
+• Wie heeft al eens een lief moeten dumpen vanwege de ouders?
+
+1.58
+
+519 senator noun, de(m) senator
+
+• Van 1949 tot zijn dood was hij liberaal senator voor Brussel.
+
+1.85
+
+520 vermeend adj supposed
+
+• De vermeende dader had zo’n uitlatingen niet mogen doen.
+
+2.24
+
+521 grootschalig adj large-scale
+
+• Men kondigt een grootschalige reclamecampagne aan die de bekendheid van beide radiostations moet vergroten.
+
+2.09
+
+522 moskee noun, de(f) mosque
+
+• In principe kan een moslim in iedere moskee aan het gebed deelnemen.
+
+1.74
+
+523 bundelen verb to bundle
+
+• Dit boek bundelt alle actuele kennis over kwaliteitsvolle kinderopvang.
+
+2.03
+
+
+
